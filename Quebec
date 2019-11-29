@@ -11,8 +11,7 @@ http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11506
 
 
 #EXTINF:0,-ASSEMBLEE NATIONALE
- 
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11470
+ http://iptv6.premium-stv.com:25461/live/sourcecanadapro1/4042848025/613.m3u8
 
 #EXTINF:0,CANAL D 
 
@@ -20,12 +19,12 @@ http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11505
 #EXTINF:0,CANAL VIE 
 
 http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11480
-#EXTINF:0,-CANAL SAVOIR http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/8037
-#EXTINF:0,-CASA http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11503
+#EXTINF:0,*CANAL SAVOIR http://iptv6.premium-stv.com:25461/live/sourcecanadapro1/4042848025/601.m3u8
+#EXTINF:0,*CASA http://iptv6.premium-stv.com:25461/live/sourcecanadapro1/4042848025/599.m3u8
 #EXTINF:0,CINEPOP 
 http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11501
-#EXTINF:0,CPAC 
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11500
+#EXTINF:0,-CPAC 
+http://iptv6.premium-stv.com:25461/live/sourcecanadapro1/4042848025/559.m3u8
 #EXTINF:0,DISNEY
  http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/2745
 #EXTINF:0,Elle Fiction
@@ -37,21 +36,21 @@ http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11540
 #EXTINF:0,FRISSON 
 
 http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/18461
-#EXTINF:0,-HISTORIA http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11475
+#EXTINF:0,*HISTORIA http://iptv6.premium-stv.com:25461/live/sourcecanadapro1/4042848025/495.m3u8
 #EXTINF:0,ICI RDI 
 
 http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11492
 #EXTINF:0,ICI MONTREAL
  
 http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/2744
-#EXTINF:0,-ICI VANCOUVER http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11474
-#EXTINF:0,INVESTIGATION http://nosurrender.live:8080/5WkwInCd2V/5SEEzyUvQo/70607
+#EXTINF:0,-ICI VANCOUVER http://iptv6.premium-stv.com:25461/live/sourcecanadapro1/4042848025/490.m3u8
+#EXTINF:0,*INVESTIGATION http://nosurrender.live:8080/5WkwInCd2V/5SEEzyUvQo/70607
 #EXTINF:0,LCN 
 http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11499
 #EXTINF:0,MAX
  
 http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11495
-#EXTINF:0,-METEOMEDIA http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11497
+#EXTINF:0,*METEOMEDIA http://iptv6.premium-stv.com:25461/live/sourcecanadapro1/4042848025/476.m3u8
 #EXTINF:0,MOI ET CIE 
 
 http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11496
@@ -90,8 +89,7 @@ http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11485
 #EXTINF:0,TELE QUEBEC 
 
 http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/2730
-#EXTINF:0,-TELETOON 
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/2743
+#EXTINF:0,-TELETOON http://iptv6.premium-stv.com:25461/live/sourcecanadapro1/4042848025/388.m3u8
 
 #EXTINF:0,TELEMAGINO 
 http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11498
@@ -99,17 +97,17 @@ http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11498
 
 #EXTINF:0,TFO 
 http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11539
-#EXTINF:0,TV5 http://extremo.dyndns.ws:25461/Alexis/Alexis/9855
+#EXTINF:0,*TV5 http://iptv6.premium-stv.com:25461/live/sourcecanadapro1/4042848025/369.m3u8
 #EXTINF:0,TVA GATINEAU 
 http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/368
-#EXTINF:0,-TVA MONTREAL http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11482
+#EXTINF:0,*TVA MONTREAL http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11482
 #EXTINF:0,TVA SPORT 
 http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/366
 #EXTINF:0,UNIS TV 
 
 http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/10574
 #EXTINF:0,-V TELE 
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/2740
+http://iptv6.premium-stv.com:25461/live/sourcecanadapro1/4042848025/361.m3u8
 #EXTINF:0,VRAK TV 
 http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11479
 
@@ -118,4 +116,4 @@ http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11478
 #EXTINF:0,ZESTE
  
 http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11476
-#EXTINF:0,-Z TELE http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11477
+#EXTINF:0,-Z TELE http://iptv6.premium-stv.com:25461/live/sourcecanadapro1/4042848025/349.m3u8
