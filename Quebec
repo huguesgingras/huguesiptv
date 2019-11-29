@@ -134,3 +134,16 @@ http://iptv6.premium-stv.com:25461/live/sourcecanadapro1/4042848025/599.m3u8
 http://iptv6.premium-stv.com:25461/live/sourcecanadapro1/4042848025/603.m3u8
 #EXTINF:-1,AMC
 http://iptv6.premium-stv.com:25461/live/sourcecanadapro1/4042848025/619.m3u8
+
+#EXTINF:-1,|FR| FRANCE 3 FHD
+http://iptv7.premium-stv.com:25461/GENERALCHA/6535709495/4
+#EXTINF:-1,M6 FHD
+http://iptv7.premium-stv.com:25461/GENERALCHA/6535709495/7
+#EXTINF:-1,TMC FHD
+http://iptv7.premium-stv.com:25461/GENERALCHA/6535709495/10
+#EXTINF:-1,W9 HD
+http://iptv7.premium-stv.com:25461/GENERALCHA/6535709495/11
+#EXTINF:-1,TF1 HD
+http://iptv7.premium-stv.com:25461/GENERALCHA/6535709495/13
+#EXTINF:-1,EQUIPE21
+http://iptv7.premium-stv.com:25461/GENERALCHA/6535709495/15
