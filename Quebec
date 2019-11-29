@@ -1,451 +1,121 @@
 #EXTM3U
-#EXTINF:-1,alliptvlinks.com |CA| TVA MONTREAL
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11482
-#EXTINF:-1,alliptvlinks.com |CA| VRAK TV
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11479
-#EXTINF:-1,alliptvlinks.com |CA| VTELE HD
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/2740
-#EXTINF:-1,alliptvlinks.com |CA| ADDIK TV
+#EXTINF:0,ADDIK TV
+ 
 http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11507
-#EXTINF:-1,alliptvlinks.com |CA| ARTV
+#EXTINF:0,-AMI TELE
+ 
+http://mundo2tv.xyz:25461/Lolo/Lolo/8385
+#EXTINF:0,ARTV
+ 
 http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11506
-#EXTINF:-1,alliptvlinks.com |CA| ASSEMBLEE NATIONALE
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11097
-#EXTINF:-1,alliptvlinks.com |CA| CANAL D HD
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11505
-#EXTINF:-1,alliptvlinks.com |CA| CANAL SAVOIR
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11504
-#EXTINF:-1,alliptvlinks.com |CA| CANAL VIE
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11480
-#EXTINF:-1,alliptvlinks.com |CA| CANALSAVOIR
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/8037
-#EXTINF:-1,alliptvlinks.com |CA| CASA
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11503
-#EXTINF:-1,alliptvlinks.com |CA| COOKING CHANNEL
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/12543
-#EXTINF:-1,alliptvlinks.com |CA| CPAC FRENCH
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11500
-#EXTINF:-1,alliptvlinks.com |CA| DISNEY FRENCH
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/2745
-#EXTINF:-1,alliptvlinks.com |CA| EVASION
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11540
-#EXTINF:-1,alliptvlinks.com |CA| HISTORIA
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11475
-#EXTINF:-1,alliptvlinks.com |CA| ICI MONTREAL
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/2744
-#EXTINF:-1,alliptvlinks.com |CA| ICI VANCOUVER
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11474
-#EXTINF:-1,alliptvlinks.com |CA| LCN
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11499
-#EXTINF:-1,alliptvlinks.com |CA| METEO
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11497
-#EXTINF:-1,alliptvlinks.com |CA| MOI & CIE
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11496
-#EXTINF:-1,alliptvlinks.com |CA| MUSIQUE PLUS
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11494
-#EXTINF:-1,alliptvlinks.com |CA| PRISE 2
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11493
-#EXTINF:-1,alliptvlinks.com |CA| RDI
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11492
-#EXTINF:-1,alliptvlinks.com |CA| RDS
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11491
-#EXTINF:-1,alliptvlinks.com |CA| RDS 2
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11490
-#EXTINF:-1,alliptvlinks.com |CA| RDS INFO
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11538
-#EXTINF:-1,alliptvlinks.com |CA| SERIES+
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11489
-#EXTINF:-1,alliptvlinks.com |CA| SPIKE TV
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/12469
-#EXTINF:-1,alliptvlinks.com |CA| SUPER ECRAN 1
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11488
-#EXTINF:-1,alliptvlinks.com |CA| SUPER ECRAN 2
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11487
-#EXTINF:-1,alliptvlinks.com |CA| SUPER ECRAN 3
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11486
-#EXTINF:-1,alliptvlinks.com |CA| SUPER ECRAN 4
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11485
-#EXTINF:-1,alliptvlinks.com |CA| FRISSONS
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/18461
-#EXTINF:-1,alliptvlinks.com |CA| CINEPOP
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11501
-#EXTINF:-1,alliptvlinks.com |CA| MAX
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11495
-#EXTINF:-1,alliptvlinks.com |CA| TELE QUEBEC
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/2730
-#EXTINF:-1,alliptvlinks.com |CA| TELEMAGINO
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11498
-#EXTINF:-1,alliptvlinks.com |CA| TELETOON
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/2743
-#EXTINF:-1,alliptvlinks.com |CA| TFO
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11539
-#EXTINF:-1,alliptvlinks.com |CA| TV5 QUEBEC
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11484
-#EXTINF:-1,alliptvlinks.com |CA| UNIS TV
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/10574
-#EXTINF:-1,alliptvlinks.com |CA| YOOPA
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11478
-#EXTINF:-1,alliptvlinks.com |CA| ZESTE
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11476
-#EXTINF:-1,alliptvlinks.com |CA| ZTELE
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11477
-#EXTINF:-1,alliptvlinks.com |CA|Assemblée Nationale Québec
+
+
+#EXTINF:0,-ASSEMBLEE NATIONALE
+ 
 http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11470
-#EXTINF:-1,alliptvlinks.com |CA|TV-Francophonie
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/8507
-#EXTINF:-1,alliptvlinks.com |CA| ALJALEYA TV
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/8044
-#EXTINF:-1,alliptvlinks.com |CA| MEDIASET ITALIACANADA
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/18106
-#EXTINF:-1,alliptvlinks.com |CA| CHCH
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/12563
-#EXTINF:-1,alliptvlinks.com |CA| BNN
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/12561
-#EXTINF:-1,alliptvlinks.com |CA| CBC NEWS
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/12558
-#EXTINF:-1,alliptvlinks.com |CA| CNBC  HD
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/12548
-#EXTINF:-1,alliptvlinks.com |CA| CNN
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/12547
-#EXTINF:-1,alliptvlinks.com |CA| CP24 HD
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/12540
-#EXTINF:-1,alliptvlinks.com |CA| CPAC
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/12539
-#EXTINF:-1,alliptvlinks.com |CA| CTV NEWS NETWORK
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/12536
-#EXTINF:-1,alliptvlinks.com |CA| FOX NEWS
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/12516
-#EXTINF:-1,alliptvlinks.com |CA| NBC EAST
-http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/460
-#EXTINF:-1,alliptvlinks.com |CA| NBC WEST
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/12485
-#EXTINF:-1,alliptvlinks.com |CA| THE WEATHER NETWORK
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/12461
-#EXTINF:-1,alliptvlinks.com |CA| BBC WORLD NEWS
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/21950
-#EXTINF:-1,alliptvlinks.com |CA| ABC SPARK
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/12572
-#EXTINF:-1,alliptvlinks.com |CA| ABC
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/12571
-#EXTINF:-1,alliptvlinks.com |CA| CBC MONTREAL
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11502
-#EXTINF:-1,alliptvlinks.com |CA| CBC TORONTO
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/12556
-#EXTINF:-1,alliptvlinks.com |CA| CBC VANCOUVER
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/12555
-#EXTINF:-1,alliptvlinks.com |CA| CBC CALGARY
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/21953
-#EXTINF:-1,alliptvlinks.com |CA| CBC NOVA SCOTIA
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/21955
-#EXTINF:-1,alliptvlinks.com |CA| CBS EAST
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/12554
-#EXTINF:-1,alliptvlinks.com |CA| CITY VANCOUVER
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/12550
-#EXTINF:-1,alliptvlinks.com |CA| CITY CALGARY
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/21956
-#EXTINF:-1,alliptvlinks.com |CA| CITY MONTREAL
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/21957
-#EXTINF:-1,alliptvlinks.com |CA| CITY TORONTO
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/21959
-#EXTINF:-1,alliptvlinks.com |CA| CMT CANADA
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/12549
-#EXTINF:-1,alliptvlinks.com |CA| CTV
-http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/553
-#EXTINF:-1,alliptvlinks.com |CA| CTV TORONTO
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11348
-#EXTINF:-1,alliptvlinks.com |CA| CTV VANCOUVER
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/12534
-#EXTINF:-1,alliptvlinks.com |CA| CTV BARRIE
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/21968
-#EXTINF:-1,alliptvlinks.com |CA| CTV CALGARY
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/21969
-#EXTINF:-1,alliptvlinks.com |CA| CTV EAST
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/21970
-#EXTINF:-1,alliptvlinks.com |CA| CTV HALIFAX
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/21971
-#EXTINF:-1,alliptvlinks.com |CA| CTV HD
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/21972
-#EXTINF:-1,alliptvlinks.com |CA| CTV MONTREAL
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/21973
-#EXTINF:-1,alliptvlinks.com |CA| CTV OTTAWA
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/21975
-#EXTINF:-1,alliptvlinks.com |CA| CTV 2 VANCOUVER
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/21967
-#EXTINF:-1,alliptvlinks.com |CA| CTV 2 OTTAWA
-http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/543
-#EXTINF:-1,alliptvlinks.com |CA| GLOBAL
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/12510
-#EXTINF:-1,alliptvlinks.com |CA| GLOBAL CALGARY
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/21995
-#EXTINF:-1,alliptvlinks.com |CA| GLOBAL EAST
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/21996
-#EXTINF:-1,alliptvlinks.com |CA| GLOBAL HALIFAX
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/21997
-#EXTINF:-1,alliptvlinks.com |CA| GLOBAL HD
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/21998
-#EXTINF:-1,alliptvlinks.com |CA| GLOBAL TORONTO
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/21999
-#EXTINF:-1,alliptvlinks.com |CA|  FAMILY HD
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/21948
-#EXTINF:-1,alliptvlinks.com |CA| FAMILY CHRGD
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/21981
-#EXTINF:-1,alliptvlinks.com |CA| FAMILY EAST
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/21982
-#EXTINF:-1,alliptvlinks.com |CA| FAMILY JR
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/21983
-#EXTINF:-1,alliptvlinks.com |CA| FAMILY WEST
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/21984
-#EXTINF:-1,alliptvlinks.com |CA| TSN 1HD
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/1963
-#EXTINF:-1,alliptvlinks.com |CA| TSN 2HD
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/17277
-#EXTINF:-1,alliptvlinks.com |CA| TSN  3HD
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/1965
-#EXTINF:-1,alliptvlinks.com |CA| TSN 4HD
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/1966
-#EXTINF:-1,alliptvlinks.com |CA| TSN 5HD
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/1967
-#EXTINF:-1,alliptvlinks.com |CA| MAV TV
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/18105
-#EXTINF:-1,alliptvlinks.com |CA| FIGHT NETWORK
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/21985
-#EXTINF:-1,alliptvlinks.com |CA| NBA TV
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/12487
-#EXTINF:-1,alliptvlinks.com |CA| MLB NETWORK
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/22010
-#EXTINF:-1,alliptvlinks.com |CA| WWE HD
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/18129
-#EXTINF:-1,alliptvlinks.com |CA| HBO
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/12504
-#EXTINF:-1,alliptvlinks.com |CA| HBO 1
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/22002
-#EXTINF:-1,alliptvlinks.com |CA| HBO 2
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/22003
-#EXTINF:-1,alliptvlinks.com |CA| HBO EAST
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/22004
-#EXTINF:-1,alliptvlinks.com |CA| MOVIETIME
-http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/469
-#EXTINF:-1,alliptvlinks.com |CA| ACTION
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/12570
-#EXTINF:-1,alliptvlinks.com |CA| AMC
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/12568
-#EXTINF:-1,alliptvlinks.com |CA| ENCORE 2 EAST
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/12522
-#EXTINF:-1,alliptvlinks.com |CA| LIFETIME
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/12496
-#EXTINF:-1,alliptvlinks.com |CA| SUPER CHANNEL 1
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/2742
-#EXTINF:-1,alliptvlinks.com |CA| SUPER CHANNEL 2
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/2728
-#EXTINF:-1,alliptvlinks.com |CA| SUPER CH HEART & HOME
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/18123
-#EXTINF:-1,alliptvlinks.com |CA| SUPER CHANNEL VAULT
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/12465
-#EXTINF:-1,alliptvlinks.com |CA| TMN 1
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/12460
-#EXTINF:-1,alliptvlinks.com |CA| TMN 2
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/12459
-#EXTINF:-1,alliptvlinks.com |CA| TMN 3
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/12458
-#EXTINF:-1,alliptvlinks.com |CA| TMN 4
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/12457
-#EXTINF:-1,alliptvlinks.com |CA| TCM
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/18125
-#EXTINF:-1,alliptvlinks.com |CA| SILVER SCREEN CLASSICS
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/18121
-#EXTINF:-1,alliptvlinks.com |CA| BET
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/21951
-#EXTINF:-1,alliptvlinks.com |CA| BOOK TV
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/21952
-#EXTINF:-1,alliptvlinks.com |CA| COMEDY EAST
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/21963
-#EXTINF:-1,alliptvlinks.com |CA| COMEDY HD
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/21964
-#EXTINF:-1,alliptvlinks.com |CA| COMEDY WEST
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/21965
-#EXTINF:-1,alliptvlinks.com |CA| CREATE
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/21966
-#EXTINF:-1,alliptvlinks.com |CA| CW 11 HD
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/21977
-#EXTINF:-1,alliptvlinks.com |CA| DEJAVIEW
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/21978
-#EXTINF:-1,alliptvlinks.com |CA| BBC KIDS
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/21949
-#EXTINF:-1,alliptvlinks.com |CA| DOCUMENTARY
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/21979
-#EXTINF:-1,alliptvlinks.com |CA| DTOUR
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/21980
-#EXTINF:-1,alliptvlinks.com |CA| FOOD NETWORK
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/21986
-#EXTINF:-1,alliptvlinks.com |CA| Food Network HD
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/21987
-#EXTINF:-1,alliptvlinks.com |CA| FOX EAST
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/21988
-#EXTINF:-1,alliptvlinks.com |CA| FOX HD
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/21989
-#EXTINF:-1,alliptvlinks.com |CA| FOX WEST
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/21990
-#EXTINF:-1,alliptvlinks.com |CA| FTV CANADA
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/21991
-#EXTINF:-1,alliptvlinks.com |CA| Game TV
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/21993
-#EXTINF:-1,alliptvlinks.com |CA| H2 CANADA
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/22001
-#EXTINF:-1,alliptvlinks.com |CA| HISTORY HD
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/22005
-#EXTINF:-1,alliptvlinks.com |CA| HLN
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/22006
-#EXTINF:-1,alliptvlinks.com |CA| HOPE TV
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/22007
-#EXTINF:-1,alliptvlinks.com |CA| IFC
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/22008
-#EXTINF:-1,alliptvlinks.com |CA| JOY
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/22009
-#EXTINF:-1,alliptvlinks.com |CA| MTV
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/22011
-#EXTINF:-1,alliptvlinks.com |CA| NAT GEO
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/22012
-#EXTINF:-1,alliptvlinks.com |CA| NFL NETWORK
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/22014
-#EXTINF:-1,alliptvlinks.com |CA| NICK
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/22015
-#EXTINF:-1,alliptvlinks.com |CA| OLN
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/22016
-#EXTINF:-1,alliptvlinks.com |CA| SHOPPING
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/22017
-#EXTINF:-1,alliptvlinks.com |CA| TELE TOON EAST
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/22018
-#EXTINF:-1,alliptvlinks.com |CA| TELE TOON WEST
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/22019
-#EXTINF:-1,alliptvlinks.com |CA| WFN
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/22020
-#EXTINF:-1,alliptvlinks.com |CA| YTV
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/22021
-#EXTINF:-1,alliptvlinks.com |CA| YTV West
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/22022
-#EXTINF:-1,alliptvlinks.com |CA| NTV
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/18110
-#EXTINF:-1,alliptvlinks.com |CA| AHC
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/18109
-#EXTINF:-1,alliptvlinks.com |CA| KCTS 9
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/18119
-#EXTINF:-1,alliptvlinks.com |CA| OWN
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/12477
-#EXTINF:-1,alliptvlinks.com |CA| GUSTO
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/18102
-#EXTINF:-1,alliptvlinks.com |CA| KTLA
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/18103
-#EXTINF:-1,alliptvlinks.com |CA| MAKFUL
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/18104
-#EXTINF:-1,alliptvlinks.com |CA| MIRACLE
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/18107
-#EXTINF:-1,alliptvlinks.com |CA| OMNI 1
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/18111
-#EXTINF:-1,alliptvlinks.com |CA| OMNI 2
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/18112
-#EXTINF:-1,alliptvlinks.com |CA| OMNI BC
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/18114
-#EXTINF:-1,alliptvlinks.com |CA| OMNI EAST
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/18115
-#EXTINF:-1,alliptvlinks.com |CA| ONE
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/18116
-#EXTINF:-1,alliptvlinks.com |CA| OUTTV
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/18117
-#EXTINF:-1,alliptvlinks.com |CA| SMITHSONIAN
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/18122
-#EXTINF:-1,alliptvlinks.com |CA| TELE LATINO
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/18126
-#EXTINF:-1,alliptvlinks.com |CA| TRAVEL+ESCAPE
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/18127
-#EXTINF:-1,alliptvlinks.com |CA| WGBH2
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/18118
-#EXTINF:-1,alliptvlinks.com |CA| WILD HD
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/18132
-#EXTINF:-1,alliptvlinks.com |CA| WSBK
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/18131
-#EXTINF:-1,alliptvlinks.com |CA| PEACH TREE
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/12475
-#EXTINF:-1,alliptvlinks.com |CA| YES TV
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/12446
-#EXTINF:-1,alliptvlinks.com |CA| SHOWCASE
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/12473
-#EXTINF:-1,alliptvlinks.com |CA| BBC CANADA
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/12565
-#EXTINF:-1,alliptvlinks.com |CA| BRAVO
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/12562
-#EXTINF:-1,alliptvlinks.com |CA| COMEDY GOLD
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/12544
-#EXTINF:-1,alliptvlinks.com |CA| COTTAGE LIFE
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/12541
-#EXTINF:-1,alliptvlinks.com |CA| DIY NETWORK
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/2741
-#EXTINF:-1,alliptvlinks.com |CA| E! CANADA
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/12524
-#EXTINF:-1,alliptvlinks.com |CA| FYI
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/12513
-#EXTINF:-1,alliptvlinks.com |CA| HGTV
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11347
-#EXTINF:-1,alliptvlinks.com |CA| MTV2
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11349
-#EXTINF:-1,alliptvlinks.com |CA| SLICE
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11352
-#EXTINF:-1,alliptvlinks.com |CA| SPACE
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/12470
-#EXTINF:-1,alliptvlinks.com |CA| TREEHOUSE
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/12455
-#EXTINF:-1,alliptvlinks.com |CA| A&E HD
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/12574
-#EXTINF:-1,alliptvlinks.com |CA| ANIMAL PLANET
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/12567
-#EXTINF:-1,alliptvlinks.com |CA| CRIME  INVEST
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/12538
-#EXTINF:-1,alliptvlinks.com |CA| DISCOVERY SCIENCE CANADA
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/12529
-#EXTINF:-1,alliptvlinks.com |CA| CARTOON NETWORK
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/12559
-#EXTINF:-1,alliptvlinks.com |CA| TLC
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/12505
-#EXTINF:-1,alliptvlinks.com |CA| NAT GEO WILD
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/12488
-#EXTINF:-1,alliptvlinks.com |CA| LOVE NATURE
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/12448
-#EXTINF:-1,alliptvlinks.com |CA| WORLD FISHING NET
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11346
-#EXTINF:-1,alliptvlinks.com |CA| DISNEY CANADA
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/12528
-#EXTINF:-1,alliptvlinks.com |CA| DISNEY JR
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/12527
-#EXTINF:-1,alliptvlinks.com |CA| DISCOVERY ID
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/12564
-#EXTINF:-1,alliptvlinks.com |CA| NICK JR
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/12484
-#EXTINF:-1,alliptvlinks.com |CA| KNOWLEDGE KIDS
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/12499
-#EXTINF:-1,alliptvlinks.com |CA| GameSHOW TV
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/12512
-#EXTINF:-1,alliptvlinks.com |CA| MUCH MUSIC
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/12489
-#EXTINF:-1,alliptvlinks.com CA-QC_ Identités
-http://iptvpro.vision-new.org:8789/movie/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/28049.mkv
-#EXTINF:-1,alliptvlinks.com CA-QC_Bon Cop Bad Cop
-http://iptvpro.vision-new.org:8789/movie/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/27911.mkv
-#EXTINF:-1,alliptvlinks.com CA-QC_Charlotte a 17 ans
-http://iptvpro.vision-new.org:8789/movie/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/27913.mkv
-#EXTINF:-1,alliptvlinks.com CA-QC_King Dave
-http://iptvpro.vision-new.org:8789/movie/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/27912.mkv
-#EXTINF:-1,alliptvlinks.com CA-QC_[REC] 3: Genesis
-http://iptvpro.vision-new.org:8789/movie/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/27910.mkv
-#EXTINF:-1,alliptvlinks.com CA-QC_De père en flic 2
-http://iptvpro.vision-new.org:8789/movie/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/27900.mkv
-#EXTINF:-1,alliptvlinks.com CA-QC_Et au pire,alliptvlinks.com  on se mariera
-http://iptvpro.vision-new.org:8789/movie/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/27873.mkv
-#EXTINF:-1,alliptvlinks.com CA-QC_Pieds nus dans l'aube
-http://iptvpro.vision-new.org:8789/movie/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/27874.mkv
-#EXTINF:-1,alliptvlinks.com CA-QC_Quand l'amour se creuse un trou
-http://iptvpro.vision-new.org:8789/movie/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/27305.mkv
-#EXTINF:-1,alliptvlinks.com CA-QC_Sashinka
-http://iptvpro.vision-new.org:8789/movie/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/27304.mkv
-#EXTINF:-1,alliptvlinks.com SP Laurence Joseph Ca Va Decoiffer
-http://iptvpro.vision-new.org:8789/movie/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/16130.mkv
-#EXTINF:-1,alliptvlinks.com Ca Sent La Coupe
-http://iptvpro.vision-new.org:8789/movie/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/2857.mkv
+
+#EXTINF:0,CANAL D 
+
+http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11505
+#EXTINF:0,CANAL VIE 
+
+http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11480
+#EXTINF:0,-CANAL SAVOIR http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/8037
+#EXTINF:0,-CASA http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11503
+#EXTINF:0,CINEPOP 
+http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11501
+#EXTINF:0,CPAC 
+http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11500
+#EXTINF:0,DISNEY
+ http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/2745
+#EXTINF:0,Elle Fiction
+ 
+http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11494
+#EXTINF:0,EVASION
+ 
+http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11540
+#EXTINF:0,FRISSON 
+
+http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/18461
+#EXTINF:0,-HISTORIA http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11475
+#EXTINF:0,ICI RDI 
+
+http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11492
+#EXTINF:0,ICI MONTREAL
+ 
+http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/2744
+#EXTINF:0,-ICI VANCOUVER http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11474
+#EXTINF:0,INVESTIGATION http://nosurrender.live:8080/5WkwInCd2V/5SEEzyUvQo/70607
+#EXTINF:0,LCN 
+http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11499
+#EXTINF:0,MAX
+ 
+http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11495
+#EXTINF:0,-METEOMEDIA http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11497
+#EXTINF:0,MOI ET CIE 
+
+http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11496
+
+#EXTINF:0,PRISE 2 
+http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11493
+
+#EXTINF:0,RDS 
+http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11491
+#EXTINF:0,RDS 2
+ http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11490
+#EXTINF:0,RDS INFO 
+
+http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11538
+#EXTINF:0,SERIES+
+ 
+http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11489
+
+#EXTINF:0,SUPER ECRAN 1
+ 
+
+http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11488
+#EXTINF:0,SUPER ECRAN 2
+ 
+
+http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11487
+#EXTINF:0,SUPER ECRAN 3
+ 
+
+http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11486
+#EXTINF:0,SUPER ECRAN 4
+ 
+
+http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11485
+
+#EXTINF:0,TELE QUEBEC 
+
+http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/2730
+#EXTINF:0,-TELETOON 
+http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/2743
+
+#EXTINF:0,TELEMAGINO 
+http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11498
+
+
+#EXTINF:0,TFO 
+http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11539
+#EXTINF:0,TV5 http://extremo.dyndns.ws:25461/Alexis/Alexis/9855
+#EXTINF:0,TVA GATINEAU 
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/368
+#EXTINF:0,-TVA MONTREAL http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11482
+#EXTINF:0,TVA SPORT 
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/366
+#EXTINF:0,UNIS TV 
+
+http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/10574
+#EXTINF:0,-V TELE 
+http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/2740
+#EXTINF:0,VRAK TV 
+http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11479
+
+#EXTINF:0,YOOPA 
+http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11478
+#EXTINF:0,ZESTE
+ 
+http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11476
+#EXTINF:0,-Z TELE http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11477
