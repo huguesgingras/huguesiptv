@@ -118,19 +118,19 @@ http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11478
 http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11476
 #EXTINF:-1,Z TELE
 http://iptv6.premium-stv.com:25461/live/sourcecanadapro1/4042848025/349.m3u8
-#EXTINF:-1,|CA| MONTREAL  3 / TVA WEST
+#EXTINF:-1,TVA MONTREAL
 http://iptv6.premium-stv.com:25461/live/sourcecanadapro1/4042848025/472.m3u8
-#EXTINF:-1,|CA| METEO
+#EXTINF:-1,METEOMEDIA
 http://iptv6.premium-stv.com:25461/live/sourcecanadapro1/4042848025/476.m3u8
-#EXTINF:-1,|CA| ICI VANCOUVER
+#EXTINF:-1,ICI VANCOUVER
 http://iptv6.premium-stv.com:25461/live/sourcecanadapro1/4042848025/490.m3u8
-#EXTINF:-1,|CA| HISTORIA
+#EXTINF:-1,HISTORIA
 http://iptv6.premium-stv.com:25461/live/sourcecanadapro1/4042848025/495.m3u8
-#EXTINF:-1,|CA| CPAC FRENCH
+#EXTINF:-1,CPAC
 http://iptv6.premium-stv.com:25461/live/sourcecanadapro1/4042848025/559.m3u8
-#EXTINF:-1,|CA| CASA
+#EXTINF:-1,CASA
 http://iptv6.premium-stv.com:25461/live/sourcecanadapro1/4042848025/599.m3u8
-#EXTINF:-1,|CA| CANAL SAVOIR
+#EXTINF:-1,CANAL SAVOIR
 http://iptv6.premium-stv.com:25461/live/sourcecanadapro1/4042848025/603.m3u8
-#EXTINF:-1,|CA| AMC
+#EXTINF:-1,AMC
 http://iptv6.premium-stv.com:25461/live/sourcecanadapro1/4042848025/619.m3u8
