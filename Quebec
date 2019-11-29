@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0,ADDIK TV
+#EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/addikhd.jpg",ADDIK TV
  
 http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11507
 #EXTINF:0,-AMI TELE
