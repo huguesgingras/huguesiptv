@@ -116,9 +116,7 @@ http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11478
 #EXTINF:0,ZESTE
  
 http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11476
-#EXTINF:0,-Z TELE http://iptv6.premium-stv.com:25461/live/sourcecanadapro1/4042848025/349.m3u8
-
-#EXTINF:-1,|CA| ZTELE
+#EXTINF:-1,Z TELE
 http://iptv6.premium-stv.com:25461/live/sourcecanadapro1/4042848025/349.m3u8
 #EXTINF:-1,|CA| MONTREAL  3 / TVA WEST
 http://iptv6.premium-stv.com:25461/live/sourcecanadapro1/4042848025/472.m3u8
