@@ -1,346 +1,441 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/addikhd.jpg",ADDIK TV
+#EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/addikhd.jpg" group-title="Quebec",
+ADDIK TV
  
 
 http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11507
 
-#EXTINF:0 tvg-logo="",AMI TELE
+#EXTINF:0 tvg-logo="",
+AMI TELE
  
 
 http://mundo2tv.xyz:25461/Lolo/Lolo/8385
 
-#EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/artv_hd.jpg",ARTV
+#EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/artv_hd.jpg" group-title="Quebec",
+ARTV
  
 
 http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11506
 
 
 
-#EXTINF:0 tvg-logo="",ASSEMBLEE NATIONALE
+#EXTINF:0 tvg-logo="" group-title="Quebec",
+ASSEMBLEE NATIONALE
  
 http://iptv6.premium-stv.com:25461/live/sourcecanadapro1/4042848025/613.m3u8
 
 
-#EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/canaldhd.jpg",CANAL D 
+#EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/canaldhd.jpg" group-title="Quebec",
+CANAL D 
 
 
 http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11505
 
-#EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/vie.jpg",CANAL VIE 
+#EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/vie.jpg" group-title="Quebec",
+CANAL VIE 
 
 
 http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11480
 
-#EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/savoir.jpg",CANAL SAVOIR 
+#EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/savoir.jpg group-title="Quebec"",
+CANAL SAVOIR 
 http://iptv6.premium-stv.com:25461/live/sourcecanadapro1/4042848025/601.m3u8
 
-#EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/addikhd.jpg",CASA 
+#EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/addikhd.jpg group-title="Quebec"",
+CASA 
 http://iptv6.premium-stv.com:25461/live/sourcecanadapro1/4042848025/599.m3u8
 
-#EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/cinepohd.jpg",CINEPOP 
+#EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/cinepohd.jpg group-title="Quebec"",
+CINEPOP 
 
 http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11501
 
-#EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/disfr.jpg",DISNEY
+#EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/disfr.jpg" group-title="Quebec",
+DISNEY
  
 http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/2745
 
-#EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/elles.jpg",Elle Fiction
+#EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/elles.jpg" group-title="Quebec",
+Elle Fiction
  
 
 http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11494
 
-#EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/evasion_hd.jpg",EVASION
+#EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/evasion_hd.jpg" group-title="Quebec",
+EVASION
  
 
 http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11540
 
-#EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/friss.jpg",FRISSON 
+#EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/friss.jpg" group-title="Quebec",
+FRISSON 
 
 
 http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/18461
 
-#EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/rdi_hd.jpg",ICI RDI 
+#EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/rdi_hd.jpg" group-title="Quebec",
+ICI RDI 
 
 
 http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11492
 
-#EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/srchd.jpg",ICI MONTREAL
+#EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/srchd.jpg" group-title="Quebec",
+ICI MONTREAL
  
 
 http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/2744
 
-#EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/srchd.jpg",ICI VANCOUVER 
+#EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/srchd.jpg" group-title="Quebec",
+ICI VANCOUVER 
 http://iptv6.premium-stv.com:25461/live/sourcecanadapro1/4042848025/490.m3u8
 
-#EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/investighd.jpg",INVESTIGATION 
+#EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/investighd.jpg" group-title="Quebec",
+INVESTIGATION 
 http://nosurrender.live:8080/5WkwInCd2V/5SEEzyUvQo/70607
 
-#EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/lcn_hd.jpg",LCN 
+#EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/lcn_hd.jpg" group-title="Quebec",
+LCN 
 
 http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11499
 
-#EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/max.jpg",MAX
+#EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/max.jpg" group-title="Quebec",
+MAX
  
 
 http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11495
 
-#EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/meteohd.jpg",*METEOMEDIA 
+#EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/meteohd.jpg" group-title="Quebec",
+*METEOMEDIA 
 http://iptv6.premium-stv.com:25461/live/sourcecanadapro1/4042848025/476.m3u8
 
-#EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/moicie.jpg",MOI ET CIE 
+#EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/moicie.jpg" group-title="Quebec",
+MOI ET CIE 
 
 
 http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11496
 
 
-#EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/prise2hd.jpg",PRISE 2 
+#EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/prise2hd.jpg" group-title="Quebec",
+PRISE 2 
 
 http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11493
 
 
-#EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/rds.jpg",RDS 
+#EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/rds.jpg" group-title="Quebec",
+RDS 
 
 http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11491
 
-#EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/rds2hd.jpg",RDS 2
+#EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/rds2hd.jpg" group-title="Quebec",
+RDS 2
  
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11490
 
-#EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/rdsihd.jpg",RDS INFO 
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/437
+
+#EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/rdsihd.jpg" group-title="Quebec",
+RDS INFO 
 
 
 http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11538
 
-#EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/series.jpg",SERIES+
+#EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/series.jpg" group-title="Quebec",
+SERIES+
  
 
 http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11489
 
 
-#EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/sehd.jpg",SUPER ECRAN 1
+#EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/sehd.jpg" group-title="Quebec",
+SUPER ECRAN 1
  
 
 
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11488
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/397
 
-#EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/se2hd.jpg",SUPER ECRAN 2
+#EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/se2hd.jpg" group-title="Quebec",
+SUPER ECRAN 2
  
 
 
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11487
 
-#EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/se3hd.jpg",SUPER ECRAN 3
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/396
+
+#EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/se3hd.jpg" group-title="Quebec",
+SUPER ECRAN 3
+ 
+
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/395
+
+#EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/se4hd.jpg" group-title="Quebec",
+SUPER ECRAN 4
  
 
 
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11486
 
-#EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/se4hd.jpg",SUPER ECRAN 4
- 
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/394
 
 
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11485
-
-
-#EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/tqc_hd.jpg",TELE QUEBEC 
+#EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/tqc_hd.jpg" group-title="Quebec",
+TELE QUEBEC 
 
 
 http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/2730
 
-#EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/teletoonf.jpg",TELETOON 
+#EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/teletoonf.jpg" group-title="Quebec",
+TELETOON 
 http://iptv6.premium-stv.com:25461/live/sourcecanadapro1/4042848025/388.m3u8
 
 
-#EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/tvmaginohd.jpg",TELEMAGINO 
+#EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/tvmaginohd.jpg" group-title="Quebec",
+TELEMAGINO 
 
 http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11498
 
 
 
-#EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/tfo_hd.jpg",TFO 
+#EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/tfo_hd.jpg" group-title="Quebec",
+TFO 
 
 http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11539
 
-#EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/tv5_hd.jpg",TV5 
+#EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/tv5_hd.jpg" group-title="Quebec",
+TV5 
 http://iptv6.premium-stv.com:25461/live/sourcecanadapro1/4042848025/369.m3u8
 
-#EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/tva_hd.jpg",TVA GATINEAU 
+#EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/tva_hd.jpg" group-title="Quebec",
+TVA GATINEAU 
 
 http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/368
 
-#EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/tva_hd.jpg",TVA MONTREAL 
+#EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/tva_hd.jpg",
+TVA MONTREAL 
 http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11482
 
-#EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/tvasportshd.jpg",TVA SPORT 
+#EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/tvasportshd.jpg" group-title="Quebec",
+TVA SPORT 
 
 http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/366
 
-#EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/unishd.jpg",UNIS TV 
+#EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/unishd.jpg" group-title="Quebec",
+UNIS TV 
 
 
 http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/10574
 
-#EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/vtele.jpg",V TELE 
+#EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/vtele.jpg" group-title="Quebec",
+V TELE 
 
 http://iptv6.premium-stv.com:25461/live/sourcecanadapro1/4042848025/361.m3u8
 
-#EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/vrakhd.jpg",VRAK TV 
+#EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/vrakhd.jpg" group-title="Quebec",
+VRAK TV 
 
 http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11479
 
 
-#EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/yoopahd.jpg",YOOPA 
+#EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/yoopahd.jpg" group-title="Quebec",
+YOOPA 
 
 http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11478
 
-#EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/zeste_hd.jpg",ZESTE
+#EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/zeste_hd.jpg" group-title="Quebec",
+ZESTE
  
 
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11476
+
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/350
 
 
-#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/zhd.jpg",ZTELE 
+#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/zhd.jpg" group-title="Quebec",
+ZTELE 
 http://iptv6.premium-stv.com:25461/live/sourcecanadapro1/4042848025/349.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/tva_hd.jpg",|CA| MONTREAL  3 / TVA WEST
+#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/tva_hd.jpg" group-title="Quebec",
+|CA| MONTREAL  3 / TVA WEST
 http://iptv6.premium-stv.com:25461/live/sourcecanadapro1/4042848025/472.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/meteohd.jpg",METEOMEDIA
+#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/meteohd.jpg" group-title="Quebec",
+METEOMEDIA
 http://iptv6.premium-stv.com:25461/live/sourcecanadapro1/4042848025/476.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/srchd.jpg",|CA| ICI VANCOUVER
+#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/srchd.jpg" group-title="Quebec",
+|CA| ICI VANCOUVER
 http://iptv6.premium-stv.com:25461/live/sourcecanadapro1/4042848025/490.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/historiahd.jpg",|CA| HISTORIA
+#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/historiahd.jpg" group-title="Quebec",
+|CA| HISTORIA
 http://iptv6.premium-stv.com:25461/live/sourcecanadapro1/4042848025/495.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/cpac.jpg",|CA| CPAC FRENCH
+#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/cpac.jpg" group-title="Quebec",
+|CA| CPAC FRENCH
 http://iptv6.premium-stv.com:25461/live/sourcecanadapro1/4042848025/559.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/casahd.jpg",|CA| CASA
+#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/casahd.jpg" group-title="Quebec",
+|CA| CASA
 http://iptv6.premium-stv.com:25461/live/sourcecanadapro1/4042848025/599.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/savoir.jpg",|CA| CANAL SAVOIR
+#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/savoir.jpg" group-title="Quebec",
+|CA| CANAL SAVOIR
 http://iptv6.premium-stv.com:25461/live/sourcecanadapro1/4042848025/603.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/amchd.jpg",|CA| AMC
+#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/amchd.jpg" group-title="Quebec",
+|CA| AMC
 http://iptv6.premium-stv.com:25461/live/sourcecanadapro1/4042848025/619.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www.upc.ch/content/dam/www-upc-ch/img/logos/channels/tUqxIG.img.0.64.png",|FR| FRANCE 3 FHD
+#EXTINF:-1 tvg-logo="https://www.upc.ch/content/dam/www-upc-ch/img/logos/channels/tUqxIG.img.0.64.png" group-title="France",
+|FR| FRANCE 3 FHD
 http://iptv7.premium-stv.com:25461/GENERALCHA/6535709495/4
 
-#EXTINF:-1 tvg-logo="https://www.upc.ch/content/dam/www-upc-ch/img/logos/channels/j1HdVB.img.0.64.png",M6 FHD
+#EXTINF:-1 tvg-logo="https://www.upc.ch/content/dam/www-upc-ch/img/logos/channels/j1HdVB.img.0.64.png" group-title="France",
+M6 FHD
 http://iptv7.premium-stv.com:25461/GENERALCHA/6535709495/7
 
-#EXTINF:-1 tvg-logo="https://www.upc.ch/content/dam/www-upc-ch/img/logos/channels/VaoPsO.img.0.64.png",TMC FHD
+#EXTINF:-1 tvg-logo="https://www.upc.ch/content/dam/www-upc-ch/img/logos/channels/VaoPsO.img.0.64.png" group-title="France",
+TMC FHD
 http://iptv7.premium-stv.com:25461/GENERALCHA/6535709495/10
 
-#EXTINF:-1 tvg-logo="https://www.upc.ch/content/dam/www-upc-ch/img/logos/channels/qENsX2.img.0.64.png",W9 HD
+#EXTINF:-1 tvg-logo="https://www.upc.ch/content/dam/www-upc-ch/img/logos/channels/qENsX2.img.0.64.png" group-title="France",
+W9 HD
 http://iptv7.premium-stv.com:25461/GENERALCHA/6535709495/11
 
-#EXTINF:-1 tvg-logo="https://www.upc.ch/content/dam/www-upc-ch/img/logos/channels/lvdoHQ.img.0.64.png",TF1 HD
+#EXTINF:-1 tvg-logo="https://www.upc.ch/content/dam/www-upc-ch/img/logos/channels/lvdoHQ.img.0.64.png" group-title="France",
+TF1 HD
 http://iptv7.premium-stv.com:25461/GENERALCHA/6535709495/13
 
-#EXTINF:-1 tvg-logo="",EQUIPE21
+#EXTINF:-1 tvg-logo="" group-title="France",
+EQUIPE21
 http://iptv7.premium-stv.com:25461/GENERALCHA/6535709495/15
 
-#EXTINF:-1 tvg-logo="",FR: TV5 FR
+#EXTINF:-1 tvg-logo="" group-title="France",
+FR: TV5 FR
 http://super1.ideaiptv.com:25461/mousanew/2342343/20205
 
-#EXTINF:-1 tvg-logo="",FR: FRANCE2 SD
+#EXTINF:-1 tvg-logo="" group-title="France",
+FR: FRANCE2 SD
 http://super1.ideaiptv.com:25461/mousanew/2342343/20207
 
-#EXTINF:-1 tvg-logo="",FR: FRANCE4 SD
+#EXTINF:-1 tvg-logo="" group-title="France",
+FR: FRANCE4 SD
 http://super1.ideaiptv.com:25461/mousanew/2342343/20209
 
-#EXTINF:-1 tvg-logo="",FR: FRANCE5 SD
+#EXTINF:-1 tvg-logo="" group-title="France",
+FR: FRANCE5 SD
 http://super1.ideaiptv.com:25461/mousanew/2342343/20210
 
-#EXTINF:-1 tvg-logo="",FR: TF1 SERIE SD
+#EXTINF:-1 tvg-logo="" group-title="France",
+FR: TF1 SERIE SD
 http://super1.ideaiptv.com:25461/mousanew/2342343/20211
 
-#EXTINF:-1 tvg-logo="",FR: FRANCE O SD
+#EXTINF:-1 tvg-logo="" group-title="France",
+FR: FRANCE O SD
 http://super1.ideaiptv.com:25461/mousanew/2342343/20213
 
-#EXTINF:-1 tvg-logo="",FR: NICKELODEON JUN HD
+#EXTINF:-1 tvg-logo="" group-title="France",
+FR: NICKELODEON JUN HD
 http://super1.ideaiptv.com:25461/mousanew/2342343/20242
 
-#EXTINF:-1 tvg-logo="",FR: NICKELODEON HD
+#EXTINF:-1 tvg-logo="" group-title="France",
+FR: NICKELODEON HD
 http://super1.ideaiptv.com:25461/mousanew/2342343/20243
 
-#EXTINF:-1 tvg-logo="",FR: NICKELODEON 4 TEEN
+#EXTINF:-1 tvg-logo="" group-title="France",
+FR: NICKELODEON 4 TEEN
 http://super1.ideaiptv.com:25461/mousanew/2342343/20244
 
-#EXTINF:-1 tvg-logo="",FR: MANGAS
+#EXTINF:-1 tvg-logo="" group-title="France",
+FR: MANGAS
 http://super1.ideaiptv.com:25461/mousanew/2342343/20245
 
-#EXTINF:-1 tvg-logo="",FR: DISNEY XD HD
+#EXTINF:-1 tvg-logo="" group-title="France",
+FR: DISNEY XD HD
 http://super1.ideaiptv.com:25461/mousanew/2342343/20246
 
-#EXTINF:-1 tvg-logo="",FR: DISNEY JUNIOR HD
+#EXTINF:-1 tvg-logo="" group-title="France",
+FR: DISNEY JUNIOR HD
 http://super1.ideaiptv.com:25461/mousanew/2342343/20247
 
-#EXTINF:-1 tvg-logo="",FR: DISNEY CINEMA HD
+#EXTINF:-1 tvg-logo="" group-title="France",
+FR: DISNEY CINEMA HD
 http://super1.ideaiptv.com:25461/mousanew/2342343/20248
 
-#EXTINF:-1 tvg-logo="https://www.upc.ch/content/dam/www-upc-ch/img/logos/channels/R6wWsf.img.0.64.png",FR: DISNEY CHANNEL HD
+#EXTINF:-1 tvg-logo="https://www.upc.ch/content/dam/www-upc-ch/img/logos/channels/R6wWsf.img.0.64.png" group-title="France",
+FR: DISNEY CHANNEL HD
 http://super1.ideaiptv.com:25461/mousanew/2342343/20249
 
-#EXTINF:-1,FR: TMC SD
+#EXTINF:-1 tvg-logo="" group-title="France",
+FR: TMC SD
 http://super1.ideaiptv.com:25461/mousanew/2342343/20304
 
-#EXTINF:-1 tvg-logo="",FR: TEVA
+#EXTINF:-1 tvg-logo="" group-title="France",
+FR: TEVA
 http://super1.ideaiptv.com:25461/mousanew/2342343/20303
 
-#EXTINF:-1 tvg-logo="",FR: EUROSPORT2 HD
+#EXTINF:-1 tvg-logo="" group-title="France",
+FR: EUROSPORT2 HD
 http://super1.ideaiptv.com:25461/mousanew/2342343/20271
 
-#EXTINF:-1 tvg-logo="",FR: EUROSPORT1 HD
+#EXTINF:-1 tvg-logo="" group-title="France",
+FR: EUROSPORT1 HD
 http://super1.ideaiptv.com:25461/mousanew/2342343/20270
 
-#EXTINF:-1 tvg-logo="",FR: BEIN SPORT 2HD
+#EXTINF:-1 tvg-logo="" group-title="France",
+FR: BEIN SPORT 2HD
 http://super1.ideaiptv.com:25461/mousanew/2342343/20263
 
-#EXTINF:-1 tvg-logo="",FR: BEIN SPORT 1HD
+#EXTINF:-1 tvg-logo="" group-title="France",
+FR: BEIN SPORT 1HD
 http://super1.ideaiptv.com:25461/mousanew/2342343/20262
 
-#EXTINF:-1,FR: BEIN SPORT 3HD
+#EXTINF:-1 tvg-logo="" group-title="France",
+FR: BEIN SPORT 3HD
 http://super1.ideaiptv.com:25461/mousanew/2342343/20261
 
-#EXTINF:-1 tvg-logo="",FR: M6 MUSIC HD
+#EXTINF:-1 tvg-logo="" group-title="France",
+FR: M6 MUSIC HD
 http://super1.ideaiptv.com:25461/mousanew/2342343/20318
 
-#EXTINF:-1 tvg-logo="",FR: BEIN SPORTS MAX 9 HD
+#EXTINF:-1 tvg-logo="" group-title="France",
+FR: BEIN SPORTS MAX 9 HD
 http://super1.ideaiptv.com:25461/mousanew/2342343/21986
 
-#EXTINF:-1 tvg-logo="",FR: BEIN SPORTS MAX 8 HD
+#EXTINF:-1 tvg-logo="" group-title="France",
+FR: BEIN SPORTS MAX 8 HD
 http://super1.ideaiptv.com:25461/mousanew/2342343/21987
 
-#EXTINF:-1 tvg-logo="",FR: BEIN SPORTS MAX 7 HD
+#EXTINF:-1 tvg-logo="" group-title="France",
+FR: BEIN SPORTS MAX 7 HD
 http://super1.ideaiptv.com:25461/mousanew/2342343/21988
 
-#EXTINF:-1 tvg-logo="",FR: BEIN SPORTS MAX 6 HD
+#EXTINF:-1 tvg-logo="" group-title="France",
+FR: BEIN SPORTS MAX 6 HD
 http://super1.ideaiptv.com:25461/mousanew/2342343/21989
 
-#EXTINF:-1 tvg-logo="",FR: BEIN SPORTS MAX 5 HD
+#EXTINF:-1 tvg-logo="" group-title="France",
+FR: BEIN SPORTS MAX 5 HD
 http://super1.ideaiptv.com:25461/mousanew/2342343/21990
 
-#EXTINF:-1 tvg-logo="",FR: BEIN SPORTS MAX 4 HD
+#EXTINF:-1 tvg-logo="" group-title="France",
+FR: BEIN SPORTS MAX 4 HD
 http://super1.ideaiptv.com:25461/mousanew/2342343/21991
 
-#EXTINF:-1 tvg-logo="",FR: BEIN SPORTS MAX 10 HD
+#EXTINF:-1 tvg-logo="" group-title="France",
+FR: BEIN SPORTS MAX 10 HD
 http://super1.ideaiptv.com:25461/mousanew/2342343/21992
 
-#EXTINF:-1 tvg-logo="",FR: Teletoon+ 
+#EXTINF:-1 tvg-logo="" group-title="France",
+FR: Teletoon+ 
 http://144.217.253.140/Teletoon/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-logo="",FR: Canal J 
+#EXTINF:-1 tvg-logo="" group-title="France",
+FR: Canal J 
 http://144.217.253.140/Canalj/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.upc.ch/content/dam/www-upc-ch/img/logos/channels/CAUCQX.img.0.64.png",FR: C Star https://s1.tntendirect.com/d17/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.upc.ch/content/dam/www-upc-ch/img/logos/channels/CAUCQX.img.0.64.png" group-title="France",
+FR: C Star 
+https://s1.tntendirect.com/d17/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="",FR: D5 TV 
+#EXTINF:-1 tvg-logo="" group-title="France",
+FR: D5 TV 
 https://live.creacast.com/d5tv/smil:d5tv.smil/chunklist_w958420568_b1928000.m3u8
