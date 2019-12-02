@@ -26,13 +26,13 @@ http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11505
 
 http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11480
 
-#EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/savoir.jpg group-title="Quebec"",CANAL SAVOIR 
+#EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/savoir.jpg group-title="Quebec",CANAL SAVOIR 
 http://iptv6.premium-stv.com:25461/live/sourcecanadapro1/4042848025/601.m3u8
 
-#EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/casahd.jpg group-title="Quebec"",CASA 
+#EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/casahd.jpg group-title="Quebec",CASA 
 http://iptv6.premium-stv.com:25461/live/sourcecanadapro1/4042848025/599.m3u8
 
-#EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/cinepohd.jpg group-title="Quebec"",CINEPOP 
+#EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/cinepohd.jpg group-title="Quebec",CINEPOP 
 
 http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11501
 
@@ -343,4 +343,3 @@ https://s1.tntendirect.com/d17/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="France",D5 TV 
 https://live.creacast.com/d5tv/smil:d5tv.smil/chunklist_w958420568_b1928000.m3u8
-
