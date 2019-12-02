@@ -26,15 +26,18 @@ http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11505
 
 http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11480
 
-#EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/savoir.jpg group-title="Quebec",CANAL SAVOIR 
+#EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/savoir.jpg" group-title="Quebec",CANAL SAVOIR 
 http://iptv6.premium-stv.com:25461/live/sourcecanadapro1/4042848025/601.m3u8
 
-#EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/casahd.jpg group-title="Quebec",CASA 
+#EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/casahd.jpg" group-title="Quebec",CASA 
 http://iptv6.premium-stv.com:25461/live/sourcecanadapro1/4042848025/599.m3u8
 
-#EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/cinepohd.jpg group-title="Quebec",CINEPOP 
+#EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/cinepohd.jpg" group-title="Quebec",CINEPOP 
 
 http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11501
+
+#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/cpac.jpg" group-title="Quebec",CPAC
+http://iptv6.premium-stv.com:25461/live/sourcecanadapro1/4042848025/559.m3u8
 
 #EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/disfr.jpg" group-title="Quebec",DISNEY
  
@@ -55,6 +58,9 @@ http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11540
 
 
 http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/18461
+
+#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/historiahd.jpg" group-title="Quebec",HISTORIA
+http://iptv6.premium-stv.com:25461/live/sourcecanadapro1/4042848025/495.m3u8
 
 #EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/rdi_hd.jpg" group-title="Quebec",ICI RDI 
 
@@ -80,7 +86,7 @@ http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11499
 
 http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11495
 
-#EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/meteohd.jpg" group-title="Quebec",*METEOMEDIA 
+#EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/meteohd.jpg" group-title="Quebec",METEOMEDIA 
 http://iptv6.premium-stv.com:25461/live/sourcecanadapro1/4042848025/476.m3u8
 
 #EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/moicie.jpg" group-title="Quebec",MOI ET CIE 
@@ -166,8 +172,11 @@ http://iptv6.premium-stv.com:25461/live/sourcecanadapro1/4042848025/369.m3u8
 
 http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/368
 
-#EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/tva_hd.jpg",TVA MONTREAL 
+#EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/tva_hd.jpg" group-title="Quebec",TVA MONTREAL 
 http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11482
+
+#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/tva_hd.jpg" group-title="Quebec",TVA WEST
+http://iptv6.premium-stv.com:25461/live/sourcecanadapro1/4042848025/472.m3u8
 
 #EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/tvasportshd.jpg" group-title="Quebec",TVA SPORT 
 
@@ -201,28 +210,7 @@ http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/350
 #EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/zhd.jpg" group-title="Quebec",ZTELE 
 http://iptv6.premium-stv.com:25461/live/sourcecanadapro1/4042848025/349.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/tva_hd.jpg" group-title="Quebec",|CA| TVA WEST
-http://iptv6.premium-stv.com:25461/live/sourcecanadapro1/4042848025/472.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/meteohd.jpg" group-title="Quebec",METEOMEDIA
-http://iptv6.premium-stv.com:25461/live/sourcecanadapro1/4042848025/476.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/srchd.jpg" group-title="Quebec",|CA| ICI VANCOUVER
-http://iptv6.premium-stv.com:25461/live/sourcecanadapro1/4042848025/490.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/historiahd.jpg" group-title="Quebec",|CA| HISTORIA
-http://iptv6.premium-stv.com:25461/live/sourcecanadapro1/4042848025/495.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/cpac.jpg" group-title="Quebec",|CA| CPAC FRENCH
-http://iptv6.premium-stv.com:25461/live/sourcecanadapro1/4042848025/559.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/casahd.jpg" group-title="Quebec",|CA| CASA
-http://iptv6.premium-stv.com:25461/live/sourcecanadapro1/4042848025/599.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/savoir.jpg" group-title="Quebec",|CA| CANAL SAVOIR
-http://iptv6.premium-stv.com:25461/live/sourcecanadapro1/4042848025/603.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/amchd.jpg" group-title="Quebec",|CA| AMC
+#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/amchd.jpg" group-title="Canada",|CA| AMC
 http://iptv6.premium-stv.com:25461/live/sourcecanadapro1/4042848025/619.m3u8
 
 
