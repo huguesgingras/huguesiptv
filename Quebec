@@ -36,7 +36,12 @@ http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11501
 #EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/cpac.jpg" group-title="Quebec",CPAC
 http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/11500.m3u8
 
-#EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/disfr.jpg" group-title="Quebec",DISNEY
+#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/disfr.jpg" group-title="Quebec",DISNEY
+ 
+
+http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/2745.m3u8
+
+#EXTINF:-1 ,DISNEY FRENCH
 http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/2745.m3u8
 
 #EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/elles.jpg" group-title="Quebec",Elle Fiction
@@ -59,12 +64,12 @@ http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/11475.m3u8
 
 http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/439
 
-#EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/srchd.jpg" group-title="Quebec",ICI MONTREAL
+#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/srchd.jpg" group-title="Quebec",ICI MONTREAL
  
 
 http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/2744.m3u8
 
-#EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/srchd.jpg" group-title="Quebec",ICI VANCOUVER 
+#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/srchd.jpg" group-title="Quebec",ICI VANCOUVER 
 http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/11474.m3u8
 
 #EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/investighd.jpg" group-title="Quebec",INVESTIGATION 
