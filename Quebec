@@ -36,9 +36,7 @@ http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11501
 #EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/cpac.jpg" group-title="Quebec",CPAC
 http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/11500.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/disfr.jpg" group-title="Quebec",DISNEY
- 
-
+#EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/disfr.jpg" group-title="Quebec",DISNEY
 http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/2745.m3u8
 
 #EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/elles.jpg" group-title="Quebec",Elle Fiction
