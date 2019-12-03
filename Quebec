@@ -41,7 +41,7 @@ http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/11500.m3u8
 
 http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/2745.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/disfr.jpg" group-title="Quebec",|CA| DISNEY FRENCH
+#EXTINF:-1 ,DISNEY FRENCH
 http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/2745.m3u8
 
 #EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/elles.jpg" group-title="Quebec",Elle Fiction
@@ -321,3 +321,102 @@ http://super1.ideaiptv.com:25461/mousanew/2342343/20205
 
 #EXTINF:-1 tvg-logo="https://www.upc.ch/content/dam/www-upc-ch/img/logos/channels/qENsX2.img.0.64.png" group-title="France",W9
 http://iptv6.premium-stv.com:25461/sourcefrhevcpro1/0493432475/3288
+
+#EXTM3U
+#EXTINF:-1  group-title="Alternative",|CA| TVA MONTREAL
+http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/11482.m3u8
+#EXTINF:-1 group-title="Alternative",|CA| VRAK TV
+http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/11479.m3u8
+#EXTINF:-1 group-title="Alternative",|CA| VTELE HD
+http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/2740.m3u8
+#EXTINF:-1 group-title="Alternative",|CA| ADDIK TV
+http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/11507.m3u8
+#EXTINF:-1 group-title="Alternative",|CA| ARTV
+http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/11506.m3u8
+#EXTINF:-1 group-title="Alternative",|CA| ASSEMBLEE NATIONALE
+http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/11097.m3u8
+#EXTINF:-1 group-title="Alternative",|CA| CANAL D HD
+http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/11505.m3u8
+#EXTINF:-1 group-title="Alternative",|CA| CANAL SAVOIR
+http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/11504.m3u8
+#EXTINF:-1 group-title="Alternative",|CA| CANAL VIE
+http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/11480.m3u8
+#EXTINF:-1 group-title="Alternative",|CA| CANALSAVOIR
+http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/8037.m3u8
+#EXTINF:-1 group-title="Alternative",|CA| CASA
+http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/11503.m3u8
+#EXTINF:-1 group-title="Alternative",|CA| COOKING CHANNEL
+http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/12543.m3u8
+#EXTINF:-1 group-title="Alternative",|CA| CPAC FRENCH
+http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/11500.m3u8
+#EXTINF:-1 group-title="Alternative",|CA| DISNEY FRENCH
+http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/2745.m3u8
+#EXTINF:-1 group-title="Alternative",|CA| EVASION
+http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/11540.m3u8
+#EXTINF:-1 group-title="Alternative",|CA| HISTORIA
+http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/11475.m3u8
+#EXTINF:-1 group-title="Alternative",|CA| ICI MONTREAL
+http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/2744.m3u8
+#EXTINF:-1 group-title="Alternative",|CA| ICI VANCOUVER
+http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/11474.m3u8
+#EXTINF:-1 group-title="Alternative",|CA| LCN
+http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/11499.m3u8
+#EXTINF:-1 group-title="Alternative",|CA| METEO
+http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/11497.m3u8
+#EXTINF:-1 group-title="Alternative",|CA| MOI & CIE
+http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/11496.m3u8
+#EXTINF:-1 group-title="Alternative",|CA| MUSIQUE PLUS
+http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/11494.m3u8
+#EXTINF:-1 group-title="Alternative",|CA| PRISE 2
+http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/11493.m3u8
+#EXTINF:-1 group-title="Alternative",|CA| RDI
+http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/11492.m3u8
+#EXTINF:-1 group-title="Alternative",|CA| RDS
+http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/11491.m3u8
+#EXTINF:-1 group-title="Alternative",|CA| RDS 2
+http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/11490.m3u8
+#EXTINF:-1 group-title="Alternative",|CA| RDS INFO
+http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/11538.m3u8
+#EXTINF:-1 group-title="Alternative",|CA| TVA SPORTS HD
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/366
+#EXTINF:-1 group-title="Alternative",|CA| SERIES+
+http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/11489.m3u8
+#EXTINF:-1 group-title="Alternative",|CA| SPIKE TV
+http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/12469.m3u8
+#EXTINF:-1 group-title="Alternative",|CA| SUPER ECRAN 1
+http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/11488.m3u8
+#EXTINF:-1 group-title="Alternative",|CA| SUPER ECRAN 2
+http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/11487.m3u8
+#EXTINF:-1 group-title="Alternative",|CA| SUPER ECRAN 3
+http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/11486.m3u8
+#EXTINF:-1 group-title="Alternative",|CA| SUPER ECRAN 4
+http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/11485.m3u8
+#EXTINF:-1 group-title="Alternative",|CA| FRISSONS
+http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/18461.m3u8
+#EXTINF:-1 group-title="Alternative",|CA| CINEPOP
+http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/11501.m3u8
+#EXTINF:-1 group-title="Alternative",|CA| MAX
+http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/11495.m3u8
+#EXTINF:-1 group-title="Alternative",|CA| TELE QUEBEC
+http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/2730.m3u8
+#EXTINF:-1 group-title="Alternative",|CA| TELEMAGINO
+http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/11498.m3u8
+#EXTINF:-1 group-title="Alternative",|CA| TELETOON
+http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/2743.m3u8
+#EXTINF:-1 group-title="Alternative",|CA| TFO
+http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/11539.m3u8
+#EXTINF:-1 group-title="Alternative",|CA| TV5 QUEBEC
+http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/11484.m3u8
+#EXTINF:-1 group-title="Alternative",|CA| UNIS TV
+http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/10574.m3u8
+#EXTINF:-1 group-title="Alternative",|CA| YOOPA
+http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/11478.m3u8
+#EXTINF:-1 group-title="Alternative",|CA| ZESTE
+http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/11476.m3u8
+#EXTINF:-1 group-title="Alternative",|CA| ZTELE
+http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/11477.m3u8
+#EXTINF:-1 group-title="Alternative",|CA| TELE TOON EAST
+http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/22018.m3u8
+#EXTINF:-1 group-title="Alternative",|CA| TELE TOON WEST
+http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/22019.m3u8
+
