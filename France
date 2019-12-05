@@ -6390,7 +6390,6 @@ https://dcunilive28-lh.akamaihd.net/i/dclive_1@531020/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Italian" tvg-logo="https://i.imgur.com/NUCVVx8.png" group-title="Italie",Zerouno TV
 https://dcunilive55-lh.akamaihd.net/i/dclive_1@761470/master.m3u8?fluxustv.m3u8
 
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="http://i.imgur.com/MeaSmiv.jpg" group-title="Mexique",15TV Sabinas
 http://live.gvstream.net:1935/e-tv-video/play.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/x8lwsjM.png" group-title="Mexique",ADN 40
@@ -6503,3 +6502,48 @@ http://bit.ly/2Lvh3dc
 https://180ce25c70.site.internapcdn.net/puebla_live/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/WxRpFPk.jpg" group-title="Mexique",Uno TV
 http://ooyalahd2-f.akamaihd.net/i/UnoTV01_delivery@122640/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/zBgr8ot.jpg" group-title="Maroc",2M Maroc
+http://www.elahmad.com/tv/m3u8/elahmad_jyrh8.m3u8?id=maroc2
+#EXTINF:-1 tvg-id="2M Monde ARB" tvg-name="2M Monde ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/eE1SdyA.png" group-title="Maroc",2M Monde
+http://livecdnh2.tvanywhere.ae/hls/2m_maroc/04.m3u8
+#EXTINF:-1 tvg-id="2M Monde ARB" tvg-name="2M Monde ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/eE1SdyA.png" group-title="Maroc",2M Monde
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/gtu4cLu.png" group-title="Maroc",Al Aoula Laayoune TV
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/gtu4cLu.png" group-title="Maroc",Al Aoula Laayoune TV
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/al_aoula_laayoune-avc1_1500000=4-mp4a_130400_qad=1.m3u8
+#EXTINF:-1 tvg-id="Al Maghribia ARB" tvg-name="Al Maghribia ARB" tvg-language="English" tvg-logo="http://www.fraja-maroc.net/TV/img/img15.jpg" group-title="Maroc",Al Maghribia
+http://cdn-hls.globecast.tv/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" group-title="Maroc",AL-MAGHRIBIA
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" group-title="Maroc",AR-RABIAA
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" group-title="Maroc",AR-RIADIA
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://www.fraja-maroc.net/TV/img/img28.jpg" group-title="Maroc",Arrabia
+http://cdn-hls.globecast.tv/live/ramdisk/arrabiaa/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/R8jSVoz.png" group-title="Maroc",Arrabia
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://snrtlive.ma/sites/all/themes/snrtlive/images/arriyadia.png" group-title="Maroc",Arryadia
+http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" group-title="Maroc",Arryadia
+http://www.elahmad.com/tv/m3u8/maroc.m3u8?id=arriadia
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" group-title="Maroc",AS-SADISSA
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://snrtlive.ma/sites/all/themes/snrtlive/images/assadissax2.png" group-title="Maroc",Assadissa
+http://cdn-hls.globecast.tv/live/ramdisk/assadissa/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" group-title="Maroc",AT-TAMAZIGHT
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Chada" tvg-language="Arabic" tvg-logo="" group-title="Maroc",Chada TV
+https://edge7.vedge.infomaniak.com/livecast/chadatv/manifest.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://oklivetv.com/wp-content/uploads/media/4fa6baa5efe80971ec24ecbcb74b70d5.jpeg" group-title="Maroc",Laayoune TV
+http://cdn-hls.globecast.tv/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/J7GdM3L.png" group-title="Maroc",M24 TV
+https://www.m24tv.ma/live/smil:OutStream1.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" group-title="Maroc",Medi 1 TV
+http://streaming.medi1tv.com/live/Medi1tvmaghreb.sdp/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" group-title="Maroc",Tamazight TV
+http://cdn-hls.globecast.tv/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/7sibv0t.png" group-title="Maroc",Télé Maroc
+http://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8
