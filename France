@@ -992,7 +992,7 @@ http://223.110.242.130:6610/gitv/live1/G_LAOGUSHI/1.m3u8
 http://59.46.18.134:8114/Fsv_otype=1?FvSeid=5bf181c25f226bb2&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=91&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 #EXTINF:-1 tvg-id="6000" tvg-name="风云足球" tvg-language="Chinese" tvg-logo="" group-title="Chine",CCTV风云足球(电)
 http://59.46.18.134:8114/Fsv_otype=1?FvSeid=5bf181c25f226bb2&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=87&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" group-title="Movies",Celestial Movies
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" group-title="Chine",Celestial Movies
 http://210.210.155.35/qwr9ew/s/s33/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" group-title="Chine",CETV-1
 http://223.110.245.143/ott.js.chinamobile.com/PLTV/3/224/3221225622/index.m3u8
@@ -1018,9 +1018,9 @@ http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=14&FvSeid=1
 http://121.31.30.90:8085/ysten-business/live/cctv-9/yst.m3u8
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-language="Chinese" tvg-logo="" group-title="Chine",CGTN
 http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221225917/index.m3u8
-#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/c5Yj2to.png" group-title="News",CGTN
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/c5Yj2to.png" group-title="Chine",CGTN
 http://live.cgtn.com/1000/prog_index.m3u8
-#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/c5Yj2to.png" group-title="News",CGTN
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/c5Yj2to.png" group-title="Chine",CGTN
 http://live.cgtn.com/500/prog_index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/NR3DhDu.png" group-title="Chine",CGTN Arabic
 http://live.cgtn.com/1000a/prog_index.m3u8
@@ -1028,13 +1028,13 @@ http://live.cgtn.com/1000a/prog_index.m3u8
 http://live.cgtn.com/1000a/prog_index.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/NR3DhDu.png" group-title="Chine",CGTN Arabic
 http://livear.cgtn.com/1000a/prog_index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/TSG6WBy.png" group-title="Documentary",CGTN Documentary
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/TSG6WBy.png" group-title="Chine",CGTN Documentary
 http://210.210.155.35/session/77d6180e-7b7b-11e8-a194-c81f66f89318/qwr9ew/s/s20/01.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/TSG6WBy.png" group-title="Documentary",CGTN Documentary
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/TSG6WBy.png" group-title="Chine",CGTN Documentary
 http://bit.ly/2D1FvME
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/TSG6WBy.png" group-title="Documentary",CGTN Documentary
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/TSG6WBy.png" group-title="Chine",CGTN Documentary
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/TSG6WBy.png" group-title="Documentary",CGTN Documentary
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/TSG6WBy.png" group-title="Chine",CGTN Documentary
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/e8HG0D7.png" group-title="Chine",CGTN Español
 http://bit.ly/2F0ODBz
@@ -1218,9 +1218,9 @@ http://live.streamingfast.net/osmflivech50.m3u8
 http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" group-title="Chine",Good TV综合台
 http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-3.m3u8
-#EXTINF:-1 tvg-id="6083" tvg-name="HBO" tvg-language="Chinese" tvg-logo="" group-title="Movies",HBO
+#EXTINF:-1 tvg-id="6083" tvg-name="HBO" tvg-language="Chinese" tvg-logo="" group-title="Chine",HBO
 http://218.202.220.2:5000/nn_live.m3u8?id=HBO
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/exdDHml.png" group-title="Religious",Hope Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/exdDHml.png" group-title="Chine",Hope Channel
 http://bcliveuniv-lh.akamaihd.net:80/i/Live_1@384161/index_500_av-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.nettv.live/uploads/18/1-1PR5234U14N.jpg" group-title="Chine",HRB娱乐
 http://111.40.205.87/PLTV/88888888/224/3221225759/index.m3u8
@@ -1296,7 +1296,7 @@ http://223.110.243.170/PLTV/2/224/3221226803/index.m3u8
 http://223.110.243.170/PLTV/2/224/3221226805/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/UJJPepl.png" group-title="Chine",NBA百视通直播间7HD
 http://223.110.243.170/PLTV/2/224/3221226807/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/ZpSb5PD.png" group-title="Movies",NewTV Blockbusters
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/ZpSb5PD.png" group-title="Chine",NewTV Blockbusters
 http://183.207.249.14/PLTV/3/224/3221225535/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/2PoLaXw.png" group-title="Chine",NewTV Super sports HD
 http://111.40.205.107/PLTV/88888888/224/3221225715/index.m3u8
@@ -1662,7 +1662,7 @@ http://183.207.249.71/PLTV/3/224/3221225622/index.m3u8
 http://223.110.242.130:6610/cntv/live1/jiaoyutv/index.m3u8
 #EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-language="Chinese" tvg-logo="" group-title="Chine",中国教育1台高清
 http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225910/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" group-title="Weather",中国气象
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" group-title="Chine",中国气象
 http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" group-title="Chine",中国气象频道
 http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221227438/index.m3u8
