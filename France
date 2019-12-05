@@ -5475,7 +5475,7 @@ https://acv.asianetmobiletvplus.com/webstreams/7eb4dc1f3240c8eb776d41b95bd1d197.
 http://akaal.zecast.net/akaal-live/smil:akaaltv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/hAgaVPa.jpg" group-title="Inde",Akaram Kidz
 http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/akaramkids1.png" group-title="Kids",Akaram Kidz
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/akaramkids1.png" group-title="Italie",Akaram Kidz
 http://akaram.zecast.net/akaram-live/akaramkidz/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://saalaitv.com/logo/Akaram.png" group-title="Inde",Akaram TV
 http://akaram.zecast.net/akaram-live/akaramnew2/index.m3u8
@@ -5597,7 +5597,7 @@ http://linear06hun-lh.akamaihd.net/i/dhamaal_1@665243/index_2128_av-p.m3u8
 http://linear06hun-lh.akamaihd.net/i/dhamaal_1@665243/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="" group-title="Inde",Dil Se
 http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="" group-title="Kids",Disney Junior
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="" group-title="Italie",Disney Junior
 http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://channeldivya.com/wp-content/uploads/2018/12/logo.png" group-title="Inde",Divya
 http://edge-ind.inapcdn.in:1935/berry1/latest.stream_aac/chunklist_w927914309.m3u8
@@ -5611,7 +5611,7 @@ http://edge-ap2.cloudfrontcdn.in:1935/edge1/smartsh1.stream_aac/playlist.m3u8
 http://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-b.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/et_now.png" group-title="Inde",ET Now
 https://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/fashion_tv_fr.png" group-title="Fashion",Fashion TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/fashion_tv_fr.png" group-title="Italie",Fashion TV
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://fatehtvonline.com/wp-content/uploads/2014/10/FATEH-TV-LOGO-ENGLISH.png" group-title="Inde",Fateh TV
 http://175.176.184.11:1935/live/fatehtv/playlist.m3u8
@@ -6029,17 +6029,17 @@ http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
 http://flash8.streaming.xdevel.com/fmitalia/fmitalia/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Italian" tvg-logo="https://i.imgur.com/8Nba42X.png" group-title="Italie",Gold TV Roma
 http://151.0.207.99:1935/GoldTV/GOLD_17/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Italian" tvg-logo="" group-title="History",History Lab
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Italian" tvg-logo="" group-title="Italie",History Lab
 http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Italian" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1dd08ff2959bb19209a7a49b72765d53.png" group-title="History",History Lab
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Italian" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1dd08ff2959bb19209a7a49b72765d53.png" group-title="Italie",History Lab
 http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8?ANTONYGTV
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Italian" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/12/Histori-Lab.png" group-title="History",History Lab
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Italian" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/12/Histori-Lab.png" group-title="Italie",History Lab
 http://wma10.fluidstream.net:1935/HistoryLab/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Italian" tvg-logo="https://i.imgur.com/nWBWzNy.png" group-title="Italie",Icaro TV
 https://59d7d6f47d7fc.streamlock.net/icarotv/icarotv/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Italian" tvg-logo="" group-title="Sport",IRC Sport TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Italian" tvg-logo="" group-title="Italie",IRC Sport TV
 http://178.32.140.155/irctv/mp4:irctv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Italian" tvg-logo="https://www.ircsporttv.it/assets/front/img/logo.png" group-title="Sport",IRC Sport TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Italian" tvg-logo="https://www.ircsporttv.it/assets/front/img/logo.png" group-title="Italie",IRC Sport TV
 http://wms.shared.streamshow.it/irctv/mp4:irctv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Italian" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/1/1e/Canale_Italia_Logo_2015.png/260px-Canale_Italia_Logo_2015.png" group-title="Italie",Italia 141
 http://streamcloud-idc.azureedge.net/ac024_live/iphone1/chunklist.m3u8?accessToken=51c3544ac33a24b012ba69bf6349db78
@@ -6073,7 +6073,7 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Italian" tvg-logo="https://i.imgur.com/fLuxaEb.jpg" group-title="Italie",Medjugorje Italia TV
 http://94.23.67.20:1935/medjugorjeitaliatv/medjugorjeitaliatv/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Italian" tvg-logo="http://www.motortrendtv.it/wp-content/themes/mt-landing-wp/img/logo.png" group-title="Auto",MotorTrend
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Italian" tvg-logo="http://www.motortrendtv.it/wp-content/themes/mt-landing-wp/img/logo.png" group-title="Italie",MotorTrend
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8
 #EXTINF:-1 tvg-id="Nove IT" tvg-name="Nove IT" tvg-language="Italian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/K2_new_logo.svg/150px-K2_new_logo.svg.png" group-title="Italie",Nove
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8
@@ -6183,15 +6183,15 @@ http://b2everyrai-lh.akamaihd.net/i/rai5_1@182695/index_1800_av-p.m3u8?sd=10&reb
 http://b2everyrai-lh.akamaihd.net:80/i/rai5_1@182695/master.m3u8
 #EXTINF:-1 tvg-id="Rai Gulp IT" tvg-name="Rai Gulp IT" tvg-language="Italian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Rai_Gulp_-_Logo_2017.svg/1200px-Rai_Gulp_-_Logo_2017.svg.png" group-title="Italie",Rai Gulp
 http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/master.m3u8
-#EXTINF:-1 tvg-id="Rai Movie IT" tvg-name="Rai Movie IT" tvg-language="Italian" tvg-logo="" group-title="Movies",Rai Movie
+#EXTINF:-1 tvg-id="Rai Movie IT" tvg-name="Rai Movie IT" tvg-language="Italian" tvg-logo="" group-title="Italie",Rai Movie
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 #EXTINF:-1 tvg-id="Rai News 24 IT" tvg-name="Rai News 24 IT" tvg-language="Italian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Rai_News_24_-_Logo_2013.svg/1280px-Rai_News_24_-_Logo_2013.svg.png" group-title="Italie",Rai News 24
 http://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=0000001
 #EXTINF:-1 tvg-id="Rai News 24 IT" tvg-name="Rai News 24 IT" tvg-language="Italian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Rai_News_-_Logo_2010.svg/1200px-Rai_News_-_Logo_2010.svg.png" group-title="Italie",Rai News 24
 https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews_1800/chunklist.m3u8
-#EXTINF:-1 tvg-id="Rai Premium IT" tvg-name="Rai Premium IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/s5CnlRh.jpg" group-title="Movies",Rai Premium
+#EXTINF:-1 tvg-id="Rai Premium IT" tvg-name="Rai Premium IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/s5CnlRh.jpg" group-title="Italie",Rai Premium
 http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
-#EXTINF:-1 tvg-id="Rai Sport IT" tvg-name="Rai Sport IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/Lqtz4tS.jpg" group-title="Sport",Rai Sport
+#EXTINF:-1 tvg-id="Rai Sport IT" tvg-name="Rai Sport IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/Lqtz4tS.jpg" group-title="Italie",Rai Sport
 http://everyrai-lh.akamaihd.net/i/raisportjolly1_1@177967/index_400_av-p.m3u8
 #EXTINF:-1 tvg-id="Rai YoYo IT" tvg-name="Rai YoYo IT" tvg-language="Italian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Rai_Yoyo_-_Logo_2017.svg/1200px-Rai_Yoyo_-_Logo_2017.svg.png" group-title="Italie",Rai YoYo
 http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8
@@ -6225,7 +6225,7 @@ https://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8?fluxustv.m3u8
 https://57068da1deb21.streamlock.net/radiortr99/radiortr99/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Italian" tvg-logo="" group-title="Italie",RTTR
 http://wma07.fluidstream.net:1935/RTTRlive/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Italian" tvg-logo="https://i.imgur.com/c5s5l3n.png" group-title="Sport",RTV Sport (San Marino)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Italian" tvg-logo="https://i.imgur.com/c5s5l3n.png" group-title="Italie",RTV Sport (San Marino)
 https://dlxommsyqo2g0.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Italian" tvg-logo="" group-title="Italie",RTV38
 https://open.http.mp.streamamg.com/p/3001301/sp/300130100/playManifest/entryId/0_seco7tg8/format/applehttp/protocol/https/uiConfId/30026353/a.m3u8
@@ -6237,11 +6237,11 @@ http://senato.spectar.tv:1935/senato-live/ngrp:webtv1_all/chunklist_b1155072_DVR
 http://dcunilive35-lh.akamaihd.net/i/dclive_1@668625/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Italian" tvg-logo="https://i.imgur.com/RPXusvS.png" group-title="Italie",Sophia TV
 https://www.onairport.live/sophiatv-it-live/livestream_low/chunklist_w217998957.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Italian" tvg-logo="" group-title="Sport",SporTVL
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Italian" tvg-logo="" group-title="Italie",SporTVL
 http://dcunilive36-lh.akamaihd.net/i/dclive_1@662153/index_150_av-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Italian" tvg-logo="" group-title="Sport",SporTVL
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Italian" tvg-logo="" group-title="Italie",SporTVL
 https://dcunilive36-lh.akamaihd.net/i/dclive_1@662153/index_150_av-p.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Italian" tvg-logo="" group-title="Sport",SporTVL
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Italian" tvg-logo="" group-title="Italie",SporTVL
 https://dcunilive36-lh.akamaihd.net/i/dclive_1@662153/master.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Italian" tvg-logo="" group-title="Italie",Studio 100
 http://wms.shared.streamshow.it/studio100ta/studio100ta/playlist.m3u8
