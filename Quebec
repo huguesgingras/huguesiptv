@@ -183,7 +183,7 @@ http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/11482.m3u8
 
 http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/366
 
-#EXTINF:0 tvg-logo="https://www.cooptel.ca/wp-content/uploads/2018/12/Logo-TVA-Sports-2-COULEUR_COLOR-e1554814781599.png" group-title="Quebec",TVA SPORT 2 
+#EXTINF:0 tvg-logo="https://bellaliant.bell.ca/binaries/small/content/gallery/common_en/tv/channel-logos/tvchannellogos-tva-sports2-300x300.png" group-title="Quebec",TVA SPORT 2 
 
 http://beastiptv.tv:25461/live/jennifer/jennifer/6440.m3u8
 
@@ -334,11 +334,11 @@ http://super1.ideaiptv.com:25461/mousanew/2342343/20205
 http://iptv6.premium-stv.com:25461/sourcefrhevcpro1/0493432475/3288
 
 #EXTM3U
-#EXTINF:-1  group-title="Alternative",|CA| TVA MONTREAL
+#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/tva_hd.jpg" group-title="Alternative",|CA| TVA MONTREAL
 http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/11482.m3u8
-#EXTINF:-1 group-title="Alternative",|CA| VRAK TV
+#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/vrakhd.jpg" group-title="Alternative",|CA| VRAK TV
 http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/11479.m3u8
-#EXTINF:-1 group-title="Alternative",|CA| VTELE HD
+#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/addikhd.jpg" group-title="Alternative",|CA| VTELE HD
 http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/2740.m3u8
 #EXTINF:-1 group-title="Alternative",|CA| ADDIK TV
 http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/11507.m3u8
