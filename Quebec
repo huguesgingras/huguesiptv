@@ -27,7 +27,8 @@ http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11480
 
 
 #EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/casahd.jpg" group-title="Quebec",CASA 
-http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/11503.m3u8
+http://beastiptv.tv:25461/live/jennifer/jennifer/6450.m3u8
+
 
 #EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/cinepohd.jpg" group-title="Quebec",CINEPOP
 
@@ -39,15 +40,14 @@ http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/11500.m3u8
 #EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/disfr.jpg" group-title="Quebec",DISNEY
  
 
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/2745
+http://beastiptv.tv:25461/live/jennifer/jennifer/6452.m3u8
 
 #EXTINF:-1 ,DISNEY FRENCH
-http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/2745.m3u8
+http://beastiptv.tv:25461/live/jennifer/jennifer/6453.m3u8
 
 #EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/elles.jpg" group-title="Quebec",Elle Fiction
 
-
-http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/11494.m3u8
+http://beastiptv.tv:25461/live/jennifer/jennifer/6461.m3u8
 
 #EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/evasion_hd.jpg" group-title="Quebec",EVASION
 http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11540
@@ -58,17 +58,16 @@ http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11540
 http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/18461
 
 #EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/historiahd.jpg" group-title="Quebec",HISTORIA
-http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/11475.m3u8
+http://beastiptv.tv:25461/live/jennifer/jennifer/6455.m3u8
 
 #EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/rdi_hd.jpg" group-title="Quebec",ICI RDI 
 
-http://iptv-luxe.com:8789/filipemiranda/b5sh0Muzb7/11492
+http://beastiptv.tv:25461/live/jennifer/jennifer/6457.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/srchd.jpg" group-title="Quebec",ICI MONTREAL
  
 
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/2744
-
+http://beastiptv.tv:25461/live/jennifer/jennifer/6456.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/srchd.jpg" group-title="Quebec",ICI VANCOUVER 
 
@@ -98,7 +97,7 @@ http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11496
 
 #EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/prise2hd.jpg" group-title="Quebec",PRISE 2 
 
-http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/11493.m3u8
+http://beastiptv.tv:25461/live/jennifer/jennifer/6463.m3u8
 
 #EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/rds.jpg" group-title="Quebec",RDS 
 http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11491
@@ -107,7 +106,7 @@ http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11491
  
 
 
-http://iptv-luxe.com:8789/filipemiranda/b5sh0Muzb7/11490
+http://beastiptv.tv:25461/live/jennifer/jennifer/6465.m3u8
 
 #EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/rdsihd.jpg" group-title="Quebec",RDS INFO 
 
@@ -118,8 +117,7 @@ http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11538
  
 
 
-http://iptv-luxe.com:8789/filipemiranda/b5sh0Muzb7/11489
-
+http://beastiptv.tv:25461/live/jennifer/jennifer/6467.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/sehd.jpg" group-title="Quebec",SUPER ECRAN 1
  
@@ -152,8 +150,7 @@ http://iptv-luxe.com:8789/filipemiranda/b5sh0Muzb7/11485
 http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/2730
 
 #EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/teletoonf.jpg" group-title="Quebec",TELETOON 
-http://iptv6.premium-stv.com:25461/live/sourcecanadapro1/4042848025/388.m3u8
-
+http://beastiptv.tv:25461/live/jennifer/jennifer/6474.m3u8
 
 #EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/tvmaginohd.jpg" group-title="Quebec",TELEMAGINO 
 
@@ -171,7 +168,7 @@ http://iptv9211.hopto.me:8000/1Ls1FvCFhJ/Zvd4M6y3QM/89147
 
 #EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/tva_hd.jpg" group-title="Quebec",TVA GATINEAU 
 
-http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/368
+http://beastiptv.tv:25461/live/jennifer/jennifer/6472.m3u8
 
 #EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/tva_hd.jpg" group-title="Quebec",TVA MONTREAL 
 http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11482
@@ -190,7 +187,7 @@ http://beastiptv.tv:25461/live/jennifer/jennifer/6440.m3u8
 #EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/unishd.jpg" group-title="Quebec",UNIS TV 
 
 
-http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/10574.m3u8
+http://beastiptv.tv:25461/live/jennifer/jennifer/6477.m3u8
 
 #EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/vtele.jpg" group-title="Quebec",V TELE 
 
@@ -210,10 +207,10 @@ http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11478
 
 
 
-http://iptv-luxe.com:8789/filipemiranda/b5sh0Muzb7/11476
+http://beastiptv.tv:25461/live/jennifer/jennifer/6482.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/zhd.jpg" group-title="Quebec",ZTELE 
-http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/11477.m3u8
+http://beastiptv.tv:25461/live/jennifer/jennifer/6481.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/amchd.jpg" group-title="Canada",|CA| AMC
 http://iptv6.premium-stv.com:25461/live/sourcecanadapro1/4042848025/619.m3u8
@@ -422,4 +419,3 @@ http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/11478.m3u8
 http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/11476.m3u8
 #EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/zhd.jpg" group-title="Alternative",|CA| ZTELE
 http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/11477.m3u8
-
