@@ -87,13 +87,13 @@ http://beastiptv.tv:25461/live/jennifer/jennifer/6467.m3u8
 http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11488
 
 #EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/se2hd.jpg" group-title="Quebec",SUPER ECRAN 2
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11487
+http://tvla.xyz:25461/qwwrqnnc/6zr7YEu4i3/1361725
 
 #EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/se3hd.jpg" group-title="Quebec",SUPER ECRAN 3
 http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11486
 
 #EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/se4hd.jpg" group-title="Quebec",SUPER ECRAN 4
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11485
+http://tvla.xyz:25461/qwwrqnnc/6zr7YEu4i3/1361728
 
 #EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/tqc_hd.jpg" group-title="Quebec",TELE QUEBEC 
 http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/2730
@@ -108,7 +108,7 @@ http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11498
 http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11539
 
 #EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/tv5_hd.jpg" group-title="Quebec",TV5 
-http://iptv9211.hopto.me:8000/1Ls1FvCFhJ/Zvd4M6y3QM/89147
+http://tvla.xyz:25461/qwwrqnnc/6zr7YEu4i3/1361733
 
 #EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/tva_hd.jpg" group-title="Quebec",TVA GATINEAU 
 http://beastiptv.tv:25461/live/jennifer/jennifer/6472.m3u8
@@ -144,7 +144,22 @@ http://beastiptv.tv:25461/live/jennifer/jennifer/6482.m3u8
 http://beastiptv.tv:25461/live/jennifer/jennifer/6481.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/amchd.jpg" group-title="Canada",|CA| AMC
-http://iptv6.premium-stv.com:25461/live/sourcecanadapro1/4042848025/619.m3u8
+http://tvla.xyz:25461/qwwrqnnc/6zr7YEu4i3/1361671
+
+#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/tsn1.jpg" group-title="Canada",TSN 1
+http://tvla.xyz:25461/qwwrqnnc/6zr7YEu4i3/1361711
+
+#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/tsn2.jpg" group-title="Canada",TSN 2
+http://tvla.xyz:25461/qwwrqnnc/6zr7YEu4i3/1361713
+
+#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/tsn3.jpg" group-title="Canada",TSN 3
+http://tvla.xyz:25461/qwwrqnnc/6zr7YEu4i3/1361714
+
+#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/tsn4.jpg" group-title="Canada",TSN 4
+http://tvla.xyz:25461/qwwrqnnc/6zr7YEu4i3/1361715
+
+#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/tsn5.jpg" group-title="Canada",TSN 5
+http://tvla.xyz:25461/qwwrqnnc/6zr7YEu4i3/1361716
 
 #EXTINF:-1 tvg-logo="http://img.over-blog-kiwi.com/0/95/30/84/20160803/ob_027404_ob-e582c6-capture.JPG" group-title="France",13 EMERUE
 http://saba12.com:80/berat/berat/6493
