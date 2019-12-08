@@ -303,91 +303,89 @@ http://super1.ideaiptv.com:25461/mousanew/2342343/20205
 http://iptv6.premium-stv.com:25461/sourcefrhevcpro1/0493432475/3288
 
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/tva_hd.jpg" group-title="Alternative",|CA| TVA MONTREAL
-http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/11482.m3u8
-#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/vrakhd.jpg" group-title="Alternative",|CA| VRAK TV
-http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/11479.m3u8
-#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/addikhd.jpg" group-title="Alternative",|CA| VTELE HD
+#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/tva_hd.jpg" group-title="Alternative",TVA MONTREAL
+http://adatv.eu:8080/4mMdCPlK1M/xfzyOjH9gL/187779
+#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/vrakhd.jpg" group-title="Alternative",VRAK TV
+http://tvla.xyz:25461/qwwrqnnc/6zr7YEu4i3/1361731
+#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/addikhd.jpg" group-title="Alternative",VTELE HD
 http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/2740.m3u8
-#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/addikhd.jpg" group-title="Alternative",|CA| ADDIK TV
+#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/addikhd.jpg" group-title="Alternative",ADDIK TV
 http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/11507.m3u8
-#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/artv_hd.jpg" group-title="Alternative",|CA| ARTV
-http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/11506.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/assemblee.png" group-title="Alternative",|CA| ASSEMBLEE NATIONALE
+#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/artv_hd.jpg" group-title="Alternative",ARTV
+http://adatv.eu:8080/4mMdCPlK1M/xfzyOjH9gL/187766
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/assemblee.png" group-title="Alternative",ASSEMBLEE NATIONALE
 http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/11097.m3u8
-#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/canaldhd.jpg" group-title="Alternative",|CA| CANAL D HD
-http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/11505.m3u8
-#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/savoir.jpg" group-title="Alternative",|CA| CANAL SAVOIR
-http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/11504.m3u8
-#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/vie.jpg" group-title="Alternative",|CA| CANAL VIE
+#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/canaldhd.jpg" group-title="Alternative",CANAL D
+http://adatv.eu:8080/4mMdCPlK1M/xfzyOjH9gL/197391
+#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/savoir.jpg" group-title="Alternative",CANAL SAVOIR
+http://adatv.eu:8080/4mMdCPlK1M/xfzyOjH9gL/197467
+#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/vie.jpg" group-title="Alternative",CANAL VIE
 http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/11480.m3u8
-#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/savoir.jpg" group-title="Alternative",|CA| CANALSAVOIR
-http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/8037.m3u8
-#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/casahd.jpg" group-title="Alternative",|CA| CASA
-http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/11503.m3u8
-#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/cpac.jpg" group-title="Alternative",|CA| CPAC FRENCH
+#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/casahd.jpg" group-title="Alternative",CASA
+http://adatv.eu:8080/4mMdCPlK1M/xfzyOjH9gL/155712
+#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/cpac.jpg" group-title="Alternative",CPAC
 http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/11500.m3u8
-#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/disfr.jpg" group-title="Alternative",|CA| DISNEY FRENCH
+#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/disfr.jpg" group-title="Alternative",DISNEY
 http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/2745.m3u8
-#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/evasion_hd.jpg" group-title="Alternative",|CA| EVASION
-http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/11540.m3u8
-#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/historiahd.jpg" group-title="Alternative",|CA| HISTORIA
-http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/11475.m3u8
-#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/srchd.jpg" group-title="Alternative",|CA| ICI MONTREAL
-http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/2744.m3u8
-#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/srchd.jpg" group-title="Alternative",|CA| ICI VANCOUVER
+#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/evasion_hd.jpg" group-title="Alternative",EVASION
+http://adatv.eu:8080/4mMdCPlK1M/xfzyOjH9gL/197388
+#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/historiahd.jpg" group-title="Alternative",HISTORIA
+http://adatv.eu:8080/4mMdCPlK1M/xfzyOjH9gL/155707
+#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/srchd.jpg" group-title="Alternative",ICI MONTREAL
+http://tvla.xyz:25461/qwwrqnnc/6zr7YEu4i3/1361720
+#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/srchd.jpg" group-title="Alternative",ICI VANCOUVER
 http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/11474.m3u8
-#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/lcn_hd.jpg" group-title="Alternative",|CA| LCN
+#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/lcn_hd.jpg" group-title="Alternative",LCN
 http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/11499.m3u8
-#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/meteohd.jpg" group-title="Alternative",|CA| METEO
+#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/meteohd.jpg" group-title="Alternative",METEO
 http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/11497.m3u8
-#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/moicie.jpg" group-title="Alternative",|CA| MOI & CIE
-http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/11496.m3u8
-#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/elles.jpg" group-title="Alternative",|CA| MUSIQUE PLUS
-http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/11494.m3u8
-#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/prise2hd.jpg" group-title="Alternative",|CA| PRISE 2
-http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/11493.m3u8
-#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/rdi_hd.jpg" group-title="Alternative",|CA| RDI
-http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/11492.m3u8
-#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/rds.jpg" group-title="Alternative",|CA| RDS
-http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/11491.m3u8
-#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/rds2hd.jpg" group-title="Alternative",|CA| RDS 2
-http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/11490.m3u8
-#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/rdsihd.jpg" group-title="Alternative",|CA| RDS INFO
-http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/11538.m3u8
-#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/tvasportshd.jpg" group-title="Alternative",|CA| TVA SPORTS HD
+#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/moicie.jpg" group-title="Alternative",MOI & CIE
+http://adatv.eu:8080/4mMdCPlK1M/xfzyOjH9gL/187771
+#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/elles.jpg" group-title="Alternative",Elle Fiction
+http://adatv.eu:8080/4mMdCPlK1M/xfzyOjH9gL/155710
+#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/prise2hd.jpg" group-title="Alternative",PRISE 2
+http://adatv.eu:8080/4mMdCPlK1M/xfzyOjH9gL/187777
+#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/rdi_hd.jpg" group-title="Alternative",RDI
+http://adatv.eu:8080/4mMdCPlK1M/xfzyOjH9gL/187789
+#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/rds.jpg" group-title="Alternative",RDS
+http://adatv.eu:8080/4mMdCPlK1M/xfzyOjH9gL/155736
+#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/rds2hd.jpg" group-title="Alternative",RDS 2
+http://adatv.eu:8080/4mMdCPlK1M/xfzyOjH9gL/155735
+#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/rdsihd.jpg" group-title="Alternative",RDS INFO
+http://tvla.xyz:25461/qwwrqnnc/6zr7YEu4i3/1361723
+#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/tvasportshd.jpg" group-title="Alternative",TVA SPORTS
 http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/366
-#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/series.jpg" group-title="Alternative",|CA| SERIES+
-http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/11489.m3u8
-#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/sehd.jpg" group-title="Alternative",|CA| SUPER ECRAN 1
-http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/11488.m3u8
-#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/se2hd.jpg" group-title="Alternative",|CA| SUPER ECRAN 2
-http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/11487.m3u8
-#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/se3hd.jpg" group-title="Alternative",|CA| SUPER ECRAN 3
-http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/11486.m3u8
-#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/se4hd.jpg" group-title="Alternative",|CA| SUPER ECRAN 4
-http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/11485.m3u8
-#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/friss.jpg" group-title="Alternative",|CA| FRISSONS
+#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/series.jpg" group-title="Alternative",SERIES+
+http://adatv.eu:8080/4mMdCPlK1M/xfzyOjH9gL/197392
+#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/sehd.jpg" group-title="Alternative",SUPER ECRAN 1
+http://adatv.eu:8080/4mMdCPlK1M/xfzyOjH9gL/155730
+#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/se2hd.jpg" group-title="Alternative",SUPER ECRAN 2
+http://adatv.eu:8080/4mMdCPlK1M/xfzyOjH9gL/155729
+#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/se3hd.jpg" group-title="Alternative",SUPER ECRAN 3
+http://adatv.eu:8080/4mMdCPlK1M/xfzyOjH9gL/155728
+#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/se4hd.jpg" group-title="Alternative",SUPER ECRAN 4
+http://adatv.eu:8080/4mMdCPlK1M/xfzyOjH9gL/155721
+#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/friss.jpg" group-title="Alternative",FRISSONS
 http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/18461.m3u8
-#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/cinepohd.jpg" group-title="Alternative",|CA| CINEPOP
-http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/11501.m3u8
-#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/max.jpg" group-title="Alternative",|CA| MAX
+#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/cinepohd.jpg" group-title="Alternative",CINEPOP
+http://adatv.eu:8080/4mMdCPlK1M/xfzyOjH9gL/187784
+#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/max.jpg" group-title="Alternative",MAX
 http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/11495.m3u8
-#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/tqc_hd.jpg" group-title="Alternative",|CA| TELE QUEBEC
-http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/2730.m3u8
-#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/tvmaginohd.jpg" group-title="Alternative",|CA| TELEMAGINO
+#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/tqc_hd.jpg" group-title="Alternative",TELE QUEBEC
+http://tvla.xyz:25461/qwwrqnnc/6zr7YEu4i3/1361727
+#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/tvmaginohd.jpg" group-title="Alternative",TELEMAGINO
 http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/11498.m3u8
-#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/teletoonf.jpg" group-title="Alternative",|CA| TELETOON
-http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/2743.m3u8
-#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/tfo_hd.jpg" group-title="Alternative",|CA| TFO
-http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/11539.m3u8
-#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/tv5_hd.jpg" group-title="Alternative",|CA| TV5 QUEBEC
-http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/11484.m3u8
-#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/unishd.jpg" group-title="Alternative",|CA| UNIS TV
-http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/10574.m3u8
-#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/yoopahd.jpg" group-title="Alternative",|CA| YOOPA
-http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/11478.m3u8
-#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/zeste_hd.jpg" group-title="Alternative",|CA| ZESTE
-http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/11476.m3u8
-#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/zhd.jpg" group-title="Alternative",|CA| ZTELE
-http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/11477.m3u8
+#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/teletoonf.jpg" group-title="Alternative",TELETOON
+http://adatv.eu:8080/4mMdCPlK1M/xfzyOjH9gL/183308
+#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/tfo_hd.jpg" group-title="Alternative",TFO
+http://adatv.eu:8080/4mMdCPlK1M/xfzyOjH9gL/197386
+#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/tv5_hd.jpg" group-title="Alternative",TV5 QUEBEC
+http://tvla.xyz:25461/qwwrqnnc/6zr7YEu4i3/1361733
+#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/unishd.jpg" group-title="Alternative",UNIS TV
+http://adatv.eu:8080/4mMdCPlK1M/xfzyOjH9gL/187773
+#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/yoopahd.jpg" group-title="Alternative",YOOPA
+http://adatv.eu:8080/4mMdCPlK1M/xfzyOjH9gL/187783
+#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/zeste_hd.jpg" group-title="Alternative",ZESTE
+http://adatv.eu:8080/4mMdCPlK1M/xfzyOjH9gL/197390
+#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/zhd.jpg" group-title="Alternative",ZTELE
+http://adatv.eu:8080/4mMdCPlK1M/xfzyOjH9gL/155714
