@@ -15,7 +15,7 @@ http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11097
 http://beastiptv.tv:25461/live/jennifer/jennifer/6451.ts
 
 #EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/savoir.jpg" group-title="Quebec",CANAL SAVOIR
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11504
+http://85.217.222.17:8080/qjt65v8c3u/mf2vq9dn0k/53740
 
 #EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/vie.jpg" group-title="Quebec",CANAL VIE
 http://beastiptv.tv:25461/live/jennifer/jennifer/6479.ts
@@ -60,10 +60,10 @@ http://nosurrender.live:8080/5WkwInCd2V/5SEEzyUvQo/70607
 http://beastiptv.tv:25461/live/jennifer/jennifer/6459.ts
 
 #EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/max.jpg" group-title="Quebec",MAX
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11495
+http://85.217.222.17:8080/qjt65v8c3u/mf2vq9dn0k/53735
 
 #EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/meteohd.jpg" group-title="Quebec",METEOMEDIA 
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11497
+http://85.217.222.17:8080/qjt65v8c3u/mf2vq9dn0k/53734
 
 #EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/moicie.jpg" group-title="Quebec",MOI ET CIE 
 http://beastiptv.tv:25461/live/jennifer/jennifer/6460.ts
@@ -84,19 +84,19 @@ http://beastiptv.tv:25461/live/jennifer/jennifer/6466.ts
 http://beastiptv.tv:25461/live/jennifer/jennifer/6467.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/sehd.jpg" group-title="Quebec",SUPER ECRAN 1
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11488
+http://85.217.222.17:8080/qjt65v8c3u/mf2vq9dn0k/53725
 
 #EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/se2hd.jpg" group-title="Quebec",SUPER ECRAN 2
-http://tvla.xyz:25461/qwwrqnnc/6zr7YEu4i3/1361725
+http://85.217.222.17:8080/qjt65v8c3u/mf2vq9dn0k/53724
 
 #EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/se3hd.jpg" group-title="Quebec",SUPER ECRAN 3
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11486
+http://85.217.222.17:8080/qjt65v8c3u/mf2vq9dn0k/53723
 
 #EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/se4hd.jpg" group-title="Quebec",SUPER ECRAN 4
-http://tvla.xyz:25461/qwwrqnnc/6zr7YEu4i3/1361728
+http://85.217.222.17:8080/qjt65v8c3u/mf2vq9dn0k/53722
 
 #EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/tqc_hd.jpg" group-title="Quebec",TELE QUEBEC 
-http://beastiptv.tv:25461/live/jennifer/jennifer/6471.ts
+http://85.217.222.17:8080/qjt65v8c3u/mf2vq9dn0k/53719
 
 #EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/teletoonf.jpg" group-title="Quebec",TELETOON 
 http://beastiptv.tv:25461/live/jennifer/jennifer/6474.m3u8
@@ -117,7 +117,7 @@ http://beastiptv.tv:25461/live/jennifer/jennifer/6472.m3u8
 http://beastiptv.tv:25461/live/jennifer/jennifer/6473.ts
 
 #EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/tva_hd.jpg" group-title="Quebec",TVA QUEBEC 
-http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/11482.m3u8
+http://85.217.222.17:8080/qjt65v8c3u/mf2vq9dn0k/53708
 
 #EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/tvasportshd.jpg" group-title="Quebec",TVA SPORT 
 http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/366
