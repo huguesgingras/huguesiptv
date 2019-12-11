@@ -108,7 +108,7 @@ http://beastiptv.tv:25461/live/jennifer/jennifer/6468.ts
 http://beastiptv.tv:25461/live/jennifer/jennifer/6469.ts
 
 #EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/tv5_hd.jpg" group-title="Quebec",TV5 
-http://tvla.xyz:25461/qwwrqnnc/6zr7YEu4i3/1361733
+http://beastiptv.tv:25461/live/Keven/keven/6470.ts
 
 #EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/tva_hd.jpg" group-title="Quebec",TVA GATINEAU 
 http://beastiptv.tv:25461/live/jennifer/jennifer/6472.m3u8
@@ -147,22 +147,22 @@ http://beastiptv.tv:25461/live/jennifer/jennifer/6481.m3u8
 https://www.youtube.com/watch?v=ouyNGvjhvHE&list=PLeqQIze5rglod27RQgN5ktMTXOLkG3AuN
 
 #EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/amchd.jpg" group-title="Canada",|CA| AMC
-http://tvla.xyz:25461/qwwrqnnc/6zr7YEu4i3/1361671
+http://beastiptv.tv:25461/live/jennifer/jennifer/2651.ts
 
 #EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/tsn1.jpg" group-title="Canada",TSN 1
-http://tvla.xyz:25461/qwwrqnnc/6zr7YEu4i3/1361711
+http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/890.ts
 
 #EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/tsn2.jpg" group-title="Canada",TSN 2
-http://tvla.xyz:25461/qwwrqnnc/6zr7YEu4i3/1361713
+http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/891.ts
 
 #EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/tsn3.jpg" group-title="Canada",TSN 3
-http://tvla.xyz:25461/qwwrqnnc/6zr7YEu4i3/1361714
+http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/892.ts
 
 #EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/tsn4.jpg" group-title="Canada",TSN 4
-http://tvla.xyz:25461/qwwrqnnc/6zr7YEu4i3/1361715
+http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/893.ts
 
 #EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/tsn5.jpg" group-title="Canada",TSN 5
-http://tvla.xyz:25461/qwwrqnnc/6zr7YEu4i3/1361716
+http://peeweeh.biz:8000/live/kellyrestreams/U4anm6Pp/894.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/NBC_Sports_Bay_Area.png/800px-NBC_Sports_Bay_Area.png" group-title="Canada",NBC Sports Bay Area (Geo)
 http://tvecsnbayarea-i.akamaihd.net/hls/live/219791/CSNbayareax/4296k/prog.m3u8
