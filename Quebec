@@ -1,24 +1,24 @@
 #EXTM3U
 #EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/addikhd.jpg" group-title="Quebec",ADDIK TV
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11507
+http://beastiptv.tv:25461/live/jennifer/jennifer/6449.ts
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/AMItv.svg/langfr-250px-AMItv.svg.png" group-title="Quebec",AMI TELE
 http://mundo2tv.xyz:25461/Lolo/Lolo/8385
 
 #EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/artv_hd.jpg" group-title="Quebec",ARTV
- http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11506
+http://beastiptv.tv:25461/live/jennifer/jennifer/6483.ts
 
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/assemblee.png" group-title="Quebec",ASSEMBLEE NATIONALE
 http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11097
 
 #EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/canaldhd.jpg" group-title="Quebec",CANAL D
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11505
+http://beastiptv.tv:25461/live/jennifer/jennifer/6451.ts
 
 #EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/savoir.jpg" group-title="Quebec",CANAL SAVOIR
 http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11504
 
 #EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/vie.jpg" group-title="Quebec",CANAL VIE
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11480
+http://beastiptv.tv:25461/live/jennifer/jennifer/6479.ts
 
 #EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/casahd.jpg" group-title="Quebec",CASA 
 http://beastiptv.tv:25461/live/jennifer/jennifer/6450.m3u8
@@ -27,7 +27,7 @@ http://beastiptv.tv:25461/live/jennifer/jennifer/6450.m3u8
 http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11501
 
 #EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/cpac.jpg" group-title="Quebec",CPAC
-http://185.71.66.42:88/222792832522851/222792832522851/2633
+http://beastiptv.tv:25461/live/jennifer/jennifer/2741.ts
 
 #EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/disfr.jpg" group-title="Quebec",DISNEY
 http://beastiptv.tv:25461/live/jennifer/jennifer/6452.m3u8
@@ -36,7 +36,7 @@ http://beastiptv.tv:25461/live/jennifer/jennifer/6452.m3u8
 http://beastiptv.tv:25461/live/jennifer/jennifer/6461.m3u8
 
 #EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/evasion_hd.jpg" group-title="Quebec",EVASION
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11540
+http://beastiptv.tv:25461/live/jennifer/jennifer/6454.ts
 
 #EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/friss.jpg" group-title="Quebec",FRISSON 
 http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/18461
@@ -51,13 +51,13 @@ http://beastiptv.tv:25461/live/jennifer/jennifer/6457.m3u8
 http://beastiptv.tv:25461/live/jennifer/jennifer/2750.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/srchd.jpg" group-title="Quebec",ICI VANCOUVER 
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11474
+http://beastiptv.tv:25461/live/jennifer/jennifer/6458.ts
 
 #EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/investighd.jpg" group-title="Quebec",INVESTIGATION 
 http://nosurrender.live:8080/5WkwInCd2V/5SEEzyUvQo/70607
 
 #EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/lcn_hd.jpg" group-title="Quebec",LCN 
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11499
+http://beastiptv.tv:25461/live/jennifer/jennifer/6459.ts
 
 #EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/max.jpg" group-title="Quebec",MAX
 http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11495
@@ -66,19 +66,19 @@ http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11495
 http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11497
 
 #EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/moicie.jpg" group-title="Quebec",MOI ET CIE 
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11496
+http://beastiptv.tv:25461/live/jennifer/jennifer/6460.ts
 
 #EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/prise2hd.jpg" group-title="Quebec",PRISE 2 
 http://beastiptv.tv:25461/live/jennifer/jennifer/6463.m3u8
 
 #EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/rds.jpg" group-title="Quebec",RDS 
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11491
+http://beastiptv.tv:25461/live/jennifer/jennifer/6464.ts
 
 #EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/rds2hd.jpg" group-title="Quebec",RDS 2
 http://beastiptv.tv:25461/live/jennifer/jennifer/6465.m3u8
 
 #EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/rdsihd.jpg" group-title="Quebec",RDS INFO 
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11538
+http://beastiptv.tv:25461/live/jennifer/jennifer/6466.ts
 
 #EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/series.jpg" group-title="Quebec",SERIES+
 http://beastiptv.tv:25461/live/jennifer/jennifer/6467.m3u8
@@ -96,16 +96,16 @@ http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11486
 http://tvla.xyz:25461/qwwrqnnc/6zr7YEu4i3/1361728
 
 #EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/tqc_hd.jpg" group-title="Quebec",TELE QUEBEC 
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/2730
+http://beastiptv.tv:25461/live/jennifer/jennifer/6471.ts
 
 #EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/teletoonf.jpg" group-title="Quebec",TELETOON 
 http://beastiptv.tv:25461/live/jennifer/jennifer/6474.m3u8
 
 #EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/tvmaginohd.jpg" group-title="Quebec",TELEMAGINO 
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11498
+http://beastiptv.tv:25461/live/jennifer/jennifer/6468.ts
 
 #EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/tfo_hd.jpg" group-title="Quebec",TFO 
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11539
+http://beastiptv.tv:25461/live/jennifer/jennifer/6469.ts
 
 #EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/tv5_hd.jpg" group-title="Quebec",TV5 
 http://tvla.xyz:25461/qwwrqnnc/6zr7YEu4i3/1361733
@@ -114,7 +114,7 @@ http://tvla.xyz:25461/qwwrqnnc/6zr7YEu4i3/1361733
 http://beastiptv.tv:25461/live/jennifer/jennifer/6472.m3u8
 
 #EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/tva_hd.jpg" group-title="Quebec",TVA MONTREAL 
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11482
+http://beastiptv.tv:25461/live/jennifer/jennifer/6473.ts
 
 #EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/tva_hd.jpg" group-title="Quebec",TVA QUEBEC 
 http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/11482.m3u8
@@ -132,10 +132,10 @@ http://beastiptv.tv:25461/live/jennifer/jennifer/6477.m3u8
 http://iptv6.premium-stv.com:25461/live/sourcecanadapro1/4042848025/361.m3u8
 
 #EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/vrakhd.jpg" group-title="Quebec",VRAK TV 
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11479
+http://beastiptv.tv:25461/live/jennifer/jennifer/6478.ts
 
 #EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/yoopahd.jpg" group-title="Quebec",YOOPA 
-http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11478
+http://beastiptv.tv:25461/live/jennifer/jennifer/6480.ts
 
 #EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/zeste_hd.jpg" group-title="Quebec",ZESTE
 http://beastiptv.tv:25461/live/jennifer/jennifer/6482.m3u8
