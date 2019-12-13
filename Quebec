@@ -146,9 +146,6 @@ http://beastiptv.tv:25461/live/jennifer/jennifer/6482.m3u8
 #EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/zhd.jpg" group-title="Quebec",ZTELE 
 http://beastiptv.tv:25461/live/jennifer/jennifer/6481.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Film FR",HellBoy 2 
-https://www.youtube.com/watch?v=ouyNGvjhvHE&list=PLeqQIze5rglod27RQgN5ktMTXOLkG3AuN
-
 #EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/amchd.jpg" group-title="Canada",|CA| AMC
 http://beastiptv.tv:25461/live/jennifer/jennifer/2651.ts
 
@@ -391,3 +388,21 @@ http://beastiptv.tv:25461/live/malcolm/malcolm/6480.ts
 http://beastiptv.tv:25461/live/malcolm/malcolm/6482.ts
 #EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/zhd.jpg" group-title="Alternative",ZTELE
 http://beastiptv.tv:25461/live/malcolm/malcolm/6481.ts
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzVkMjRhNzctOGQxMC00OGE2LWJhN2EtNmYyODRiMDNlM2ZmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Film",Alien Covenant - 2017 
+http://iptvpro.vision-new.org:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/6816.mkv
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTc5NzQ4NzU4OF5BMl5BanBnXkFtZTgwNTkxMzE0MjI@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Film",All Eyez On Me L'Histoire De Tupac Shakur - 2017 
+http://iptvpro.vision-new.org:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/6817.mkv
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTcwMTM1NDU1Ml5BMl5BanBnXkFtZTgwNDk5MTgzNjE@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Film",Hyper Agent Americain - 2015 
+http://iptvpro.vision-new.org:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/6818.mkv
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTcxNGY3YjItNThkNS00OTM3LTk0ZDAtZGY1MDk2MjY4NTEzXkEyXkFqcGdeQXVyNjgxMDk3ODI@._V1_UY268_CR13,0,182,268_AL_.jpg" group-title="Film",Atomic Shark - 2016 
+http://iptvpro.vision-new.org:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/6820.mkv
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTQyYTllNTgtOGI5Zi00YWY0LWJhYWUtZTc1MmZlYTYzNzllXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Film",Aurore - 2017 
+http://iptvpro.vision-new.org:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/6821.mkv
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjE1MzM2NzgzNV5BMl5BanBnXkFtZTgwODU3NTI0MTI@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Film",Les Aventures du Capitaine Bobette - Le Film - 2017 
+http://iptvpro.vision-new.org:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/6827.mkv
