@@ -452,6 +452,9 @@ http://iptvpro.vision-new.org:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/6856.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTkwMTgwODAxMl5BMl5BanBnXkFtZTgwNTEwNTQ3MDI@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Film",The Mummy - 2017 
 http://iptvpro.vision-new.org:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/6861.mkv
 
+#EXTINF:-1 tvg-logo="" group-title="Film",Wonder Woman - 2017 
+http://iptvpro.vision-new.org:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/6861.mkv
+
 #EXTINF:-1 tvg-logo="" group-title="Film", Wonder 
 http://iptvpro.vision-new.org:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/6865.mkv
 
