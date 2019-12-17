@@ -42,7 +42,7 @@ http://beastiptv.tv:25461/live/Sandra/sandra123/6454.ts
 http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/18461
 
 #EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/historiahd.jpg" group-title="Quebec",HISTORIA
-http://beastiptv.tv:25461/live/Sandra/sandra123/6455.ts
+http://beastiptv.tv:25461/live/wally/wally123/6455.ts
 
 #EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/rdi_hd.jpg" group-title="Quebec",ICI RDI 
 http://beastiptv.tv:25461/live/Sandra/sandra123/6457.ts
@@ -60,7 +60,7 @@ http://nosurrender.live:8080/5WkwInCd2V/5SEEzyUvQo/70607
 http://beastiptv.tv:25461/live/Sandra/sandra123/6459.ts
 
 #EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/max.jpg" group-title="Quebec",MAX
-http://85.217.222.17:8080/danielanthia/2ltiimbha5/53735
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/661
 
 #EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/meteohd.jpg" group-title="Quebec",METEOMEDIA 
 http://85.217.222.17:8080/danielanthia/2ltiimbha5/53734
@@ -84,16 +84,16 @@ http://beastiptv.tv:25461/live/Sandra/sandra123/6466.ts
 http://beastiptv.tv:25461/live/Sandra/sandra123/6467.ts
 
 #EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/sehd.jpg" group-title="Quebec",SUPER ECRAN 1
-http://85.217.222.17:8080/danielanthia/2ltiimbha5/53725
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/634
 
 #EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/se2hd.jpg" group-title="Quebec",SUPER ECRAN 2
-http://85.217.222.17:8080/danielanthia/2ltiimbha5/53724
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/633
 
 #EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/se3hd.jpg" group-title="Quebec",SUPER ECRAN 3
-http://85.217.222.17:8080/danielanthia/2ltiimbha5/53723
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/632
 
 #EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/se4hd.jpg" group-title="Quebec",SUPER ECRAN 4
-http://85.217.222.17:8080/danielanthia/2ltiimbha5/53722
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/631
 
 #EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/tqc_hd.jpg" group-title="Quebec",TELE QUEBEC 
 http://beastiptv.tv:25461/live/Sandra/sandra123/6475.ts
