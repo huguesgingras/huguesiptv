@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/addikhd.jpg" group-title="Quebec",ADDIK TV
-http://beastiptv.tv:25461/live/Sandra/sandra123/6449.ts
+http://bldtv.vip:80/Jocilene1/310710/162824
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/AMItv.svg/langfr-250px-AMItv.svg.png" group-title="Quebec",AMI TELE
 http://mundo2tv.xyz:25461/Lolo/Lolo/8385
@@ -12,7 +12,7 @@ http://beastiptv.tv:25461/live/Sandra/sandra123/6483.ts
 http://iptvpro.vision-new.org:8789/IPTVPRO22VODS22PRO2/W2T29z9cBPPRO2/11097
 
 #EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/canaldhd.jpg" group-title="Quebec",CANAL D
-http://beastiptv.tv:25461/live/Sandra/sandra123/6451.ts
+http://bldtv.vip:80/Jocilene1/310710/162827
 
 #EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/savoir.jpg" group-title="Quebec",CANAL SAVOIR
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/716
@@ -63,7 +63,7 @@ http://beastiptv.tv:25461/live/Sandra/sandra123/6459.ts
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/661
 
 #EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/meteohd.jpg" group-title="Quebec",METEOMEDIA 
-http://85.217.222.17:8080/danielanthia/2ltiimbha5/53734
+http://bldtv.vip:80/Jocilene1/310710/162819
 
 #EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/moicie.jpg" group-title="Quebec",MOI ET CIE 
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/659
