@@ -1150,3 +1150,12 @@ http://iptvpro.vision-new.org:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/21331.avi
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTU0NDcxMzczMV5BMl5BanBnXkFtZTgwODkxNTUwODE@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Film",Triple 9 - 2016 
 http://iptvpro.vision-new.org:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/929.mkv
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTc1MTk0Njg4OF5BMl5BanBnXkFtZTcwODc0ODkyNw@@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Film",Project X - 2012 
+http://iptvpro.vision-new.org:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/9277.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDYzMzg5OTA0Ml5BMl5BanBnXkFtZTgwNjQzNzExMjE@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Film",Sex Tape - 2014 
+http://iptvpro.vision-new.org:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/9279.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTg4NjIwMTI5OV5BMl5BanBnXkFtZTgwNjU1MTMyMDE@._V1_UY268_CR0,0,182,268_AL_.jpg" group-title="Film",Bad Grandpa - 2013 
+http://iptvpro.vision-new.org:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/9297.mp4
