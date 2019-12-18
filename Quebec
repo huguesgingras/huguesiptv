@@ -30,7 +30,7 @@ http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/710
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/701
 
 #EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/disfr.jpg" group-title="Quebec",DISNEY
-http://beastiptv.tv:25461/live/Sandra/sandra123/6453.ts
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/690
 
 #EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/elles.jpg" group-title="Quebec",Elle Fiction
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/654
@@ -123,7 +123,7 @@ http://beastiptv.tv:25461/live/Sandra/sandra123/6473.ts
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/622
 
 #EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/tvasportshd.jpg" group-title="Quebec",TVA SPORT 
-http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/366
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/620
 
 #EXTINF:0 tvg-logo="https://bellaliant.bell.ca/binaries/small/content/gallery/common_en/tv/channel-logos/tvchannellogos-tva-sports2-300x300.png" group-title="Quebec",TVA SPORT 2 
 http://beastiptv.tv:25461/live/jennifer/jennifer/6440.m3u8
