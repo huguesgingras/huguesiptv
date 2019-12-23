@@ -1,24 +1,24 @@
 #EXTM3U
 #EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/addikhd.jpg" group-title="Quebec",ADDIK TV
-http://caspertv.live:8000/younesspro/ZBcXeRsFTO/75650
+http://tv.sigma-iptv.com:7000/45905/13543107/575542676
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/AMItv.svg/langfr-250px-AMItv.svg.png" group-title="Quebec",AMI TELE
 http://mundo2tv.xyz:25461/Lolo/Lolo/8385
 
 #EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/artv_hd.jpg" group-title="Quebec",ARTV
-http://caspertv.live:8000/younesspro/ZBcXeRsFTO/75642
+http://tv.sigma-iptv.com:7000/45905/13543107/575542684
 
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/assemblee.png" group-title="Quebec",ASSEMBLEE NATIONALE
-http://caspertv.live:8000/younesspro/ZBcXeRsFTO/75641
+http://tv.sigma-iptv.com:7000/45905/13543107/575542685
 
 #EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/canaldhd.jpg" group-title="Quebec",CANAL D
-http://caspertv.live:8000/younesspro/ZBcXeRsFTO/75632
+http://tv.sigma-iptv.com:7000/45905/13543107/575542694
 
 #EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/savoir.jpg" group-title="Quebec",CANAL SAVOIR
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/716
 
 #EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/vie.jpg" group-title="Quebec",CANAL VIE
-http://caspertv.live:8000/younesspro/ZBcXeRsFTO/75630
+http://tv.sigma-iptv.com:7000/45905/13543107/575542696
 
 #EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/casahd.jpg" group-title="Quebec",CASA 
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/714
@@ -30,19 +30,19 @@ http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/710
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/701
 
 #EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/disfr.jpg" group-title="Quebec",DISNEY
-http://caspertv.live:8000/younesspro/ZBcXeRsFTO/75564
+http://tv.sigma-iptv.com:7000/45905/13543107/575542762
 
 #EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/elles.jpg" group-title="Quebec",Elle Fiction
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/654
 
 #EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/evasion_hd.jpg" group-title="Quebec",EVASION
-http://caspertv.live:8000/younesspro/ZBcXeRsFTO/75554
+http://tv.sigma-iptv.com:7000/45905/13543107/575542772
 
 #EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/friss.jpg" group-title="Quebec",FRISSON 
-http://caspertv.live:8000/younesspro/ZBcXeRsFTO/75542
+http://tv.sigma-iptv.com:7000/45905/13543107/575542784
 
 #EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/historiahd.jpg" group-title="Quebec",HISTORIA
-http://caspertv.live:8000/younesspro/ZBcXeRsFTO/75523
+http://tv.sigma-iptv.com:7000/45905/13543107/575542803
 
 #EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/rdi_hd.jpg" group-title="Quebec",ICI RDI 
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/665
@@ -57,19 +57,19 @@ http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/641
 http://nosurrender.live:8080/5WkwInCd2V/5SEEzyUvQo/70607
 
 #EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/lcn_hd.jpg" group-title="Quebec",LCN 
-http://caspertv.live:8000/younesspro/ZBcXeRsFTO/75511
+http://tv.sigma-iptv.com:7000/45905/13543107/575542815
 
 #EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/max.jpg" group-title="Quebec",MAX
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/661
 
 #EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/meteohd.jpg" group-title="Quebec",METEOMEDIA 
-http://caspertv.live:8000/younesspro/ZBcXeRsFTO/75504
+http://tv.sigma-iptv.com:7000/45905/13543107/575542822
 
 #EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/moicie.jpg" group-title="Quebec",MOI ET CIE 
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/659
 
 #EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/prise2hd.jpg" group-title="Quebec",PRISE 2 
-http://caspertv.live:8000/younesspro/ZBcXeRsFTO/75468
+http://tv.sigma-iptv.com:7000/45905/13543107/575542858
 
 #EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/rds.jpg" group-title="Quebec",RDS 
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/640
@@ -78,10 +78,10 @@ http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/640
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/639
 
 #EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/rdsihd.jpg" group-title="Quebec",RDS INFO 
-http://caspertv.live:8000/younesspro/ZBcXeRsFTO/75464
+http://tv.sigma-iptv.com:7000/45905/13543107/575542862
 
 #EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/series.jpg" group-title="Quebec",SERIES+
-http://caspertv.live:8000/younesspro/ZBcXeRsFTO/75462
+http://tv.sigma-iptv.com:7000/45905/13543107/575542864
 
 #EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/sehd.jpg" group-title="Quebec",SUPER ECRAN 1
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/634
@@ -93,10 +93,10 @@ http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/633
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/632
 
 #EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/se4hd.jpg" group-title="Quebec",SUPER ECRAN 4
-http://caspertv.live:8000/younesspro/ZBcXeRsFTO/75422
+http://tv.sigma-iptv.com:7000/45905/13543107/575542904
 
 #EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/tqc_hd.jpg" group-title="Quebec",TELE QUEBEC 
-http://caspertv.live:8000/younesspro/ZBcXeRsFTO/75419
+http://tv.sigma-iptv.com:7000/45905/13543107/575542907
 
 #EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/teletoonf.jpg" group-title="Quebec",TELETOON+ 
 http://beastiptv.tv:25461/live/jennifer/jennifer/6474.m3u8
@@ -105,10 +105,10 @@ http://beastiptv.tv:25461/live/jennifer/jennifer/6474.m3u8
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/629
 
 #EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/tvmaginohd.jpg" group-title="Quebec",TELEMAGINO 
-http://caspertv.live:8000/younesspro/ZBcXeRsFTO/75414
+http://tv.sigma-iptv.com:7000/45905/13543107/575542912
 
 #EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/tfo_hd.jpg" group-title="Quebec",TFO 
-http://caspertv.live:8000/younesspro/ZBcXeRsFTO/75412
+http://tv.sigma-iptv.com:7000/45905/13543107/575542914
 
 #EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/tv5_hd.jpg" group-title="Quebec",TV5 
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/623
@@ -129,22 +129,22 @@ http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/620
 http://beastiptv.tv:25461/live/jennifer/jennifer/6440.m3u8
 
 #EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/unishd.jpg" group-title="Quebec",UNIS TV 
-http://caspertv.live:8000/younesspro/ZBcXeRsFTO/75393
+http://tv.sigma-iptv.com:7000/45905/13543107/575542934
 
 #EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/vtele.jpg" group-title="Quebec",V TELE 
-http://caspertv.live:8000/younesspro/ZBcXeRsFTO/75390
+http://tv.sigma-iptv.com:7000/45905/13543107/505
 
 #EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/vrakhd.jpg" group-title="Quebec",VRAK TV 
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/619
 
 #EXTINF:0 tvg-logo="https://www.videotron.com/resources/global/images/chaines/yoopahd.jpg" group-title="Quebec",YOOPA 
-http://caspertv.live:8000/younesspro/ZBcXeRsFTO/75382
+http://tv.sigma-iptv.com:7000/45905/13543107/575542944
 
 #EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/zeste_hd.jpg" group-title="Quebec",ZESTE
-http://caspertv.live:8000/younesspro/ZBcXeRsFTO/75379
+http://tv.sigma-iptv.com:7000/45905/13543107/575542947
 
 #EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/zhd.jpg" group-title="Quebec",ZTELE 
-http://caspertv.live:8000/younesspro/ZBcXeRsFTO/75378
+http://tv.sigma-iptv.com:7000/45905/13543107/575542948
 
 #EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/amchd.jpg" group-title="Canada",|CA| AMC
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/722
