@@ -219,7 +219,7 @@ http://iptv7.premium-stv.com:25461/GENERALCHA/6535709495/15
 http://iptv6.premium-stv.com:25461/sourcefrhevcpro1/0493432475/3283
 
 #EXTINF:-1 tvg-logo="http://tvdirect.t.v.pic.centerblog.net/tv-france3.png" group-title="France",FRANCE 3
-http://iptv6.premium-stv.com:25461/sourcefrhevcpro1/0493432475/3283
+http://iptv7.premium-stv.com:25461/sportgenerCH/NNBkknvcLKG/4
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/0/0c/Logo_France_4.svg/201px-Logo_France_4.svg.png" group-title="France",FRANCE 4
 http://iptv6.premium-stv.com:25461/sourcefrhevcpro1/0493432475/3284
@@ -234,7 +234,7 @@ http://super1.ideaiptv.com:25461/mousanew/2342343/20213
 http://iptv6.premium-stv.com:25461/sourcefrhevcpro1/0493432475/3280
 
 #EXTINF:-1 tvg-logo="https://www.upc.ch/content/dam/www-upc-ch/img/logos/channels/j1HdVB.img.0.64.png" group-title="France",M6
-http://iptv7.premium-stv.com:25461/GENERALCHA/6535709495/7
+http://iptv7.premium-stv.com:25461/sportgenerCH/NNBkknvcLKG/7
 
 #EXTINF:-1 tvg-logo="https://www.tv-direct.fr/assets/logo/chaines/mtv-france.jpg" group-title="France",MTV
 http://hitman.dyndns.tv:8080/live/baris/tvohne17857846/14710.ts
@@ -267,16 +267,16 @@ http://144.217.253.140/Teletoon/tracks-v1a1/index.m3u8
 http://super1.ideaiptv.com:25461/mousanew/2342343/20303
 
 #EXTINF:-1 tvg-logo="https://www.upc.ch/content/dam/www-upc-ch/img/logos/channels/lvdoHQ.img.0.64.png" group-title="France",TF1
-http://iptv6.premium-stv.com:25461/sourcefrhevcpro1/0493432475/3281
+http://iptv7.premium-stv.com:25461/sportgenerCH/NNBkknvcLKG/14
 
 #EXTINF:-1 tvg-logo="https://www.upc.ch/content/dam/www-upc-ch/img/logos/channels/VaoPsO.img.0.64.png" group-title="France",TMC
-http://iptv7.premium-stv.com:25461/GENERALCHA/6535709495/10
+http://iptv7.premium-stv.com:25461/sportgenerCH/NNBkknvcLKG/9
 
 #EXTINF:-1 tvg-logo="http://www.francophoniedesameriques.com/forum/wp-content/uploads/sites/23/2016/09/Logo.TV5Couleur-Converti-300x121.png" group-title="France",TV5
-http://super1.ideaiptv.com:25461/mousanew/2342343/20205
+http://iptv6.premium-stv.com:25461/afriquepro1gsqeg532/4685466531422/834
 
 #EXTINF:-1 tvg-logo="https://www.upc.ch/content/dam/www-upc-ch/img/logos/channels/qENsX2.img.0.64.png" group-title="France",W9
-http://iptv6.premium-stv.com:25461/sourcefrhevcpro1/0493432475/3288
+http://iptv7.premium-stv.com:25461/sportgenerCH/NNBkknvcLKG/12
 
 #EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/tva_hd.jpg" group-title="Alternative",TVA MONTREAL
 http://209.222.97.118:25461/live/Dave123/dave123/6473.ts
