@@ -323,3 +323,665 @@ http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39467
 http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39429
 #EXTINF:-1,alliptvlinks.com |FR| WEO  (SD)
 http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39454
+
+#EXTINF:-1,FR:_France_2HD
+http://tv2iptv.com:8000/live/badr/badr1234/30686.m3u8
+#EXTINF:-1,FR:_France_3HD
+http://tv2iptv.com:8000/live/badr/badr1234/30685.m3u8
+#EXTINF:-1,FR:_France_4HD
+http://tv2iptv.com:8000/live/badr/badr1234/30684.m3u8
+#EXTINF:-1,FR:_France_5HD
+http://tv2iptv.com:8000/live/badr/badr1234/30683.m3u8
+#EXTINF:-1,FR:_France_OHD
+http://tv2iptv.com:8000/live/badr/badr1234/30682.m3u8
+#EXTINF:-1,FR:_France24
+http://tv2iptv.com:8000/live/badr/badr1234/30529.m3u8
+#EXTINF:-1,FR:_FRANCEINFO
+http://tv2iptv.com:8000/live/badr/badr1234/30528.m3u8
+#EXTINF:-1,FR:_TF1_HD
+http://tv2iptv.com:8000/live/badr/badr1234/30681.m3u8
+#EXTINF:-1,FR:_M6_HD
+http://tv2iptv.com:8000/live/badr/badr1234/30680.m3u8
+#EXTINF:-1,FR:_M6_MUSIC_HD
+http://tv2iptv.com:8000/live/badr/badr1234/30679.m3u8
+#EXTINF:-1,FR:_BeinSport1_FULLHD
+http://tv2iptv.com:8000/live/badr/badr1234/30602.m3u8
+#EXTINF:-1,FR:_BeinSport1_HD
+http://tv2iptv.com:8000/live/badr/badr1234/30601.m3u8
+#EXTINF:-1,FR:_BeinSport1_SD
+http://tv2iptv.com:8000/live/badr/badr1234/30600.m3u8
+#EXTINF:-1,FR:_BeinSport2_FULLHD
+http://tv2iptv.com:8000/live/badr/badr1234/30599.m3u8
+#EXTINF:-1,FR:_BeinSport2_HD
+http://tv2iptv.com:8000/live/badr/badr1234/30598.m3u8
+#EXTINF:-1,FR:_BeinSport2_SD
+http://tv2iptv.com:8000/live/badr/badr1234/30597.m3u8
+#EXTINF:-1,FR:_BeinSport3_FULLHD
+http://tv2iptv.com:8000/live/badr/badr1234/30596.m3u8
+#EXTINF:-1,FR:_BeinSport3_HD
+http://tv2iptv.com:8000/live/badr/badr1234/30595.m3u8
+#EXTINF:-1,FR:_BeinSport3_SD
+http://tv2iptv.com:8000/live/badr/badr1234/30594.m3u8
+#EXTINF:-1,FR:_BeinSportMax10
+http://tv2iptv.com:8000/live/badr/badr1234/30587.m3u8
+#EXTINF:-1,FR:_BeinSportMax4
+http://tv2iptv.com:8000/live/badr/badr1234/30593.m3u8
+#EXTINF:-1,FR:_BeinSportMax5
+http://tv2iptv.com:8000/live/badr/badr1234/30592.m3u8
+#EXTINF:-1,FR:_BeinSportMax6
+http://tv2iptv.com:8000/live/badr/badr1234/30591.m3u8
+#EXTINF:-1,FR:_BeinSportMax7
+http://tv2iptv.com:8000/live/badr/badr1234/30590.m3u8
+#EXTINF:-1,FR:_BeinSportMax8
+http://tv2iptv.com:8000/live/badr/badr1234/30589.m3u8
+#EXTINF:-1,FR:_BeinSportMax9
+http://tv2iptv.com:8000/live/badr/badr1234/30588.m3u8
+#EXTINF:-1,FR:_CANAL+CINEMA_FULLHD
+http://tv2iptv.com:8000/live/badr/badr1234/30664.m3u8
+#EXTINF:-1,FR:_CANAL CINEMA_HD
+http://tv2iptv.com:8000/live/badr/badr1234/30663.m3u8
+#EXTINF:-1,FR:_CANAL CINEMA_SD
+http://tv2iptv.com:8000/live/badr/badr1234/30662.m3u8
+#EXTINF:-1,FR:_CANAL DECALE_FULLHD
+http://tv2iptv.com:8000/live/badr/badr1234/30658.m3u8
+#EXTINF:-1,FR:_CANAL+DECALE_HD
+http://tv2iptv.com:8000/live/badr/badr1234/30657.m3u8
+#EXTINF:-1,FR:_CANAL+DECALE_SD
+http://tv2iptv.com:8000/live/badr/badr1234/30656.m3u8
+#EXTINF:-1,FR:_CANAL FAMILY_FULLHD
+http://tv2iptv.com:8000/live/badr/badr1234/30661.m3u8
+#EXTINF:-1,FR:_CANAL FAMILY_HD
+http://tv2iptv.com:8000/live/badr/badr1234/30660.m3u8
+#EXTINF:-1,FR:_CANAL FAMILY_SD
+http://tv2iptv.com:8000/live/badr/badr1234/30659.m3u8
+#EXTINF:-1,FR:_CANAL+SERIES_FULLHD
+http://tv2iptv.com:8000/live/badr/badr1234/30655.m3u8
+#EXTINF:-1,FR:_CANAL+SERIES_HD
+http://tv2iptv.com:8000/live/badr/badr1234/30654.m3u8
+#EXTINF:-1,FR:_CANAL+SERIES_SD
+http://tv2iptv.com:8000/live/badr/badr1234/30653.m3u8
+#EXTINF:-1,FR:_CANAL+SPORT_FULLHD
+http://tv2iptv.com:8000/live/badr/badr1234/30652.m3u8
+#EXTINF:-1,FR:_CANAL+SPORT_HD
+http://tv2iptv.com:8000/live/badr/badr1234/30651.m3u8
+#EXTINF:-1,FR:_CANAL+SPORT_SD
+http://tv2iptv.com:8000/live/badr/badr1234/30650.m3u8
+#EXTINF:-1,FR:_CANAL _ SD
+http://tv2iptv.com:8000/live/badr/badr1234/30665.m3u8
+#EXTINF:-1,FR:_CANAL+_FULLHD
+http://tv2iptv.com:8000/live/badr/badr1234/30667.m3u8
+#EXTINF:-1,FR:_CANAL-J-HD
+http://tv2iptv.com:8000/live/badr/badr1234/30506.m3u8
+#EXTINF:-1,FR:_CANAL_+HD
+http://tv2iptv.com:8000/live/badr/badr1234/30666.m3u8
+#EXTINF:-1,FR:_ACTION_HD
+http://tv2iptv.com:8000/live/badr/badr1234/30626.m3u8
+#EXTINF:-1,FR:_Planet _CI
+http://tv2iptv.com:8000/live/badr/badr1234/30557.m3u8
+#EXTINF:-1,FR:_Planete HD
+http://tv2iptv.com:8000/live/badr/badr1234/30558.m3u8
+#EXTINF:-1,FR:_PLANETE+_AE
+http://tv2iptv.com:8000/live/badr/badr1234/30563.m3u8
+#EXTINF:-1,FR:_BFM
+http://tv2iptv.com:8000/live/badr/badr1234/30522.m3u8
+#EXTINF:-1,FR:_NICKELODEON
+http://tv2iptv.com:8000/live/badr/badr1234/30518.m3u8
+#EXTINF:-1,FR:_NICKELODEON_4TEEN
+http://tv2iptv.com:8000/live/badr/badr1234/30517.m3u8
+#EXTINF:-1,FR:_NICKELODEON_Junior
+http://tv2iptv.com:8000/live/badr/badr1234/30516.m3u8
+#EXTINF:-1,FR:_Disney_Channel
+http://tv2iptv.com:8000/live/badr/badr1234/30512.m3u8
+#EXTINF:-1,FR:_DISNEY_XD
+http://tv2iptv.com:8000/live/badr/badr1234/30514.m3u8
+#EXTINF:-1,FR:_DISNEY_JUNIOR
+http://tv2iptv.com:8000/live/badr/badr1234/30513.m3u8
+#EXTINF:-1,FR:_DISNEY_CINEMA
+http://tv2iptv.com:8000/live/badr/badr1234/30511.m3u8
+#EXTINF:-1,FR:_13EME_RUE
+http://tv2iptv.com:8000/live/badr/badr1234/30550.m3u8
+#EXTINF:-1,FR:_6Ter_HD
+http://tv2iptv.com:8000/live/badr/badr1234/30539.m3u8
+#EXTINF:-1,FR:_AB1-HD
+http://tv2iptv.com:8000/live/badr/badr1234/30621.m3u8
+#EXTINF:-1,FR:_AB_MOTEURS
+http://tv2iptv.com:8000/live/badr/badr1234/30622.m3u8
+#EXTINF:-1,FR:_Aerostar_HD
+http://tv2iptv.com:8000/live/badr/badr1234/30552.m3u8
+#EXTINF:-1,FR:_ALTICE_STUDIO
+http://tv2iptv.com:8000/live/badr/badr1234/30556.m3u8
+#EXTINF:-1,FR:_Animaux_HD
+http://tv2iptv.com:8000/live/badr/badr1234/30548.m3u8
+#EXTINF:-1,FR:_Arte
+http://tv2iptv.com:8000/live/badr/badr1234/30521.m3u8
+#EXTINF:-1,FR:_BET
+http://tv2iptv.com:8000/live/badr/badr1234/30632.m3u8
+#EXTINF:-1,FR:_BOING_HD
+http://tv2iptv.com:8000/live/badr/badr1234/30509.m3u8
+#EXTINF:-1,FR:_BRAVA_HD
+http://tv2iptv.com:8000/live/badr/badr1234/30636.m3u8
+#EXTINF:-1,FR:_C8_HD
+http://tv2iptv.com:8000/live/badr/badr1234/30538.m3u8
+#EXTINF:-1,FR:_Cartoon_Network
+http://tv2iptv.com:8000/live/badr/badr1234/30503.m3u8
+#EXTINF:-1,FR:_CHASSE&PECHE
+http://tv2iptv.com:8000/live/badr/badr1234/30547.m3u8
+#EXTINF:-1,FR:_CHERIE_25
+http://tv2iptv.com:8000/live/badr/badr1234/30541.m3u8
+#EXTINF:-1,FR:_Cine Classic_HD
+http://tv2iptv.com:8000/live/badr/badr1234/30645.m3u8
+#EXTINF:-1,FR:_Cine+Famiz_HD
+http://tv2iptv.com:8000/live/badr/badr1234/30647.m3u8
+#EXTINF:-1,FR:_CINE+FRISSON_HD
+http://tv2iptv.com:8000/live/badr/badr1234/30648.m3u8
+#EXTINF:-1,FR:_CINE+PREMIERE_HD
+http://tv2iptv.com:8000/live/badr/badr1234/30649.m3u8
+#EXTINF:-1,FR:_Cine+_Emotion_HD
+http://tv2iptv.com:8000/live/badr/badr1234/30646.m3u8
+#EXTINF:-1,FR:_CINE-FX_HD
+http://tv2iptv.com:8000/live/badr/badr1234/30619.m3u8
+#EXTINF:-1,FR:_CINE_POLAR_HD
+http://tv2iptv.com:8000/live/badr/badr1234/30620.m3u8
+#EXTINF:-1,FR:_COMEDIE+HD
+http://tv2iptv.com:8000/live/badr/badr1234/30629.m3u8
+#EXTINF:-1,FR:_CSTAR
+http://tv2iptv.com:8000/live/badr/badr1234/30537.m3u8
+#EXTINF:-1,FR:_C_news
+http://tv2iptv.com:8000/live/badr/badr1234/30532.m3u8
+#EXTINF:-1,FR:_DISCOVERY_CHANNEL_FULLHD
+http://tv2iptv.com:8000/live/badr/badr1234/30571.m3u8
+#EXTINF:-1,FR:_DISCOVERY_CHANNEL_HD
+http://tv2iptv.com:8000/live/badr/badr1234/30570.m3u8
+#EXTINF:-1,FR:_DISCOVERY_CHANNEL_SD
+http://tv2iptv.com:8000/live/badr/badr1234/30569.m3u8
+#EXTINF:-1,FR:_DISCOVERY_FAMILY_HD
+http://tv2iptv.com:8000/live/badr/badr1234/30565.m3u8
+#EXTINF:-1,FR:_DISCOVERY_INVESTIGATION_HD
+http://tv2iptv.com:8000/live/badr/badr1234/30564.m3u8
+#EXTINF:-1,FR:_DISCOVERY_SCIENCE_FULLHD
+http://tv2iptv.com:8000/live/badr/badr1234/30568.m3u8
+#EXTINF:-1,FR:_DISCOVERY_SCIENCE_HD
+http://tv2iptv.com:8000/live/badr/badr1234/30567.m3u8
+#EXTINF:-1,FR:_DISCOVERY_SCIENCE_SD
+http://tv2iptv.com:8000/live/badr/badr1234/30566.m3u8
+#EXTINF:-1,FR:_E
+http://tv2iptv.com:8000/live/badr/badr1234/5333.m3u8
+#EXTINF:-1,FR:_E!_ENTERTAINMENT_HD
+http://tv2iptv.com:8000/live/badr/badr1234/30633.m3u8
+#EXTINF:-1,FR:_Enorme_TV
+http://tv2iptv.com:8000/live/badr/badr1234/30523.m3u8
+#EXTINF:-1,FR:_EQUIDIA
+http://tv2iptv.com:8000/live/badr/badr1234/30583.m3u8
+#EXTINF:-1,FR:_EQUIDIA_LIFE
+http://tv2iptv.com:8000/live/badr/badr1234/30582.m3u8
+#EXTINF:-1,FR:_EQUIPE21_HD
+http://tv2iptv.com:8000/live/badr/badr1234/30525.m3u8
+#EXTINF:-1,FR:_Euronews_France
+http://tv2iptv.com:8000/live/badr/badr1234/30524.m3u8
+#EXTINF:-1,FR:_EUROSPORT1_france
+http://tv2iptv.com:8000/live/badr/badr1234/30527.m3u8
+#EXTINF:-1,FR:_EUROSPORT_2_HD
+http://tv2iptv.com:8000/live/badr/badr1234/30526.m3u8
+#EXTINF:-1,FR:_EXTREME_SPORT_HD
+http://tv2iptv.com:8000/live/badr/badr1234/30578.m3u8
+#EXTINF:-1,FR:_FOOT+
+http://tv2iptv.com:8000/live/badr/badr1234/30586.m3u8
+#EXTINF:-1,FR:_GAME_ONE
+http://tv2iptv.com:8000/live/badr/badr1234/30576.m3u8
+#EXTINF:-1,FR:_GAME_ONE+1
+http://tv2iptv.com:8000/live/badr/badr1234/30575.m3u8
+#EXTINF:-1,FR:_GOLF+
+http://tv2iptv.com:8000/live/badr/badr1234/30577.m3u8
+#EXTINF:-1,FR:_Gulli
+http://tv2iptv.com:8000/live/badr/badr1234/30508.m3u8
+#EXTINF:-1,FR:_HD1_FRANCE
+http://tv2iptv.com:8000/live/badr/badr1234/30634.m3u8
+#EXTINF:-1,FR:_INFOSPORT+
+http://tv2iptv.com:8000/live/badr/badr1234/30585.m3u8
+#EXTINF:-1,FR:_J_ONE
+http://tv2iptv.com:8000/live/badr/badr1234/30574.m3u8
+#EXTINF:-1,FR:_La_Télé
+http://tv2iptv.com:8000/live/badr/badr1234/30543.m3u8
+#EXTINF:-1,FR:_LCP
+http://tv2iptv.com:8000/live/badr/badr1234/30531.m3u8
+#EXTINF:-1,FR:_Mangas
+http://tv2iptv.com:8000/live/badr/badr1234/30515.m3u8
+#EXTINF:-1,FR:_MCM
+http://tv2iptv.com:8000/live/badr/badr1234/30675.m3u8
+#EXTINF:-1,FR:_MCM_TOP_HD
+http://tv2iptv.com:8000/live/badr/badr1234/30678.m3u8
+#EXTINF:-1,FR:_MCS_BIEN_ETRE
+http://tv2iptv.com:8000/live/badr/badr1234/30584.m3u8
+#EXTINF:-1,FR:_mezzo
+http://tv2iptv.com:8000/live/badr/badr1234/30669.m3u8
+#EXTINF:-1,FR:_MFM_TV
+http://tv2iptv.com:8000/live/badr/badr1234/30544.m3u8
+#EXTINF:-1,FR:_Monaco_Info
+http://tv2iptv.com:8000/live/badr/badr1234/30545.m3u8
+#EXTINF:-1,FR:_MOTORVISION
+http://tv2iptv.com:8000/live/badr/badr1234/30623.m3u8
+#EXTINF:-1,FR:_MTV_DANCE
+http://tv2iptv.com:8000/live/badr/badr1234/30673.m3u8
+#EXTINF:-1,FR:_MTV_HD
+http://tv2iptv.com:8000/live/badr/badr1234/30674.m3u8
+#EXTINF:-1,FR:_MTV_HITS
+http://tv2iptv.com:8000/live/badr/badr1234/30672.m3u8
+#EXTINF:-1,FR:_MTV_ROCKS
+http://tv2iptv.com:8000/live/badr/badr1234/30671.m3u8
+#EXTINF:-1,FR:_MY_CUISINE
+http://tv2iptv.com:8000/live/badr/badr1234/30555.m3u8
+#EXTINF:-1,FR:_NATIONAL_GEO_CHANNEL_HD
+http://tv2iptv.com:8000/live/badr/badr1234/30572.m3u8
+#EXTINF:-1,FR:_NAT_GEO_WILD_HD
+http://tv2iptv.com:8000/live/badr/badr1234/30573.m3u8
+#EXTINF:-1,FR:_NRJ_12HD
+http://tv2iptv.com:8000/live/badr/badr1234/30668.m3u8
+#EXTINF:-1,FR:_NRJ_HITS_HD
+http://tv2iptv.com:8000/live/badr/badr1234/30676.m3u8
+#EXTINF:-1,FR:_NT1
+http://tv2iptv.com:8000/live/badr/badr1234/30624.m3u8
+#EXTINF:-1,FR:_OCS_CHOC_HD
+http://tv2iptv.com:8000/live/badr/badr1234/30641.m3u8
+#EXTINF:-1,FR:_OCS_CITY
+http://tv2iptv.com:8000/live/badr/badr1234/30642.m3u8
+#EXTINF:-1,FR:_OCS_GEANTS
+http://tv2iptv.com:8000/live/badr/badr1234/30643.m3u8
+#EXTINF:-1,FR:_OCS_MAX_HD
+http://tv2iptv.com:8000/live/badr/badr1234/30644.m3u8
+#EXTINF:-1,FR:_OKLM_TV
+http://tv2iptv.com:8000/live/badr/badr1234/30677.m3u8
+#EXTINF:-1,FR:_OLTV
+http://tv2iptv.com:8000/live/badr/badr1234/30580.m3u8
+#EXTINF:-1,FR:_OMTV
+http://tv2iptv.com:8000/live/badr/badr1234/30581.m3u8
+#EXTINF:-1,FR:_Ouatch_HD
+http://tv2iptv.com:8000/live/badr/badr1234/30553.m3u8
+#EXTINF:-1,FR:_PARAMOUNT_CHANNEL
+http://tv2iptv.com:8000/live/badr/badr1234/30639.m3u8
+#EXTINF:-1,FR:_PARAMOUNT_DECALE_HD
+http://tv2iptv.com:8000/live/badr/badr1234/30638.m3u8
+#EXTINF:-1,FR:_PARIE_PRMIERE_HD
+http://tv2iptv.com:8000/live/badr/badr1234/30635.m3u8
+#EXTINF:-1,FR:_Piwi HD
+http://tv2iptv.com:8000/live/badr/badr1234/30519.m3u8
+#EXTINF:-1,FR:_RMC_DECOUVERTE
+http://tv2iptv.com:8000/live/badr/badr1234/30540.m3u8
+#EXTINF:-1,FR:_RMC_SPORT10_HD
+http://tv2iptv.com:8000/live/badr/badr1234/30606.m3u8
+#EXTINF:-1,FR:_RMC_SPORT11HD
+http://tv2iptv.com:8000/live/badr/badr1234/30605.m3u8
+#EXTINF:-1,FR:_RMC_SPORT12HD
+http://tv2iptv.com:8000/live/badr/badr1234/30604.m3u8
+#EXTINF:-1,FR:_RMC_SPORT13HD
+http://tv2iptv.com:8000/live/badr/badr1234/30603.m3u8
+#EXTINF:-1,FR:_RMC_SPORT1_FULLHD
+http://tv2iptv.com:8000/live/badr/badr1234/30616.m3u8
+#EXTINF:-1,FR:_RMC_SPORT1_HD
+http://tv2iptv.com:8000/live/badr/badr1234/30615.m3u8
+#EXTINF:-1,FR:_RMC_SPORT2_HD
+http://tv2iptv.com:8000/live/badr/badr1234/30614.m3u8
+#EXTINF:-1,FR:_RMC_SPORT3_HD
+http://tv2iptv.com:8000/live/badr/badr1234/30613.m3u8
+#EXTINF:-1,FR:_RMC_SPORT4_HD
+http://tv2iptv.com:8000/live/badr/badr1234/30612.m3u8
+#EXTINF:-1,FR:_RMC_SPORT5_HD
+http://tv2iptv.com:8000/live/badr/badr1234/30611.m3u8
+#EXTINF:-1,FR:_RMC_SPORT6_HD
+http://tv2iptv.com:8000/live/badr/badr1234/30610.m3u8
+#EXTINF:-1,FR:_RMC_SPORT7_HD
+http://tv2iptv.com:8000/live/badr/badr1234/30609.m3u8
+#EXTINF:-1,FR:_RMC_SPORT8_HD
+http://tv2iptv.com:8000/live/badr/badr1234/30608.m3u8
+#EXTINF:-1,FR:_RMC_SPORT9_HD
+http://tv2iptv.com:8000/live/badr/badr1234/30607.m3u8
+#EXTINF:-1,FR:_RMC_STORY
+http://tv2iptv.com:8000/live/badr/badr1234/30530.m3u8
+#EXTINF:-1,FR:_RTL9_HD
+http://tv2iptv.com:8000/live/badr/badr1234/30625.m3u8
+#EXTINF:-1,FR:_Science_et_Vie TV
+http://tv2iptv.com:8000/live/badr/badr1234/30546.m3u8
+#EXTINF:-1,FR:_SEASONS
+http://tv2iptv.com:8000/live/badr/badr1234/30562.m3u8
+#EXTINF:-1,FR:_SERIE_CLUB_HD
+http://tv2iptv.com:8000/live/badr/badr1234/30640.m3u8
+#EXTINF:-1,FR:_COMEDY_CENTRAL
+http://tv2iptv.com:8000/live/badr/badr1234/30579.m3u8
+#EXTINF:-1,FR:_SUNDANCE_CHANNEL
+http://tv2iptv.com:8000/live/badr/badr1234/30631.m3u8
+#EXTINF:-1,FR:_Syfy_HD
+http://tv2iptv.com:8000/live/badr/badr1234/30630.m3u8
+#EXTINF:-1,FR:_TCM_CINEMA_HD
+http://tv2iptv.com:8000/live/badr/badr1234/30628.m3u8
+#EXTINF:-1,FR:_Teletoon+
+http://tv2iptv.com:8000/live/badr/badr1234/30504.m3u8
+#EXTINF:-1,FR:_TEVA_HD
+http://tv2iptv.com:8000/live/badr/badr1234/30618.m3u8
+#EXTINF:-1,FR:_THE_MUSEUM_CHANNEL_HD
+http://tv2iptv.com:8000/live/badr/badr1234/30637.m3u8
+#EXTINF:-1,FR:_TiJi
+http://tv2iptv.com:8000/live/badr/badr1234/30505.m3u8
+#EXTINF:-1,FR:_TMC
+http://tv2iptv.com:8000/live/badr/badr1234/30627.m3u8
+#EXTINF:-1,FR:_TOONAMI
+http://tv2iptv.com:8000/live/badr/badr1234/30510.m3u8
+#EXTINF:-1,FR:_TOUTE_L'HISTOIRE
+http://tv2iptv.com:8000/live/badr/badr1234/30561.m3u8
+#EXTINF:-1,FR:_TRACE_URBAN_HD
+http://tv2iptv.com:8000/live/badr/badr1234/30670.m3u8
+#EXTINF:-1,FR:_TV5_Monde
+http://tv2iptv.com:8000/live/badr/badr1234/30534.m3u8
+#EXTINF:-1,FR:_TVA
+http://tv2iptv.com:8000/live/badr/badr1234/30535.m3u8
+#EXTINF:-1,FR:_TV_BREIZH_HD
+http://tv2iptv.com:8000/live/badr/badr1234/30617.m3u8
+#EXTINF:-1,FR:_TV_M3
+http://tv2iptv.com:8000/live/badr/badr1234/30533.m3u8
+#EXTINF:-1,FR:_USHUAIA_TV_HD
+http://tv2iptv.com:8000/live/badr/badr1234/30549.m3u8
+#EXTINF:-1,FR:_VIVOLTA
+http://tv2iptv.com:8000/live/badr/badr1234/30551.m3u8
+#EXTINF:-1,FR:_Voyage_FULLHD
+http://tv2iptv.com:8000/live/badr/badr1234/30560.m3u8
+#EXTINF:-1,FR:_Voyage_HD
+http://tv2iptv.com:8000/live/badr/badr1234/30559.m3u8
+#EXTINF:-1,FR:_W9_HD
+http://tv2iptv.com:8000/live/badr/badr1234/30536.m3u8
+#EXTINF:-1,FR:_WARNER_TV
+http://tv2iptv.com:8000/live/badr/badr1234/30554.m3u8
+#EXTINF:-1,FR:_Weo
+http://tv2iptv.com:8000/live/badr/badr1234/30542.m3u8
+
+#EXTINF:-1,Bein Sport 1HD FR
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/431.m3u8
+#EXTINF:-1,Bein Sport 2HD FR
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/432.m3u8
+#EXTINF:-1,Bein Sport 3HDFR
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/433.m3u8
+#EXTINF:-1,BeinSport1_FR_LOW
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/331.m3u8
+#EXTINF:-1,BeinSport2_FR_LOW
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/330.m3u8
+#EXTINF:-1,BeinSport3_FR_LOW
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/329.m3u8
+#EXTINF:-1,TF1 FR
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/426.m3u8
+#EXTINF:-1,France 2
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/350.m3u8
+#EXTINF:-1,France 3
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/351.m3u8
+#EXTINF:-1,France 4 HD
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/378.m3u8
+#EXTINF:-1,France 5 HD
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/660.m3u8
+#EXTINF:-1,M6 FR
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/379.m3u8
+#EXTINF:-1,Paris Premiere
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/446.m3u8
+#EXTINF:-1,TMC
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/451.m3u8
+#EXTINF:-1,TV BREIZH HD
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/529.m3u8
+#EXTINF:-1,6ter HD
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/658.m3u8
+#EXTINF:-1,Canal+ HD
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/253.m3u8
+#EXTINF:-1,Canal+ Cinema HD
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/254.m3u8
+#EXTINF:-1,Canal+Family
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/256.m3u8
+#EXTINF:-1,Canal+ Decale
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/461.m3u8
+#EXTINF:-1,Canal + Series HD
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/375.m3u8
+#EXTINF:-1,OCS Max
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/391.m3u8
+#EXTINF:-1,OCS CHOC HD
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/475.m3u8
+#EXTINF:-1,OCS City HD
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/476.m3u8
+#EXTINF:-1,OCS Geants
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/366.m3u8
+#EXTINF:-1,Cine+ Premiere
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/255.m3u8
+#EXTINF:-1,CINE+_EMOTION_HD
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/376.m3u8
+#EXTINF:-1,CINE+ FRISSON HD
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/377.m3u8
+#EXTINF:-1,Cine+ Classic
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/421.m3u8
+#EXTINF:-1,Cine+ Club HD
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/1116.m3u8
+#EXTINF:-1,Cine+ Famiz
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/262.m3u8
+#EXTINF:-1,Action
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/474.m3u8
+#EXTINF:-1,TCM
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/1118.m3u8
+#EXTINF:-1,TF1 Series HD
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/1119.m3u8
+#EXTINF:-1,TFX HD
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/1117.m3u8
+#EXTINF:-1,Comedie +
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/794.m3u8
+#EXTINF:-1,Nollywood
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/1121.m3u8
+#EXTINF:-1,Warner TV
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/1120.m3u8
+#EXTINF:-1,AB1
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/434.m3u8
+#EXTINF:-1,Serie club
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/347.m3u8
+#EXTINF:-1,TEVA HD
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/368.m3u8
+#EXTINF:-1,W9 HD
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/365.m3u8
+#EXTINF:-1,C8 HD
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/664.m3u8
+#EXTINF:-1,NRJ 12
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/355.m3u8
+#EXTINF:-1,C STAR HD
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/665.m3u8
+#EXTINF:-1,ELLE GIRL HD
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/532.m3u8
+#EXTINF:-1,sundance
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/1122.m3u8
+#EXTINF:-1,NOVELAS TV FHD
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/1123.m3u8
+#EXTINF:-1,M6 Boutique HD
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/1124.m3u8
+#EXTINF:-1,Canal+ Sport HD
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/257.m3u8
+#EXTINF:-1,Foot 24
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/440.m3u8
+#EXTINF:-1,BEIN SPORTS MAX 4 HD
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/513.m3u8
+#EXTINF:-1,BEIN SPORTS MAX 5 HD
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/514.m3u8
+#EXTINF:-1,BEIN SPORTS MAX 6 HD
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/515.m3u8
+#EXTINF:-1,BEIN SPORTS MAX 7 HD
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/516.m3u8
+#EXTINF:-1,BEIN SPORTS MAX 8 HD
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/517.m3u8
+#EXTINF:-1,BEIN SPORTS MAX 9 HD
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/518.m3u8
+#EXTINF:-1,MULTISPORT 1 FHD
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/1125.m3u8
+#EXTINF:-1,MULTISPORT 2 FHD
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/1126.m3u8
+#EXTINF:-1,MULTISPORT 3 FHD
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/1127.m3u8
+#EXTINF:-1,MULTISPORT 4 FHD
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/1128.m3u8
+#EXTINF:-1,MULTISPORT 5 FHD
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/1129.m3u8
+#EXTINF:-1,MULTISPORT 6 FHD
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/1130.m3u8
+#EXTINF:-1,INFOSPORTS HD
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/511.m3u8
+#EXTINF:-1,RMC Sport Info
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/1131.m3u8
+#EXTINF:-1,RMC SPORT 1HD
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/505.m3u8
+#EXTINF:-1,RMC SPORT 2HD
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/506.m3u8
+#EXTINF:-1,RMC SPORT 3HD
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/507.m3u8
+#EXTINF:-1,RMC SPORT 4 HD
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/1058.m3u8
+#EXTINF:-1,RMC_SPORT5
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/654.m3u8
+#EXTINF:-1,Eurosport 1 FR
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/427.m3u8
+#EXTINF:-1,Eurosport 2HD FR
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/418.m3u8
+#EXTINF:-1,Equidia Life HD
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/1132.m3u8
+#EXTINF:-1,GOLF+ HD
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/509.m3u8
+#EXTINF:-1,Planete+
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/356.m3u8
+#EXTINF:-1,Planete A&E
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/423.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE HD F
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/369.m3u8
+#EXTINF:-1,Discovery Family HD
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/1181.m3u8
+#EXTINF:-1,DISCOVERY
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/370.m3u8
+#EXTINF:-1,Planet+_CI
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/420.m3u8
+#EXTINF:-1,National Geo. Wild HD
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/354.m3u8
+#EXTINF:-1,National Geo.
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/353.m3u8
+#EXTINF:-1,USHUAIA TV HD
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/374.m3u8
+#EXTINF:-1,TREK
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/1133.m3u8
+#EXTINF:-1,SCIENCE ET VIE HD
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/1134.m3u8
+#EXTINF:-1,ANIMAUX  HD
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/525.m3u8
+#EXTINF:-1,Chasse et Peche  HD
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/526.m3u8
+#EXTINF:-1,Seasons
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/663.m3u8
+#EXTINF:-1,RMC_DECOUVERTE
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/457.m3u8
+#EXTINF:-1,Voyage TV
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/453.m3u8
+#EXTINF:-1,CHERIE_25
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/459.m3u8
+#EXTINF:-1,MTV FRANCE FHD
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/1137.m3u8
+#EXTINF:-1,MTV HITS HD
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/1138.m3u8
+#EXTINF:-1,M6 Music
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/455.m3u8
+#EXTINF:-1,MCM HD
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/1139.m3u8
+#EXTINF:-1,MCM POP
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/1140.m3u8
+#EXTINF:-1,MY ZEN TV FHD
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/1151.m3u8
+#EXTINF:-1,BRAVA FHD
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/1154.m3u8
+#EXTINF:-1,MELODY SD
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/1152.m3u8
+#EXTINF:-1,DJAZZ TV HD
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/1153.m3u8
+#EXTINF:-1,NRJ Hits HD
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/1141.m3u8
+#EXTINF:-1,RFM TV
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/1142.m3u8
+#EXTINF:-1,TRACE URBAN HD
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/527.m3u8
+#EXTINF:-1,Trace Tropical
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/1143.m3u8
+#EXTINF:-1,Mezzo TV
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/1144.m3u8
+#EXTINF:-1,Disney Channel
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/367.m3u8
+#EXTINF:-1,Disney Channel +1
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/1145.m3u8
+#EXTINF:-1,DISNEY CINEMA FR HD
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/523.m3u8
+#EXTINF:-1,Disney XD
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/414.m3u8
+#EXTINF:-1,Disney Junior FR
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/408.m3u8
+#EXTINF:-1,CARTOON NETWORK  HD
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/524.m3u8
+#EXTINF:-1,Boomerang
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/460.m3u8
+#EXTINF:-1,Nickelodeon
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/835.m3u8
+#EXTINF:-1,NICKELODEON JR HD
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/520.m3u8
+#EXTINF:-1,NICKELODEON 4TEEN
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/657.m3u8
+#EXTINF:-1,BOING_HD
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/653.m3u8
+#EXTINF:-1,TELETOON+  HD
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/522.m3u8
+#EXTINF:-1,Toonami
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/1146.m3u8
+#EXTINF:-1,CanalJ
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/439.m3u8
+#EXTINF:-1,J-ONE HD
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/521.m3u8
+#EXTINF:-1,Tiji
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/450.m3u8
+#EXTINF:-1,PIWI+
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/438.m3u8
+#EXTINF:-1,Baby TV FR
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/1147.m3u8
+#EXTINF:-1,Mangas
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/444.m3u8
+#EXTINF:-1,GAME ONE HD
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/519.m3u8
+#EXTINF:-1,LCI
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/1148.m3u8
+#EXTINF:-1,LCP
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/1149.m3u8
+#EXTINF:-1,Euronews
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/1061.m3u8
+#EXTINF:-1,France24
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/788.m3u8
+#EXTINF:-1,Cnews
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/1150.m3u8
+#EXTINF:-1,TV5 Monde
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/452.m3u8
+#EXTINF:-1,Canal Play 1 (FR)
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/484.m3u8
+#EXTINF:-1,Canal Play 2 (FR)
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/485.m3u8
+#EXTINF:-1,Canal Play 3 (FR)
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/486.m3u8
+#EXTINF:-1,Canal Play 4 (FR)
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/487.m3u8
+#EXTINF:-1,Canal Play 5 (FR)
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/488.m3u8
+#EXTINF:-1,Canal Play 6 (FR)
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/489.m3u8
+#EXTINF:-1,Canal Play 7 (FR)
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/490.m3u8
+#EXTINF:-1,Canal Play 8 (FR)
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/491.m3u8
+#EXTINF:-1,Canal Play 9 (FR)
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/492.m3u8
+#EXTINF:-1,Canal Play 10 (FR)
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/493.m3u8
+#EXTINF:-1,A LA CARTE 1 (FR)
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/494.m3u8
+#EXTINF:-1,A LA CARTE 2
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/495.m3u8
+#EXTINF:-1,A LA CARTE 3 (FR)
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/496.m3u8
+#EXTINF:-1,A LA CARTE 4 (FR)
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/497.m3u8
+#EXTINF:-1,A LA CARTE 5 (FR)
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/498.m3u8
+#EXTINF:-1,A LA CARTE 6 (FR)
+http://45.77.65.162:80/live/SRTgsrtGsRth/7ue6hs45aerha34/499.m3u8
