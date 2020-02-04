@@ -1386,6 +1386,12 @@ http://iptvpro.vision-new.org:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/6800.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTA1ODM5MzAyNjZeQTJeQWpwZ15BbWU4MDc0OTcyNTYx._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="Film",Enchanted Kingdom - 2014 
 http://iptvpro.vision-new.org:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/6799.mkv
 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTViNzMxZjEtZGEwNy00MDNiLWIzNGQtZDY2MjQ1OWViZjFmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Film",Terminator - 1984 
+http://iptvpro.vision-new.org:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/1474.mkv
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTk5NzM1ODgyN15BMl5BanBnXkFtZTcwMzA5MjAzMw@@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Film",Terminator 3 - 2003 
+http://iptvpro.vision-new.org:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/1476.mkv
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTU0MzY1OTg4OV5BMl5BanBnXkFtZTgwNTQ3MzU0MDI@._V1_UY268_CR1,0,182,268_AL_.jpg" group-title="Film",Les Saisons - 2015 
 http://iptvpro.vision-new.org:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/6798.mkv
 
