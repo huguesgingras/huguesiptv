@@ -1,3 +1,12 @@
 
-#EXTINF:-1 tvg-logo="" group-title="Quebec",Tele Quebec 
+#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/tqc_hd.jpg" group-title="Quebec",Tele Quebec 
 https://teleqmmd.mmdlive.lldns.net/teleqmmd/f386e3b206814e1f8c8c1c71c0f8e748/chunklist_b2592000.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/vtele.jpg" group-title="Quebec",V Tele 
+https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/srchd.jpg" group-title="Quebec",ICI Tele 
+https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master_2500.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/rdi_hd.jpg" group-title="Quebec",ICI RDI 
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
