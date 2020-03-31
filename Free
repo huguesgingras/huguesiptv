@@ -10,3 +10,6 @@ https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master_2500.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/rdi_hd.jpg" group-title="Quebec",ICI RDI 
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sports",Sports 
+https://raw.githubusercontent.com/notanewbie/LegalStream/master/packages/sports/all.m3u8
