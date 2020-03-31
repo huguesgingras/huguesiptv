@@ -11,5 +11,86 @@ https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master_2500.m3u8
 #EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/rdi_hd.jpg" group-title="Quebec",ICI RDI 
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Sports",Sports 
-https://raw.githubusercontent.com/notanewbie/LegalStream/master/packages/sports/all.m3u8
+#EXTINF:0, tvg-logo="https://keyframe-cdn.abcnews.com/streamprovider6.jpg" group-title="News",ABC News Live
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+
+#EXTINF:0, tvg-logo="http://ztalkradio.com/wp-content/uploads/2016/06/alex-jones.jpg" group-title=News",The Alex Jones Radio Show
+https://infowarslive-lh.akamaihd.net/i/infowarsevent_1@366809/master.m3u8
+
+#EXTINF:0, tvg-logo="https://images.pluto.tv/channels/5e1f7da4bc7d740009831259/featuredImage.jpg" group-title="News",America's Voice
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e1f7da4bc7d740009831259/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
+
+#EXTINF:0, tvg-logo="https://images.pluto.tv/channels/5e46fba0c43b0d00096e5ac1/featuredImage.jpg" group-title="News",theBlaze Live
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e46fba0c43b0d00096e5ac1/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
+
+#EXTINF:0, tvg-logo="https://cbschicago.files.wordpress.com/2015/11/cbsn-generic.jpg?w=1280" group-title="News",CBSN
+https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8?iu=/8264/vaw-can/desktop/cbsnews
+
+#EXTINF:0, tvg-logo="http://images.pluto.tv/channels/5421f71da6af422839419cb3/featuredImage.jpg" group-title="News",CNN (Pluto TV)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
+
+#EXTINF:0, tvg-logo="http://images.pluto.tv/channels/5421f71da6af422839419cb3/featuredImage.jpg" group-title="News",CNN (ALT)
+https://cnnlive.warnermediacdn.com/hls/live/2006689-b/live0/stream_Layer7.m3u8
+
+#EXTINF:0, tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5812afe1d0f0b8d55dde67fa/featuredImage.jpg" group-title="News",Cheddar
+https://live.chdrstatic.com/cheddar/index.m3u8
+
+#EXTINF:0, tvg-logo="https://cdn-images-1.medium.com/max/1600/1*IiN-2aKkPFTIk_ZCSNqXqQ.jpeg" group-title="News",Cheddar Big News
+https://live.chdrstatic.com/cbn/index.m3u8
+
+#EXTINF:0, tvg-logo="https://images.pluto.tv/channels/5d486acc34ceb37d3c458a64/featuredImage.jpg" group-title="News",The First
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d486acc34ceb37d3c458a64/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
+
+#EXTINF:0, tvg-logo="https://snapshots.streamlive.to/snapshots/ohn58e97er36vjr_snapshot.jpg" group-title="News",FNC Preview (No Audio)
+http://foxnewsuni-f.akamaihd.net/i/FNCGOPREV_40220@40220/master.m3u8
+
+#EXTINF:0, tvg-logo="https://radio.foxnews.com/wp-content/uploads/2012/12/FOX-News-Talk-Radio-1.jpg" group-title="News",Fox News Talk
+https://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
+
+#EXTINF:0, tvg-logo="https://i.ytimg.com/vi/rPXPfq6Fg_U/maxresdefault.jpg" group-title="News",Free Speech TV
+https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
+
+#EXTINF:0, tvg-logo="https://cdn.arstechnica.net/wp-content/uploads/2018/07/youcallhimdoctorjones-800x450.png" group-title="News",Infowars
+https://infostream.secure.footprint.net/hls-live/infostream-infostream/_definst_/live.m3u8
+
+#EXTINF:0, tvg-logo="https://cdn.arstechnica.net/wp-content/uploads/2018/07/youcallhimdoctorjones-800x450.png" group-title="News",Infowars 2
+https://infostream.secure.footprint.net/hls-live/infostream2-infostream2/_definst_/live.m3u8
+
+#EXTINF:0, tvg-logo="https://cdn.arstechnica.net/wp-content/uploads/2018/07/youcallhimdoctorjones-800x450.png" group-title="News",Infowars 3
+https://infostream.secure.footprint.net/hls-live/infostream3-infostream3/_definst_/live.m3u8
+
+#EXTINF:0, tvg-logo="" group-title="News",MSNBC
+https://llnw.stream.msnbc.com/live/MSNBC398a080a-ua/master.m3u8
+
+#EXTINF:0, tvg-logo="http://images.pluto.tv/channels/56403d822d2719107d948cb9/featuredImage.jpg" group-title="News",NBC News
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56403d822d2719107d948cb9/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
+
+#EXTINF:0, tvg-logo="https://s16-us2.startpage.com/cgi-bin/serveimage?url=https%3A%2F%2Fencrypted-tbn0.gstatic.com%2Fimages%3Fq%3Dtbn%3AANd9GcR3z5RFCT55iI1k55pBXocqvkoRuhMhcF2CYSEhObGOU1KZUjUmLP_er2LOSw%26s&sp=1ed797349576760be9cf33079be1b2ba&anticache=960086" group-title="News",NBC News Now
+https://nbcnews-lh.akamaihd.net/i/nbc_live14@187395/master.m3u8
+
+#EXTINF:0, tvg-logo="https://cfvod.kaltura.com/p/2216081/sp/221608100/thumbnail/entry_id/1_f19eeulz/version/100001/width/768/height/435" group-title="News",Newsmax TV
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+
+#EXTINF:0, tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/f99bf312-8fce-5925-f11b-41ba1cd7829b-News247_featured.jpg" group-title="News",Pluto TV Headlines
+http://stitcher.pluto.tv/stitch/hls/channel/5268abcd0ce20a8472000114/master.m3u8?sid=web24157571521&deviceType=web&deviceMake=web&deviceVersion=1&deviceId=web24163643069&appVersion=5.2.7&deviceDNT=web&deviceModel=web
+
+#EXTINF:0, tvg-logo="https://countercurrents.org/wp-content/uploads/2017/11/rt-america-new.si_.jpg" group-title="News" tvg-ID="russia-today.info",RT America
+https://rt-usa.secure.footprint.net/1105.m3u8
+
+#EXTINF:0, tvg-logo="https://i.ytimg.com/vi/XOacA3RYrXk/maxresdefault_live.jpg" group-title="News" tvg-ID="skynews.info",Sky News America
+http://d59pscns5ugc8.cloudfront.net/cdhls/skynewsamericas/1013/skynewsamericas_cdhls.m3u8
+
+#EXTINF:0, tvg-logo="https://images.infowarsmedia.com/images/ee646e7f-3053-4209-bbf7-6973b45eb8cc.jpg?type=large" group-title="News",The David Knight Show
+https://infostream.secure.footprint.net/hls-live/infostream2-infostream2/_definst_/live.m3u8
+
+#EXTINF:0, tvg-logo="http://images.pluto.tv/channels/5331d5fb753499095a00045a/featuredImage.jpg" group-title="News",TYT Network
+https://tyt-ssai.akamaized.net/amagi_hls_data_tytnetwor-tytxumo/CDN/master.m3u8
+
+#EXTINF:0, tvg-logo="https://static.infowars.com/images/war-room-poster.jpg" group-title="News",War Room with David Shroyer
+https://infostream.secure.footprint.net/hls-live/infostream3-infostream3/_definst_/live.m3u8
+
+#EXTINF:0, tvg-logo="http://www.fivestarservices.ca/assets/images/weather-network.jpg" group-title="News",The Weather Network
+https://bcliveunivsecure-lh.akamaihd.net/i/twn_1@631672/master.m3u8
+
+#EXTINF:0, tvg-logo="http://www.weathernationtv.com/app/uploads/WNTV.jpg" group-title="News",WeatherNation TV
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
