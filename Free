@@ -14,25 +14,25 @@ https://rcavlive.akamaized.net/hls/live/664045/cancbvt/master_1800.m3u8
 #EXTINF:-1 tvg-logo="https://www.fibreop.ca/binaries/small/content/gallery/common_en/tv/channel-logos/icirdi_logo-2017.jpg" group-title="Quebec",ICI RDI 
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fibreop.ca/binaries/small/content/gallery/common_en/tv/channel-logos/icirdi_logo-2017.jpg" group-title="Quebec",ICI RDI 
+#EXTINF:-1 tvg-logo="https://www.fibreop.ca/binaries/small/content/gallery/common_en/tv/channel-logos/icirdi_logo-2017.jpg" group-title="Quebec",ICI RDI (Alt) 
 https://srclive-lh.akamaihd.net/i/canrdi_1@95877/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.itk.ca/wp-content/uploads/2017/05/cpac_social_seo_logo_bil_1200x630.jpg" group-title="Quebec",CPAC 
 https://bcsecurelivehls-i.akamaihd.net/hls/live/680604/1242843915001_3//Assets_1572351842277/Layer3_master.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/rdi_hd.jpg" group-title="France",D5 TV 
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-MK-ceeNo4qE/XNo0HOs0Q1I/AAAAAAAAAPk/VQEKWAeZVz8WBa5CHJBUTOh4HPQ68BEnwCLcBGAs/s1600/3.jpg" group-title="France",D5 TV 
 https://live.creacast.com/d5tv/smil:d5tv.smil/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/rdi_hd.jpg" group-title="France",RTI1 
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-XcsWHyndUJ0/VLsK8l1LZYI/AAAAAAAAAHI/3TGCdLHRfSI/s1600/rti1.jpg" group-title="France",RTI1 
 https://www.enovativecdn.com:4433/rticdn/smil:rti1.smil/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/rdi_hd.jpg" group-title="France",RTI2 
+#EXTINF:-1 tvg-logo="https://stratmarques.com/wp-content/uploads/2019/11/RTI2-2-300x168.jpg" group-title="France",RTI2 
 https://www.enovativecdn.com:4433/rticdn/smil:rti2.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/rdi_hd.jpg" group-title="France",France 24 
+#EXTINF:-1 tvg-logo="https://www.telesphere.fr/wp-content/uploads/2010/10/France24-logo.jpg" group-title="France",France 24 
 http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/rdi_hd.jpg" group-title="France",Rouge TV 
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ch-rouge-tv-1916.jpg" group-title="France",Rouge TV 
 https://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/rdi_hd.jpg" group-title="France",BFM Paris
