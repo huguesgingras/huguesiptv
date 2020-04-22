@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.itk.ca/wp-content/uploads/2017/05/cpac_social_seo_logo_bil_1200x630.jpg" group-title="Quebec",CPAC
-https://bcsecurelivehls-i.akamaihd.net/hls/live/680604/1242843915001_3//Assets_1572351842277/Layer3_master.m3u8
 
 #EXTINF:0 tvg-logo="https://www.fibreop.ca/binaries/small/content/gallery/common_en/tv/channel-logos/icirdi_logo-2017.jpg" group-title="Quebec",ICI RDI (3)
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
