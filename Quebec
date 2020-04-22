@@ -12,137 +12,32 @@ https://teleqmmd.mmdlive.lldns.net/teleqmmd/f386e3b206814e1f8c8c1c71c0f8e748/chu
 #EXTINF:0 tvg-logo="https://s.tou.tv/images/parcourir/web/parcourir_chaine_v-tele.jpg" group-title="Quebec",V TELE 
 https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/amchd.jpg" group-title="Canada",|CA| AMC
-http://king365-tv.com:2103/dsko/1234/3550
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1033984713252372480/kKbqj4BC_400x400.jpg" group-title="Quebec",BFM Business
+https://bfmbusisecure-i.akamaihd.net/hls/live/265375/876450612001/BFMBusinessS/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/tsn1.jpg" group-title="Canada",TSN 1
-http://iptvpro.vision-new.org:8789/live/1212/1212/1963.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/875697565462908928/44KptPDt_400x400.jpg" group-title="Quebec",BFM Paris
+https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_KB@429747/index_1236_av-p.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/tsn2.jpg" group-title="Canada",TSN 2
-http://iptvpro.vision-new.org:8789/live/1212/1212/17277.m3u8
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-MK-ceeNo4qE/XNo0HOs0Q1I/AAAAAAAAAPk/VQEKWAeZVz8WBa5CHJBUTOh4HPQ68BEnwCLcBGAs/s1600/3.jpg" group-title="France",D5 TV 
+https://live.creacast.com/d5tv/smil:d5tv.smil/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/tsn3.jpg" group-title="Canada",TSN 3
-http://iptvpro.vision-new.org:8789/live/1212/1212/1965.m3u8
+#EXTINF:-1 tvg-logo="https://www.telesphere.fr/wp-content/uploads/2010/10/France24-logo.jpg" group-title="France",France 24 
+http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/tsn4.jpg" group-title="Canada",TSN 4
-http://iptvpro.vision-new.org:8789/live/1212/1212/1966.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Medi_1_tv_logo.jpg" group-title="France",Medi1 
+https://streaming.medi1tv.com/live/Medi1tvAfrique.sdp/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.videotron.com/resources/global/images/chaines/tsn5.jpg" group-title="Canada",TSN 5
-http://iptvpro.vision-new.org:8789/live/1212/1212/1967.m3u8
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ch-rouge-tv-1916.jpg" group-title="France",Rouge TV 
+https://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://img.over-blog-kiwi.com/0/95/30/84/20160803/ob_027404_ob-e582c6-capture.JPG" group-title="France",13 EMERUE
-http://saba12.com:80/berat/berat/6493
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-XcsWHyndUJ0/VLsK8l1LZYI/AAAAAAAAAHI/3TGCdLHRfSI/s1600/rti1.jpg" group-title="France",RTI1 
+https://www.enovativecdn.com:4433/rticdn/smil:rti1.smil/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/M6_6ter_2012.png/170px-M6_6ter_2012.png" group-title="France",6 TER
-http://saba12.com:80/berat/berat/6492
+#EXTINF:-1 tvg-logo="https://stratmarques.com/wp-content/uploads/2019/11/RTI2-2-300x168.jpg" group-title="France",RTI2 
+https://www.enovativecdn.com:4433/rticdn/smil:rti2.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/10/Logo_AB1_2011.svg/langfr-120px-Logo_AB1_2011.svg.png" group-title="France",AB1
-http://saba12.com:80/berat/berat/6499
-
-#EXTINF:-1 tvg-logo="http://www.openingsuren.info/images/tvzenders/ab3.jpg" group-title="France",AB3
-http://saba12.com:80/berat/berat/6498
-
-#EXTINF:-1 tvg-logo="https://liberador.net/media/images/ARTE.max-640x640.jpg" group-title="France",ARTE
-http://iptv6.premium-stv.com:25461/sourcefrhevcpro1/0493432475/3287
-
-#EXTINF:-1 tvg-logo="https://www.upc.ch/content/dam/www-upc-ch/img/logos/channels/CAUCQX.img.0.64.png" group-title="France",C Star 
-https://s1.tntendirect.com/d17/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Canal_J_Logo.png/200px-Canal_J_Logo.png" group-title="France",Canal J 
-http://144.217.253.140/Canalj/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.sangatv.com/images/channels/logo/add858e0-4c6f-11e8-a69f-cd54c66337ed.png" group-title="France",D5 TV 
-https://live.creacast.com/d5tv/smil:d5tv.smil/chunklist_w958420568_b1928000.m3u8
-
-#EXTINF:-1 tvg-logo="https://streamdiag.com/wp-content/uploads/2019/09/Discovery-Channel-logo.jpg" group-title="France",DISCOVERY
-http://hitman.dyndns.tv:8080/live/baris/tvohne17857846/14739.ts
-
-#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/discoveryfamilychannel.png" group-title="France",DISCOVERY FAMILY
-http://iptv6.premium-stv.com:25461/sourcefrhevcpro1/0493432475/3343
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/ID_Canada_Logo.png/150px-ID_Canada_Logo.png" group-title="France",DISCOVERY INVESTIGATION
-http://hitman.dyndns.tv:8080/live/baris/tvohne17857846/14740.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Discovery_Science_Canada_2011.PNG/120px-Discovery_Science_Canada_2011.PNG" group-title="France",DISCOVERY SCIENCE
-http://hitman.dyndns.tv:8080/live/baris/tvohne17857846/14739.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/220px-Disney_Channel_logo_%282014%29.svg.png" group-title="France",DISNEY CHANNEL
-http://hitman.dyndns.tv:8080/live/baris/tvohne17857846/14738.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Disney_cinema_logo.png/180px-Disney_cinema_logo.png" group-title="France",DISNEY CINEMA
-http://super1.ideaiptv.com:25461/mousanew/2342343/20248
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/250px-Disney_Junior.svg.png" group-title="France",DISNEY JUNIOR
-http://hitman.dyndns.tv:8080/live/baris/tvohne17857846/14737.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/200px-Disney_XD_-_2015.svg.png" group-title="France",DISNEY XD
-http://hitman.dyndns.tv:8080/live/baris/tvohne17857846/14736.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/29/L%27Equipe_21.svg/800px-L%27Equipe_21.svg.png" group-title="France",EQUIPE21
-http://iptv7.premium-stv.com:25461/GENERALCHA/6535709495/15
-
-#EXTINF:-1 tvg-logo="https://www.theatremontparnasse.com/wp-content/uploads/2016/05/logo-france2-300x237.jpg" group-title="France",FRANCE 2
-http://iptv6.premium-stv.com:25461/sourcefrhevcpro1/0493432475/3283
-
-#EXTINF:-1 tvg-logo="http://tvdirect.t.v.pic.centerblog.net/tv-france3.png" group-title="France",FRANCE 3
-http://iptv7.premium-stv.com:25461/sportgenerCH/NNBkknvcLKG/4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/0/0c/Logo_France_4.svg/201px-Logo_France_4.svg.png" group-title="France",FRANCE 4
-http://iptv6.premium-stv.com:25461/sourcefrhevcpro1/0493432475/3284
-
-#EXTINF:-1 tvg-logo="http://img.over-blog-kiwi.com/2/09/12/84/20171229/ob_e794c4_france5.png" group-title="France",FRANCE 5
-http://iptv6.premium-stv.com:25461/sourcefrhevcpro1/0493432475/3285
-
-#EXTINF:-1 tvg-logo="http://vpndock.com/wp-content/uploads/franceo-en-direct.png" group-title="France",FRANCE O
-http://super1.ideaiptv.com:25461/mousanew/2342343/20213
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/fd/Logo_LCP-AN_%282019%29.svg/langfr-220px-Logo_LCP-AN_%282019%29.svg.png" group-title="France",LPC
-http://iptv6.premium-stv.com:25461/sourcefrhevcpro1/0493432475/3280
-
-#EXTINF:-1 tvg-logo="https://www.upc.ch/content/dam/www-upc-ch/img/logos/channels/j1HdVB.img.0.64.png" group-title="France",M6
-http://iptv7.premium-stv.com:25461/sportgenerCH/NNBkknvcLKG/7
-
-#EXTINF:-1 tvg-logo="https://www.tv-direct.fr/assets/logo/chaines/mtv-france.jpg" group-title="France",MTV
-http://hitman.dyndns.tv:8080/live/baris/tvohne17857846/14710.ts
-
-#EXTINF:-1 tvg-logo="http://eusoumaisbolos.com/skin/frontend/tm_themes/theme766/images/logo_mycuisine.png" group-title="France",MY CUISINE
-http://hitman.dyndns.tv:8080/live/baris/tvohne17857846/14707.ts
-
-#EXTINF:-1 tvg-logo="https://www.mdlt.org/wp-content/uploads/2019/03/National-Geographic-Logo-300x135.png" group-title="France",NATIONAL GEO
-http://super1.ideaiptv.com:25461/mousanew/2342343/20205
-
-#EXTINF:-1 tvg-logo="http://www.ozkankirtasiye.com/wp-content/uploads/2016/10/National-Geographic-logo-750x422-300x300.png" group-title="France",NATIONAL GEOGRAPHIC
-http://hitman.dyndns.tv:8080/live/baris/tvohne17857846/14705.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/langfr-280px-National_Geographic_Wild_logo.svg.png" group-title="France",NATIONAL GEOGRAPHIC WILD
-http://hitman.dyndns.tv:8080/live/baris/tvohne17857846/14706.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/langfr-250px-Nickelodeon_2009_logo.svg.png" group-title="France",NICKELODEON
-http://hitman.dyndns.tv:8080/live/baris/tvohne17857846/14704.ts
-
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-H97ytcyI8oE/VlOeEgYOtJI/AAAAAAAAiv4/W8tAv-_VdFo/s400/Nick-Jr-App-Icon-Logo-Nickelodeon-Roku.jpg" group-title="France",NICKELODEON JUNIOR
-http://hitman.dyndns.tv:8080/live/baris/tvohne17857846/14703.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Nickelodeon-teen.png/220px-Nickelodeon-teen.png" group-title="France",NICKELODEON TEEN
-http://hitman.dyndns.tv:8080/live/baris/tvohne17857846/14702.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/T%C3%A9l%C3%A9toon%2B_Logo.png/120px-T%C3%A9l%C3%A9toon%2B_Logo.png" group-title="France",Teletoon+ 
-http://144.217.253.140/Teletoon/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/d/d3/T%C3%A9va.svg/469px-T%C3%A9va.svg.png" group-title="France",TEVA
-http://super1.ideaiptv.com:25461/mousanew/2342343/20303
-
-#EXTINF:-1 tvg-logo="https://www.upc.ch/content/dam/www-upc-ch/img/logos/channels/lvdoHQ.img.0.64.png" group-title="France",TF1
-http://iptv7.premium-stv.com:25461/sportgenerCH/NNBkknvcLKG/14
-
-#EXTINF:-1 tvg-logo="https://www.upc.ch/content/dam/www-upc-ch/img/logos/channels/VaoPsO.img.0.64.png" group-title="France",TMC
-http://iptv7.premium-stv.com:25461/sportgenerCH/NNBkknvcLKG/9
-
-#EXTINF:-1 tvg-logo="http://www.francophoniedesameriques.com/forum/wp-content/uploads/sites/23/2016/09/Logo.TV5Couleur-Converti-300x121.png" group-title="France",TV5
-http://iptv6.premium-stv.com:25461/afriquepro1gsqeg532/4685466531422/834
-
-#EXTINF:-1 tvg-logo="https://www.upc.ch/content/dam/www-upc-ch/img/logos/channels/qENsX2.img.0.64.png" group-title="France",W9
-http://iptv7.premium-stv.com:25461/sportgenerCH/NNBkknvcLKG/12
+#EXTINF:-1 tvg-logo="https://www.universfreebox.com/wp-content/uploads/2019/07/arton42727.jpg" group-title="France",TF1 Series films
+https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzVkMjRhNzctOGQxMC00OGE2LWJhN2EtNmYyODRiMDNlM2ZmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Film",Alien Covenant - 2017 
 http://iptvpro.vision-new.org:8789/movie/IPTVPRO22VODS22/W2T29z9cBP/6816.mkv
