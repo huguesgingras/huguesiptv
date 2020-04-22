@@ -18,25 +18,25 @@ https://bfmbusisecure-i.akamaihd.net/hls/live/265375/876450612001/BFMBusinessS/p
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/875697565462908928/44KptPDt_400x400.jpg" group-title="Quebec",BFM Paris
 https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_KB@429747/index_1236_av-p.m3u8
 
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-MK-ceeNo4qE/XNo0HOs0Q1I/AAAAAAAAAPk/VQEKWAeZVz8WBa5CHJBUTOh4HPQ68BEnwCLcBGAs/s1600/3.jpg" group-title="France",D5 TV 
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-MK-ceeNo4qE/XNo0HOs0Q1I/AAAAAAAAAPk/VQEKWAeZVz8WBa5CHJBUTOh4HPQ68BEnwCLcBGAs/s1600/3.jpg" group-title="Quebec",D5 TV 
 https://live.creacast.com/d5tv/smil:d5tv.smil/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.telesphere.fr/wp-content/uploads/2010/10/France24-logo.jpg" group-title="France",France 24 
+#EXTINF:-1 tvg-logo="https://www.telesphere.fr/wp-content/uploads/2010/10/France24-logo.jpg" group-title="Quebec",France 24 
 http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Medi_1_tv_logo.jpg" group-title="France",Medi1 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Medi_1_tv_logo.jpg" group-title="Quebec",Medi1 
 https://streaming.medi1tv.com/live/Medi1tvAfrique.sdp/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ch-rouge-tv-1916.jpg" group-title="France",Rouge TV 
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ch-rouge-tv-1916.jpg" group-title="Quebec",Rouge TV 
 https://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-XcsWHyndUJ0/VLsK8l1LZYI/AAAAAAAAAHI/3TGCdLHRfSI/s1600/rti1.jpg" group-title="France",RTI1 
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-XcsWHyndUJ0/VLsK8l1LZYI/AAAAAAAAAHI/3TGCdLHRfSI/s1600/rti1.jpg" group-title="Quebec",RTI1 
 https://www.enovativecdn.com:4433/rticdn/smil:rti1.smil/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://stratmarques.com/wp-content/uploads/2019/11/RTI2-2-300x168.jpg" group-title="France",RTI2 
+#EXTINF:-1 tvg-logo="https://stratmarques.com/wp-content/uploads/2019/11/RTI2-2-300x168.jpg" group-title="Quebec",RTI2 
 https://www.enovativecdn.com:4433/rticdn/smil:rti2.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.universfreebox.com/wp-content/uploads/2019/07/arton42727.jpg" group-title="France",TF1 Series films
+#EXTINF:-1 tvg-logo="https://www.universfreebox.com/wp-content/uploads/2019/07/arton42727.jpg" group-title="Quebec",TF1 Series films
 https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzVkMjRhNzctOGQxMC00OGE2LWJhN2EtNmYyODRiMDNlM2ZmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Film",Alien Covenant - 2017 
