@@ -1,181 +1,124 @@
 #EXTM3U
 
-#EXTINF:0 tvg-logo="https://www.fibreop.ca/binaries/small/content/gallery/common_en/tv/channel-logos/icirdi_logo-2017.jpg" group-title="Quebec",ICI RDI (3)
-https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
-
-#EXTINF:-1 tvg-logo="https://s.tou.tv/images/parcourir/web/parcourir_chaine_tele.jpg" group-title="Quebec",ICI MONTREAL
-https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master_2500.m3u8
-
-#EXTINF:0 tvg-logo="https://yt3.ggpht.com/-lLgIkal0RIc/AAAAAAAAAAI/AAAAAAAAAAA/27AoksHWuAU/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Quebec",TELE QUEBEC 
-https://teleqmmd.mmdlive.lldns.net/teleqmmd/f386e3b206814e1f8c8c1c71c0f8e748/chunklist_b2592000.m3u8
-
-#EXTINF:0 tvg-logo="https://s.tou.tv/images/parcourir/web/parcourir_chaine_v-tele.jpg" group-title="Quebec",V TELE 
-https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1033984713252372480/kKbqj4BC_400x400.jpg" group-title="Quebec",BFM Business
-https://bfmbusisecure-i.akamaihd.net/hls/live/265375/876450612001/BFMBusinessS/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/875697565462908928/44KptPDt_400x400.jpg" group-title="Quebec",BFM Paris
-https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_KB@429747/index_1236_av-p.m3u8
-
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-MK-ceeNo4qE/XNo0HOs0Q1I/AAAAAAAAAPk/VQEKWAeZVz8WBa5CHJBUTOh4HPQ68BEnwCLcBGAs/s1600/3.jpg" group-title="Quebec",D5 TV 
-https://live.creacast.com/d5tv/smil:d5tv.smil/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.telesphere.fr/wp-content/uploads/2010/10/France24-logo.jpg" group-title="Quebec",France 24 
-http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Medi_1_tv_logo.jpg" group-title="Quebec",Medi1 
-https://streaming.medi1tv.com/live/Medi1tvAfrique.sdp/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ch-rouge-tv-1916.jpg" group-title="Quebec",Rouge TV 
-https://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-XcsWHyndUJ0/VLsK8l1LZYI/AAAAAAAAAHI/3TGCdLHRfSI/s1600/rti1.jpg" group-title="Quebec",RTI1 
-https://www.enovativecdn.com:4433/rticdn/smil:rti1.smil/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://stratmarques.com/wp-content/uploads/2019/11/RTI2-2-300x168.jpg" group-title="Quebec",RTI2 
-https://www.enovativecdn.com:4433/rticdn/smil:rti2.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.universfreebox.com/wp-content/uploads/2019/07/arton42727.jpg" group-title="Quebec",TF1 Series films
-https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
-
-#EXTINF:-1 tvg-id="rdi.news.ca" tvg-name="RDI" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA081RDIFR.png" group-title="Quebec",RDI
-http://a1.hdflix.live:8880/jh14m036/1648897/2988
-
-#EXTINF:-1 tvg-id="lcn.ca" tvg-name="LCN" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA080LCNFR.png" group-title="Quebec",LCN
-http://a1.hdflix.live:8880/jh14m036/1648897/2989
-
-#EXTINF:-1 tvg-id="tva.sports.ca" tvg-name="TVA Sports HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA077TVASportsFR.png" group-title="Quebec",TVA Sports HD
-http://a1.hdflix.live:8880/jh14m036/1648897/2992
-
-#EXTINF:-1 tvg-id="rds.reseau.des.sports.ca" tvg-name="RDS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA082RDSFR.png" group-title="Quebec",RDS
-http://a1.hdflix.live:8880/jh14m036/1648897/2987
-
-#EXTINF:-1 tvg-id="super.ecran.1.ca" tvg-name="SUPER ECRAN 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA189SUPERECRAN1.png" group-title="Quebec",SUPER ECRAN 1
-http://a1.hdflix.live:8880/jh14m036/1648897/30125
-
-#EXTINF:-1 tvg-id="super.ecran.2.ca" tvg-name="SUPER ECRAN 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA190SUPERECRAN2.png" group-title="Quebec",SUPER ECRAN 2
-http://a1.hdflix.live:8880/jh14m036/1648897/30124
-
-#EXTINF:-1 tvg-id="super.ecran.3.ca" tvg-name="SUPER ECRAN 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA191SUPERECRAN3.png" group-title="Quebec",SUPER ECRAN 3
-http://a1.hdflix.live:8880/jh14m036/1648897/30123
-
-#EXTINF:-1 tvg-id="super.ecran.4.ca" tvg-name="SUPER ECRAN 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA192SUPERECRAN4.png" group-title="Quebec",SUPER ECRAN 4
-http://a1.hdflix.live:8880/jh14m036/1648897/30122
-
-#EXTINF:-1 tvg-id="z.ca" tvg-name="Z TELE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA165ZTELE.png" group-title="Quebec",Z TELE
-http://a1.hdflix.live:8880/jh14m036/1648897/30149
-
-#EXTINF:-1 tvg-id="cinepop.ca" tvg-name="CINEPOP" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA105CINEPOP.png" group-title="Quebec",CINEPOP
-http://a1.hdflix.live:8880/jh14m036/1648897/30209
-
-#EXTINF:-1 tvg-id="addik.ca" tvg-name="ADDIK TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA086ADDIKTV.png" group-title="Quebec",ADDIK TV
+#EXTINF:-1 tvg-id="addik.ca" tvg-name="Addik TV" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/06/addik-tv.png" group-title="Quebec",Addik TV
 http://a1.hdflix.live:8880/jh14m036/1648897/30228
 
-#EXTINF:-1 tvg-id="telemagino.ca" tvg-name="TELEMAGINO" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA198TELEMAGINO.png" group-title="Quebec",TELEMAGINO
-http://a1.hdflix.live:8880/jh14m036/1648897/30116
-
-#EXTINF:-1 tvg-id="" tvg-name="PRISE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA179PRISE.png" group-title="Quebec",PRISE
-http://a1.hdflix.live:8880/jh14m036/1648897/30135
-
-#EXTINF:-1 tvg-id="series+.ca" tvg-name="SERIE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA184SERIS.png" group-title="Quebec",SERIE
-http://a1.hdflix.live:8880/jh14m036/1648897/30130
-
-#EXTINF:-1 tvg-id="tfo.chaine.francaise.ca" tvg-name="TFO" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA167TFO.png" group-title="Quebec",TFO
-http://a1.hdflix.live:8880/jh14m036/1648897/30147
-
-#EXTINF:-1 tvg-id="zeste" tvg-name="ZESTE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA166ZESTE.png" group-title="Quebec",CA166:ZESTE
-http://a1.hdflix.live:8880/jh14m036/1648897/30148
-
-#EXTINF:-1 tvg-id="VRAK" tvg-name="VRAK TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA159VRAKTV.png" group-title="Quebec",VRAK
-http://a1.hdflix.live:8880/jh14m036/1648897/30155
-
-#EXTINF:-1 tvg-id="musique.plus.sur.demande.ca" tvg-name="MUSIQUE PLUS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA156MUSIQUEPLUS.png" group-title="Quebec",MUSIQUE PLUS
-http://a1.hdflix.live:8880/jh14m036/1648897/30158
-
-#EXTINF:-1 tvg-id="moi.et.compagnie.ca" tvg-name="MOI ET CIE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA153MOICIE.png" group-title="Quebec",MOI ET CIE
-http://a1.hdflix.live:8880/jh14m036/1648897/30161
-
-#EXTINF:-1 tvg-id="meteo.media.ca" tvg-name="METEO MEDIA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA151METEO.png" group-title="Quebec",METEO MEDIA
-http://a1.hdflix.live:8880/jh14m036/1648897/30163
-
-#EXTINF:-1 tvg-id="ici.cbft.montreal.qc.ca" tvg-name="ICI MONTREAL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA144ICIMONTREAL.png" group-title="Quebec",ICI MONTREAL
-http://a1.hdflix.live:8880/jh14m036/1648897/30170
-
-#EXTINF:-1 tvg-id="ici.cbuft.vancouver.bc.ca" tvg-name="ICI VANCOUVER" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA145ICIVANCOUVER.png" group-title="Quebec",ICI VANCOUVER
-http://a1.hdflix.live:8880/jh14m036/1648897/30169
-
-#EXTINF:-1 tvg-id="casa.ca" tvg-name="CASA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA097CASA.png" group-title="Quebec",CASA
-http://a1.hdflix.live:8880/jh14m036/1648897/30217
-
-#EXTINF:-1 tvg-id="artv.ca" tvg-name="ARTV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA089ARTV.png" group-title="Quebec",ARTV
+#EXTINF:-1 tvg-id="artv.ca" tvg-name="ARTV" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/06/Ici-Artv.png" group-title="Quebec",ARTV
 http://a1.hdflix.live:8880/jh14m036/1648897/30225
 
-#EXTINF:-1 tvg-id="v.cfjp.montreal.qc.ca" tvg-name="V MONTREAL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA078VMontrealFR.png" group-title="Quebec",V MONTREAL
+#EXTINF:-1 tvg-id="assemblee.nationale.du.quebec.ca" tvg-name="Assemblee Nationale Quebec" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/06/Assembl%C3%A9e-Nationale-du-Qu%C3%A9bec.png" group-title="Quebec",Assemblee Nationale Quebec
+
+#EXTINF:-1 tvg-id="canal.d.ca" tvg-name="Canal D" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/06/Canal-D.png" group-title="Quebec",Canal D
+http://a1.hdflix.live:8880/jh14m036/1648897/30220
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal Savoir" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/06/Canal-Savoir.png" group-title="Quebec",Canal Savoir
+http://a1.hdflix.live:8880/jh14m036/1648897/30219
+
+#EXTINF:-1 tvg-id="canal.vie.ca" tvg-name="Canal Vie" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/06/Canal-Vie.png" group-title="Quebec",Canal Vie
+http://a1.hdflix.live:8880/jh14m036/1648897/30157
+
+#EXTINF:-1 tvg-id="casa.ca" tvg-name="CASA" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/06/CASA.png" group-title="Quebec",CASA
+http://a1.hdflix.live:8880/jh14m036/1648897/30217
+
+#EXTINF:-1 tvg-id="cinepop.ca" tvg-name="CinePop" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/06/Cinepop_logo.png" group-title="Quebec",CinePop
+http://a1.hdflix.live:8880/jh14m036/1648897/30209
+
+#EXTINF:-1 tvg-id="cpac.francais.ca" tvg-name="CPAC French" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/06/CPAC_francais.png" group-title="Quebec",CPAC French
+http://a1.hdflix.live:8880/jh14m036/1648897/30200
+
+#EXTINF:-1 tvg-id="musique.plus.sur.demande.ca" tvg-name="Elle Fictions" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/06/Elle-fictions_RGB_couleur.png" group-title="Quebec",Elle Fictions
+http://a1.hdflix.live:8880/jh14m036/1648897/30158
+
+#EXTINF:-1 tvg-id="evasion.ca" tvg-name="Evasion" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2020/02/Evasion_RGB.jpg" group-title="Quebec",Evasion
+http://a1.hdflix.live:8880/jh14m036/1648897/30185
+
+#EXTINF:-1 tvg-id="historia.ca" tvg-name="Historia" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/06/historia_126.jpg" group-title="Quebec",Historia
+http://a1.hdflix.live:8880/jh14m036/1648897/30171
+
+#EXTINF:-1 tvg-id="rdi.news.ca" tvg-name="ICI RDI" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/06/Ici-RDI.png" group-title="Quebec",ICI RDI
+http://a1.hdflix.live:8880/jh14m036/1648897/30134
+#EXTINF:-1 tvg-id="tva.cftm.montreal.ca" tvg-name="ICI RDI HD" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/06/Ici-RDI-HD.png" group-title="Quebec",ICI RDI HD
+http://a1.hdflix.live:8880/jh14m036/1648897/2995
+#EXTINF:-1 tvg-id="rdi.news.ca" tvg-name="ICI RDI" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/06/Ici-RDI.png" group-title="Quebec",ICI RDI
+http://a1.hdflix.live:8880/jh14m036/1648897/2988
+#EXTINF:-1 tvg-id="" tvg-name="ICI RDI HD" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/06/Ici-RDI-HD.png" group-title="Quebec",ICI RDI HD
+http://a1.hdflix.live:8880/jh14m036/1648897/30168
+
+#EXTINF:-1 tvg-id="ici.cbft.montreal.qc.ca" tvg-name="ICI Montreal" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/06/Ici-T%C3%A9l%C3%A9-HD.png" group-title="Quebec",ICI Montreal
+http://a1.hdflix.live:8880/jh14m036/1648897/30170
+#EXTINF:-1 tvg-id="ici.cbuft.vancouver.bc.ca" tvg-name="ICI Vancouver" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/06/Ici-T%C3%A9l%C3%A9.png" group-title="Quebec",ICI Vancouver
+http://a1.hdflix.live:8880/jh14m036/1648897/30169
+
+#EXTINF:-1 tvg-id="lcn.ca" tvg-name="LCN" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/06/LCN.png" group-title="Quebec",LCN
+http://a1.hdflix.live:8880/jh14m036/1648897/2989
+#EXTINF:-1 tvg-id="lcn.ca" tvg-name="LCN" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/06/LCN.png" group-title="Quebec",LCN
+http://a1.hdflix.live:8880/jh14m036/1648897/30165
+
+#EXTINF:-1 tvg-id="" tvg-name="MAX" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/06/MAX.png" group-title="Quebec",MAX
+http://a1.hdflix.live:8880/jh14m036/1648897/30164
+
+#EXTINF:-1 tvg-id="meteo.media.ca" tvg-name="Meteo Media" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2020/05/Meteo-Media.png" group-title="Quebec",Meteo Media
+http://a1.hdflix.live:8880/jh14m036/1648897/30163
+
+#EXTINF:-1 tvg-id="moi.et.compagnie.ca" tvg-name="Moi Et Cie" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/06/Moi-et-Cie.png" group-title="Quebec",Moi Et Cie
+http://a1.hdflix.live:8880/jh14m036/1648897/30161
+
+#EXTINF:-1 tvg-id="super.heart.home.ca" tvg-name="NOOVO" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2019/04/noovo.png" group-title="Quebec",NOOVO
+http://a1.hdflix.live:8880/jh14m036/1648897/30094
+#EXTINF:-1 tvg-id="v.cfjp.montreal.qc.ca" tvg-name="NOOVO Montreal" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2019/04/noovo.png" group-title="Quebec",NOOVO Montreal
 http://a1.hdflix.live:8880/jh14m036/1648897/2991
 
-#EXTINF:-1 tvg-id="tva.ca" tvg-name="TVA HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA076TVAFR.png" group-title="Quebec",TVA HD
+#EXTINF:-1 tvg-id="" tvg-name="Prise 2" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/07/Logo-Prise-2_RGB_Bleu-Jaune.jpg" group-title="Quebec",Prise 2
+http://a1.hdflix.live:8880/jh14m036/1648897/30135
+
+#EXTINF:-1 tvg-id="rds.reseau.des.sports.ca" tvg-name="RDS" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/07/rds.png" group-title="Quebec",RDS
+http://a1.hdflix.live:8880/jh14m036/1648897/2987
+#EXTINF:-1 tvg-id="rds.2.ca" tvg-name="RDS 2" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2019/07/RDS2_Primary_CMYK.png" group-title="Quebec",RDS 2
+http://a1.hdflix.live:8880/jh14m036/1648897/30132
+#EXTINF:-1 tvg-id="rds.info.ca" tvg-name="RDS Info" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/07/rds-info.png" group-title="Quebec",RDS Info
+http://a1.hdflix.live:8880/jh14m036/1648897/30131
+
+#EXTINF:-1 tvg-id="series+.ca" tvg-name="Series Plus" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/07/SeriesPlus_Jan2020_Vert_2020.png" group-title="Quebec",Series Plus
+http://a1.hdflix.live:8880/jh14m036/1648897/30130
+
+#EXTINF:-1 tvg-id="super.ecran.1.ca" tvg-name="Super Ecran 1" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/07/super-ecran-1.png" group-title="Quebec",Super Ecran 1
+http://a1.hdflix.live:8880/jh14m036/1648897/30125
+#EXTINF:-1 tvg-id="super.ecran.2.ca" tvg-name="Super Ecran 2" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/07/super-ecran-2.png" group-title="Quebec",Super Ecran 2
+http://a1.hdflix.live:8880/jh14m036/1648897/30124
+#EXTINF:-1 tvg-id="super.ecran.3.ca" tvg-name="Super Ecran 3" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/07/super-ecran-3.png" group-title="Quebec",Super Ecran 3
+http://a1.hdflix.live:8880/jh14m036/1648897/30123
+#EXTINF:-1 tvg-id="super.ecran.4.ca" tvg-name="Super Ecran 4" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/07/super-ecran-4.png" group-title="Quebec",Super Ecran 4
+http://a1.hdflix.live:8880/jh14m036/1648897/30122
+
+#EXTINF:-1 tvg-id="tele.quebec.civq.quebec.ca" tvg-name="Tele Quebec" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/07/T%C3%A9l%C3%A9-Qu%C3%A9bec.png" group-title="Quebec",Tele Quebec
+http://a1.hdflix.live:8880/jh14m036/1648897/30119
+
+#EXTINF:-1 tvg-id="telemagino.ca" tvg-name="CA198:Telemagimo" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/07/telemagino.png" group-title="Quebec",Telemagimo
+http://a1.hdflix.live:8880/jh14m036/1648897/30116
+
+#EXTINF:-1 tvg-id="teletoon.francais.ca" tvg-name="TeleToon" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/07/teletoon.png" group-title="Quebec",TeleToon
+http://a1.hdflix.live:8880/jh14m036/1648897/30117
+
+#EXTINF:-1 tvg-id="tfo.chaine.francaise.ca" tvg-name="TFO HD" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/07/TFO.png" group-title="Quebec",TFO HD
+http://a1.hdflix.live:8880/jh14m036/1648897/30147
+
+#EXTINF:-1 tvg-id="tva.ca" tvg-name="TVA HD" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/07/tva-hd.png" group-title="Quebec",TVA HD
 http://a1.hdflix.live:8880/jh14m036/1648897/2993
 
-#EXTINF:-1 tvg-id="tva.cftm.montreal.ca" tvg-name="ICI RDI" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA074ICI RDI.png" group-title="Quebec",ICI RDI
-http://a1.hdflix.live:8880/jh14m036/1648897/2995
+#EXTINF:-1 tvg-id="tva.sports.ca" tvg-name="TVA Sports HD" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/07/TVA-Sports.png" group-title="Quebec",TVA Sports HD
+http://a1.hdflix.live:8880/jh14m036/1648897/2992
 
-#EXTINF:-1 tvg-id="rds.2.ca" tvg-name="RDS 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA182RDS2.png" group-title="Quebec",RDS 2
-http://a1.hdflix.live:8880/jh14m036/1648897/30132
+#EXTINF:-1 tvg-id="unis.ca" tvg-name="Unis TV" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/07/unis-tv.jpeg" group-title="Quebec",Unis TV
+http://a1.hdflix.live:8880/jh14m036/1648897/30106
 
-#EXTINF:-1 tvg-id="boing.fr" tvg-name="Boing" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR020Boing.png" group-title="Quebec",Boing
-http://a1.hdflix.live:8880/jh14m036/1648897/2846
+#EXTINF:-1 tvg-id="vrak.ca" tvg-name="Vrak TV" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2020/02/VRAK_Bell_EPG_650x350.png" group-title="Quebec",Vrak TV
+http://a1.hdflix.live:8880/jh14m036/1648897/30155
 
-#EXTINF:-1 tvg-id="boomerang.fr" tvg-name="Boomerang" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR021Boomerang.png" group-title="Quebec",Boomerang
-http://a1.hdflix.live:8880/jh14m036/1648897/2845
+#EXTINF:-1 tvg-id="yoopa.ca" tvg-name="Yoopa" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/07/yoopa.png" group-title="Quebec",Yoopa
+http://a1.hdflix.live:8880/jh14m036/1648897/30150
 
-#EXTINF:-1 tvg-id="canal.j.fr" tvg-name="Canal J" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR029CanalJ.png" group-title="Quebec",Canal J
-http://a1.hdflix.live:8880/jh14m036/1648897/2837
+#EXTINF:-1 tvg-id="z.ca" tvg-name="Z Tele" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/07/z-tele.png" group-title="Quebec",Z Tele
+http://a1.hdflix.live:8880/jh14m036/1648897/30149
 
-#EXTINF:-1 tvg-id="cartoon.network.fr" tvg-name="Cartoon Network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR030CartoonNetwork.png" group-title="Quebec",Cartoon Network
-http://a1.hdflix.live:8880/jh14m036/1648897/2836
-
-#EXTINF:-1 tvg-id="gulli.fr" tvg-name="GULLI" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR059GULLI.png" group-title="Quebec",GULLI
-http://a1.hdflix.live:8880/jh14m036/1648897/2807
-
-#EXTINF:-1 tvg-id="mangas.fr" tvg-name="Mangas" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR066Mangas.png" group-title="Quebec",Mangas
-http://a1.hdflix.live:8880/jh14m036/1648897/2800
-
-#EXTINF:-1 tvg-id="nickelodeon.fr" tvg-name="NICKELODEON" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR069NICKELODEON.png" group-title="Quebec",NICKELODEON
-http://a1.hdflix.live:8880/jh14m036/1648897/2797
-
-#EXTINF:-1 tvg-id="piwi+.fr" tvg-name="PIWI" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR074PIWI.png" group-title="Quebec",PIWI
-http://a1.hdflix.live:8880/jh14m036/1648897/2792
-
-#EXTINF:-1 tvg-id="teletoon.fr" tvg-name="TELETOON" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR095TELETOON.png" group-title="Quebec",TELETOON
-http://a1.hdflix.live:8880/jh14m036/1648897/28214
-
-#EXTINF:-1 tvg-id="tf1.fr" tvg-name="TF1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR180TF1HD.png" group-title="Quebec",TF1 HD
-http://a1.hdflix.live:8880/jh14m036/1648897/28129
-
-#EXTINF:-1 tvg-id="tiji.fr" tvg-name="Tiji" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR128Tiji.png" group-title="Quebec",Tiji
-http://a1.hdflix.live:8880/jh14m036/1648897/28181
-
-#EXTINF:-1 tvg-id="canal.j.fr" tvg-name="CANAL  J HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR246CANALJHD.png" group-title="Quebec",CANAL  J HD
-http://a1.hdflix.live:8880/jh14m036/1648897/28063
-
-#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON 4TEEN" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR261NICKELODEON4TEEN.png" group-title="Quebec",NICKELODEON 4TEEN
-http://a1.hdflix.live:8880/jh14m036/1648897/28048
-
-#EXTINF:-1 tvg-id="nickelodeon.junior.fr" tvg-name="NICKELODEON JUNIOR" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR301NICKELODEONJUNIOR.png" group-title="Quebec",NICKELODEON JUNIOR
-http://a1.hdflix.live:8880/jh14m036/1648897/28008
-
-#EXTINF:-1 tvg-id="toonami.fr" tvg-name="TOONAMI FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR302TOONAMIFHD.png" group-title="Quebec",TOONAMI FHD
-http://a1.hdflix.live:8880/jh14m036/1648897/28007
-
-#EXTINF:-1 tvg-id="teletoon.fr" tvg-name="TELETOON  HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR315TELETOONHD.png" group-title="Quebec",TELETOON  HD
-http://a1.hdflix.live:8880/jh14m036/1648897/27994
-
-#EXTINF:-1 tvg-id="teletoon+.fr" tvg-name="TELETOON PLUS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR319TELETOONPLUS.png" group-title="Quebec",TELETOON PLUS
-http://a1.hdflix.live:8880/jh14m036/1648897/27990
-
-#EXTINF:-1 tvg-id="tiji.fr" tvg-name="TIJI HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR343TIJIHD.png" group-title="Quebec",TIJI HD
-http://a1.hdflix.live:8880/jh14m036/1648897/27966
-
-#EXTINF:-1 tvg-id="teletoon.fr" tvg-name="TELETOON HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR354TELETOONHD.png" group-title="Quebec",TELETOON HD
-http://a1.hdflix.live:8880/jh14m036/1648897/27955
+#EXTINF:-1 tvg-id="zeste.ca" tvg-name="Zeste" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/07/Zeste.png" group-title="Quebec",Zeste
+http://a1.hdflix.live:8880/jh14m036/1648897/30148
