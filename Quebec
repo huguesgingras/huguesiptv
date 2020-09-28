@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-id="addik.ca" tvg-name="Addik TV" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/06/addik-tv.png" group-title="Quebec",Addik TV
 http://a1.hdflix.live:8880/jh14m036/1648897/30228
 
@@ -102,6 +101,9 @@ http://a1.hdflix.live:8880/jh14m036/1648897/30117
 #EXTINF:-1 tvg-id="tfo.chaine.francaise.ca" tvg-name="TFO HD" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/07/TFO.png" group-title="Quebec",TFO HD
 http://a1.hdflix.live:8880/jh14m036/1648897/30147
 
+#EXTINF:-1 tvg-id="" tvg-name="TV5 HD" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/07/tv5.png" group-title="Canada",TV5 HD
+http://a1.hdflix.live:8880/jh14m036/1648897/30142
+
 #EXTINF:-1 tvg-id="tva.ca" tvg-name="TVA HD" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/07/tva-hd.png" group-title="Quebec",TVA HD
 http://a1.hdflix.live:8880/jh14m036/1648897/2993
 
@@ -122,3 +124,1289 @@ http://a1.hdflix.live:8880/jh14m036/1648897/30149
 
 #EXTINF:-1 tvg-id="zeste.ca" tvg-name="Zeste" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/07/Zeste.png" group-title="Quebec",Zeste
 http://a1.hdflix.live:8880/jh14m036/1648897/30148
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="abc.spark.ca" tvg-name="ABC Spark HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA001ABC-SPARK.png" group-title="Canada",ABC Spark HD
+http://a1.hdflix.live:8880/jh14m036/1648897/3068
+#EXTINF:-1 tvg-id="bet.canada.ca" tvg-name="BET" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA006BET.png" group-title="Canada",BET
+http://a1.hdflix.live:8880/jh14m036/1648897/3063
+#EXTINF:-1 tvg-id="" tvg-name="BRAVO HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA008BRAVO.png" group-title="Canada",BRAVO HD
+http://a1.hdflix.live:8880/jh14m036/1648897/3061
+#EXTINF:-1 tvg-id="chch.hamilton.on.ca" tvg-name="CHCH HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA011CHCH.png" group-title="Canada",CHCH HD
+http://a1.hdflix.live:8880/jh14m036/1648897/3058
+#EXTINF:-1 tvg-id="" tvg-name="CITY TV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA012CITY-TV.png" group-title="Canada",CITY TV HD
+http://a1.hdflix.live:8880/jh14m036/1648897/3057
+#EXTINF:-1 tvg-id="cottage.life.ca" tvg-name="COTTAGE-LIFE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA015COTTAGE-LIFE.png" group-title="Canada",COTTAGE-LIFE
+http://a1.hdflix.live:8880/jh14m036/1648897/3054
+#EXTINF:-1 tvg-id="cpac.ottawa.ca" tvg-name="CPAC HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA017CPAC.png" group-title="Canada",CPAC HD
+http://a1.hdflix.live:8880/jh14m036/1648897/3052
+#EXTINF:-1 tvg-id="" tvg-name="ABC BOSTON HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA018ABCWest.png" group-title="Canada",ABC BOSTON HD
+http://a1.hdflix.live:8880/jh14m036/1648897/3051
+#EXTINF:-1 tvg-id="" tvg-name="DIY Network HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA026DIY.png" group-title="Canada",DIY Network HD
+http://a1.hdflix.live:8880/jh14m036/1648897/3043
+#EXTINF:-1 tvg-id="dtour.ca" tvg-name="DTOUR HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA027DTOUR.png" group-title="Canada",DTOUR HD
+http://a1.hdflix.live:8880/jh14m036/1648897/3042
+#EXTINF:-1 tvg-id="e.canada.ca" tvg-name="E! HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA028E!.png" group-title="Canada",E! HD
+http://a1.hdflix.live:8880/jh14m036/1648897/3041
+#EXTINF:-1 tvg-id="food.network.canada.ca" tvg-name="FOOD NETWORK HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA030FOOD-NETWORK.png" group-title="Canada",FOOD NETWORK HD
+http://a1.hdflix.live:8880/jh14m036/1648897/3039
+#EXTINF:-1 tvg-id="" tvg-name="FOX-EAST" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA031FOX-EAST.png" group-title="Canada",FOX-EAST
+http://a1.hdflix.live:8880/jh14m036/1648897/3038
+#EXTINF:-1 tvg-id="fxx.canada.ca" tvg-name="FXX HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA033FXX-HD.png" group-title="Canada",FXX HD
+http://a1.hdflix.live:8880/jh14m036/1648897/3036
+#EXTINF:-1 tvg-id="" tvg-name="GLOBAL-EAST" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA034GLOBAL-EAST.png" group-title="Canada",GLOBAL-EAST
+http://a1.hdflix.live:8880/jh14m036/1648897/3035
+#EXTINF:-1 tvg-id="" tvg-name="GUSTO" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA036GUSTO.png" group-title="Canada",GUSTO
+http://a1.hdflix.live:8880/jh14m036/1648897/3033
+#EXTINF:-1 tvg-id="hgtv.canada.ca" tvg-name="HGTV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA039HGTV.png" group-title="Canada",HGTV HD
+http://a1.hdflix.live:8880/jh14m036/1648897/3030
+#EXTINF:-1 tvg-id="metv.wbbz.buffalo.ny.ca" tvg-name="VISON" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA045VISON.png" group-title="Canada",VISON
+http://a1.hdflix.live:8880/jh14m036/1648897/3024
+#EXTINF:-1 tvg-id="mtv.canada.ca" tvg-name="MTV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA047MTV-canada.png" group-title="Canada",MTV HD
+http://a1.hdflix.live:8880/jh14m036/1648897/3022
+#EXTINF:-1 tvg-id="much.music.ca" tvg-name="MUCHMUSIC HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA048MUCHMUSIC.png" group-title="Canada",MUCHMUSIC HD
+http://a1.hdflix.live:8880/jh14m036/1648897/3021
+#EXTINF:-1 tvg-id="sportsnet.world.ca" tvg-name="Sportsnet World HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA051SportsnetWorld.png" group-title="Canada",Sportsnet World HD
+http://a1.hdflix.live:8880/jh14m036/1648897/3018
+#EXTINF:-1 tvg-id="" tvg-name="OLN HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA052OLN.png" group-title="Canada",OLN HD
+http://a1.hdflix.live:8880/jh14m036/1648897/3017
+#EXTINF:-1 tvg-id="" tvg-name="OWN HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA054OWN.png" group-title="Canada",OWN HD
+http://a1.hdflix.live:8880/jh14m036/1648897/3015
+#EXTINF:-1 tvg-id="peachtree.canada.ca" tvg-name="PEACHTREE HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA055PEACH-TREE.png" group-title="Canada",PEACHTREE HD
+http://a1.hdflix.live:8880/jh14m036/1648897/3014
+#EXTINF:-1 tvg-id="slice.ca" tvg-name="SLICE HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA056SLICE.png" group-title="Canada",SLICE HD
+http://a1.hdflix.live:8880/jh14m036/1648897/3013
+#EXTINF:-1 tvg-id="tlc.canada.ca" tvg-name="TLC HS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA063TLC.png" group-title="Canada",TLC HS
+http://a1.hdflix.live:8880/jh14m036/1648897/3006
+#EXTINF:-1 tvg-id="game.ca" tvg-name="Game TV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA071GameTV.png" group-title="Canada",Game TV HD
+http://a1.hdflix.live:8880/jh14m036/1648897/2998
+#EXTINF:-1 tvg-id="the.weather.ca" tvg-name="Weather channel HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA073WEATHER-CHANNEL.png" group-title="Canada",Weather channel HD
+http://a1.hdflix.live:8880/jh14m036/1648897/2996
+#EXTINF:-1 tvg-id="yes.cits.burlington.on.ca" tvg-name="YES HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA075YES-HD.png" group-title="Canada",YES HD
+http://a1.hdflix.live:8880/jh14m036/1648897/2994
+#EXTINF:-1 tvg-id="" tvg-name="ABC EAST" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA084ABCEAST.png" group-title="Canada",ABC EAST
+http://a1.hdflix.live:8880/jh14m036/1648897/30230
+#EXTINF:-1 tvg-id="a.e.canada.ca" tvg-name="A&E HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA083A&E.png" group-title="Canada",A&E HD
+http://a1.hdflix.live:8880/jh14m036/1648897/30231
+#EXTINF:-1 tvg-id="" tvg-name="AHC HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA087AHC.png" group-title="Canada",AHC HD
+http://a1.hdflix.live:8880/jh14m036/1648897/30227
+#EXTINF:-1 tvg-id="aptn.ca" tvg-name="APTN HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA088APTN.png" group-title="Canada",APTN HD
+http://a1.hdflix.live:8880/jh14m036/1648897/30226
+#EXTINF:-1 tvg-id="book.ca" tvg-name="BOOK TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA093BOOKTV.png" group-title="Canada",BOOK TV
+http://a1.hdflix.live:8880/jh14m036/1648897/30221
+#EXTINF:-1 tvg-id="city.toronto.on.ca" tvg-name="CITY TORONTO" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA106CITYTORONTO.png" group-title="Canada",CITY TORONTO
+http://a1.hdflix.live:8880/jh14m036/1648897/30208
+#EXTINF:-1 tvg-id="city.vancouver.bc.ca" tvg-name="CITY VANCOUVER HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA107CITYVANCOUVER.png" group-title="Canada",CITY VANCOUVER HD
+http://a1.hdflix.live:8880/jh14m036/1648897/30207
+#EXTINF:-1 tvg-id="cmt.canada.ca" tvg-name="CMT CANADA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA108CMTCANADA.png" group-title="Canada",CMT CANADA
+http://a1.hdflix.live:8880/jh14m036/1648897/30206
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY GOLD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA111COMEDYGOLD.png" group-title="Canada",COMEDY GOLD
+http://a1.hdflix.live:8880/jh14m036/1648897/30203
+#EXTINF:-1 tvg-id="cooking.canada.ca" tvg-name="COOKING CHANNEL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA112COOKINGCHANNEL.png" group-title="Canada",COOKING CHANNEL
+http://a1.hdflix.live:8880/jh14m036/1648897/30202
+#EXTINF:-1 tvg-id="" tvg-name="CW 11" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA121CW11.png" group-title="Canada",CW 11
+http://a1.hdflix.live:8880/jh14m036/1648897/30193
+#EXTINF:-1 tvg-id="daystar.canada.ca" tvg-name="DAYSTAR TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA122DAYSTARTV.png" group-title="Canada",DAYSTAR TV
+http://a1.hdflix.live:8880/jh14m036/1648897/30192
+#EXTINF:-1 tvg-id="deja.view.ca" tvg-name="DEJAVIEW" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA123DEJAVIEW.png" group-title="Canada",DEJAVIEW
+http://a1.hdflix.live:8880/jh14m036/1648897/30191
+#EXTINF:-1 tvg-id="" tvg-name="ENCORE 1 EAST" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA127ENCORE1EAST.png" group-title="Canada",ENCORE 1 EAST
+http://a1.hdflix.live:8880/jh14m036/1648897/30187
+#EXTINF:-1 tvg-id="" tvg-name="ENCORE 2 EAST" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA128ENCORE2EAST.png" group-title="Canada",ENCORE 2 EAST
+http://a1.hdflix.live:8880/jh14m036/1648897/30186
+#EXTINF:-1 tvg-id="" tvg-name="FOX WEST" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA134FOXWEST.png" group-title="Canada",FOX WEST
+http://a1.hdflix.live:8880/jh14m036/1648897/30180
+#EXTINF:-1 tvg-id="" tvg-name="FTV CANADA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA135FTVCANADA.png" group-title="Canada",FTV CANADA
+http://a1.hdflix.live:8880/jh14m036/1648897/30179
+#EXTINF:-1 tvg-id="fyi.canada.ca" tvg-name="FYI" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA136FYI.png" group-title="Canada",FYI
+http://a1.hdflix.live:8880/jh14m036/1648897/30178
+#EXTINF:-1 tvg-id="global.ciii.dt.41.toronto.ca" tvg-name="GLOBAL TORONTO" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA137GLOBALTORONTO.png" group-title="Canada",GLOBAL TORONTO
+http://a1.hdflix.live:8880/jh14m036/1648897/30177
+#EXTINF:-1 tvg-id="" tvg-name="GLOBAL VANCOUVER" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA138GLOBALVANCOUVER.png" group-title="Canada",GLOBAL VANCOUVER
+http://a1.hdflix.live:8880/jh14m036/1648897/30176
+#EXTINF:-1 tvg-id="ktla.los.angeles.ca.ca" tvg-name="KTLA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA148KTLA.png" group-title="Canada",KTLA
+http://a1.hdflix.live:8880/jh14m036/1648897/30166
+#EXTINF:-1 tvg-id="" tvg-name="MIRACLE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA152MIRACLE.png" group-title="Canada",MIRACLE
+http://a1.hdflix.live:8880/jh14m036/1648897/30162
+#EXTINF:-1 tvg-id="mtv.2.canada.ca" tvg-name="MTV 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA155MTV2.png" group-title="Canada",MTV 2
+http://a1.hdflix.live:8880/jh14m036/1648897/30159
+#EXTINF:-1 tvg-id="vision.ca" tvg-name="VISION" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA158VISION.png" group-title="Canada",VISION
+http://a1.hdflix.live:8880/jh14m036/1648897/30156
+#EXTINF:-1 tvg-id="wfn.world.fishing.network.ca" tvg-name="WFN" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA160WFN.png" group-title="Canada",WFN
+http://a1.hdflix.live:8880/jh14m036/1648897/30154
+#EXTINF:-1 tvg-id="national.geographic.wild.canada.ca" tvg-name="Wild TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA162WildTV.png" group-title="Canada",Wild TV
+http://a1.hdflix.live:8880/jh14m036/1648897/30152
+#EXTINF:-1 tvg-id="wsbk.38.boston.ca" tvg-name="WSBK" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA163WSBK.png" group-title="Canada",WSBK
+http://a1.hdflix.live:8880/jh14m036/1648897/30151
+#EXTINF:-1 tvg-id="the.weather.ca" tvg-name="THE WEATHER NETWORK HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA168THEWEATHERNETWORK.png" group-title="Canada",THE WEATHER NETWORK HD
+http://a1.hdflix.live:8880/jh14m036/1648897/30146
+#EXTINF:-1 tvg-id="omni.1.ca" tvg-name="OMNI 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA174OMNI1.png" group-title="Canada",OMNI 1 HD
+http://a1.hdflix.live:8880/jh14m036/1648897/30140
+#EXTINF:-1 tvg-id="omni.2.ca" tvg-name="OMNI 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA175OMNI2.png" group-title="Canada",OMNI 2 HD
+http://a1.hdflix.live:8880/jh14m036/1648897/30139
+#EXTINF:-1 tvg-id="" tvg-name="ONE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA176ONE.png" group-title="Canada",ONE
+http://a1.hdflix.live:8880/jh14m036/1648897/30138
+#EXTINF:-1 tvg-id="outtv.ca" tvg-name="OUTTV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA177OUTTV.png" group-title="Canada",OUTTV
+http://a1.hdflix.live:8880/jh14m036/1648897/30137
+#EXTINF:-1 tvg-id="peachtree.canada.ca" tvg-name="PEACH TREE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA178PEACHTREE.png" group-title="Canada",PEACH TREE
+http://a1.hdflix.live:8880/jh14m036/1648897/30136
+#EXTINF:-1 tvg-id="" tvg-name="SHOPPING" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA185SHOPPING.png" group-title="Canada",SHOPPING
+http://a1.hdflix.live:8880/jh14m036/1648897/30129
+#EXTINF:-1 tvg-id="nbc.wbts.ld.boston.ma.ca" tvg-name="NBC EAST" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA199NBCEAST.png" group-title="Canada",NBC EAST
+http://a1.hdflix.live:8880/jh14m036/1648897/30115
+#EXTINF:-1 tvg-id="" tvg-name="NBC WEST" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA200NBCWEST.png" group-title="Canada",NBC WEST
+http://a1.hdflix.live:8880/jh14m036/1648897/30114
+#EXTINF:-1 tvg-id="city.montreal.qc.ca" tvg-name="CITY MONTREAL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA201CITYMONTREAL.png" group-title="Canada",CITY MONTREAL
+http://a1.hdflix.live:8880/jh14m036/1648897/30113
+#EXTINF:-1 tvg-id="makeful.ca" tvg-name="MAKEFUL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA202MAKEFUL.png" group-title="Canada",MAKEFUL
+http://a1.hdflix.live:8880/jh14m036/1648897/30112
+#EXTINF:-1 tvg-id="ctv.cjch.halifax.ca" tvg-name="GLOBAL HALIFAX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA205GLOBALHALIFAX.png" group-title="Canada",GLOBAL HALIFAX
+http://a1.hdflix.live:8880/jh14m036/1648897/30109
+#EXTINF:-1 tvg-id="" tvg-name="HOPE TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA206HOPETV.png" group-title="Canada",HOPE TV
+http://a1.hdflix.live:8880/jh14m036/1648897/30108
+#EXTINF:-1 tvg-id="mavtv.canada.ca" tvg-name="MAVTV CANADA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA210MAVTVCANADA.png" group-title="Canada",MAVTV CANADA
+http://a1.hdflix.live:8880/jh14m036/1648897/30104
+#EXTINF:-1 tvg-id="city.calgary.ab.ca" tvg-name="CITY CALGARY" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA215CITYCALGARY.png" group-title="Canada",CITY CALGARY
+http://a1.hdflix.live:8880/jh14m036/1648897/30099
+#EXTINF:-1 tvg-id="global.cict.calgary.ab.ca" tvg-name="GLOBAL CALGARY" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA217GLOBALCALGARY.png" group-title="Canada",GLOBAL CALGARY
+http://a1.hdflix.live:8880/jh14m036/1648897/30097
+#EXTINF:-1 tvg-id="amc.canada.ca" tvg-name="AMC HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA003AMC.png" group-title="Canada",AMC HD
+http://a1.hdflix.live:8880/jh14m036/1648897/3066
+#EXTINF:-1 tvg-id="" tvg-name="TMN 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA005TMN-1.png" group-title="Canada",TMN 1 HD
+http://a1.hdflix.live:8880/jh14m036/1648897/3064
+#EXTINF:-1 tvg-id="ctv.comedy.east.ca" tvg-name="CTV COMEDY HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA014COMEDY.png" group-title="Canada",CTV COMEDY HD
+http://a1.hdflix.live:8880/jh14m036/1648897/3055
+#EXTINF:-1 tvg-id="hbo.ca" tvg-name="HBO East" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA037HBO-EAST.png" group-title="Canada",HBO East
+http://a1.hdflix.live:8880/jh14m036/1648897/3032
+#EXTINF:-1 tvg-id="hbo.canada.west.ca" tvg-name="HBO West" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA038HBO-WEST.png" group-title="Canada",HBO West
+http://a1.hdflix.live:8880/jh14m036/1648897/3031
+#EXTINF:-1 tvg-id="lifetime.canada.ca" tvg-name="LIFETIME HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA044LIFETIME.png" group-title="Canada",LIFETIME HD
+http://a1.hdflix.live:8880/jh14m036/1648897/3025
+#EXTINF:-1 tvg-id="showcase.canada.ca" tvg-name="ShowCase HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA046ShowCaseCA.png" group-title="Canada",ShowCase HD
+http://a1.hdflix.live:8880/jh14m036/1648897/3023
+#EXTINF:-1 tvg-id="" tvg-name="SPACE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA058SPACE.png" group-title="Canada",SPACE
+http://a1.hdflix.live:8880/jh14m036/1648897/3011
+#EXTINF:-1 tvg-id="super.vault.ca" tvg-name="SUPER CHANNEL VAULT" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA079SUPERCHANNELVAULT.png" group-title="Canada",SUPER CHANNEL VAULT    
+http://a1.hdflix.live:8880/jh14m036/1648897/2990
+#EXTINF:-1 tvg-id="" tvg-name="ACTION" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA085ACTION.png" group-title="Canada",ACTION
+http://a1.hdflix.live:8880/jh14m036/1648897/30229
+#EXTINF:-1 tvg-id="hbo.ca" tvg-name="HBO 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA141HBO1.png" group-title="Canada",HBO 1
+http://a1.hdflix.live:8880/jh14m036/1648897/30173
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA142HBO2.png" group-title="Canada",HBO 2
+http://a1.hdflix.live:8880/jh14m036/1648897/30172
+#EXTINF:-1 tvg-id="" tvg-name="MTIME" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA154MTIME.png" group-title="Canada",MTIME
+http://a1.hdflix.live:8880/jh14m036/1648897/30160
+#EXTINF:-1 tvg-id="crave2.east.ca" tvg-name="CRAVE 2 / TMN 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA169CRAVE2/TMN2.png" group-title="Canada",CRAVE 2 / TMN 2 HD
+http://a1.hdflix.live:8880/jh14m036/1648897/30145
+#EXTINF:-1 tvg-id="crave3.east.ca" tvg-name="CRAVE 3 / TMN 3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA170CRAVE3/TMN3.png" group-title="Canada",CRAVE 3 / TMN 3 HD
+http://a1.hdflix.live:8880/jh14m036/1648897/30144
+#EXTINF:-1 tvg-id="" tvg-name="CRAVE 4 / TMN 4 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA171CRAVE4/TMN4.png" group-title="Canada",CRAVE 4 / TMN 4 HD
+http://a1.hdflix.live:8880/jh14m036/1648897/30143
+#EXTINF:-1 tvg-id="silver.screen.classics.ca" tvg-name="SILVER SCREEN CLASSICS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA186SILVERSCREENCLASSICS.png" group-title="Canada",SILVER SCREEN CLASSICS
+http://a1.hdflix.live:8880/jh14m036/1648897/30128
+#EXTINF:-1 tvg-id="paramount.network.canada.ca" tvg-name="SPIKE TV / PARAMOUNT CANADA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA187SPIKETV/PARAMOUNTCANADA.png" group-title="Canada",SPIKE TV / PARAMOUNT CANADA
+http://a1.hdflix.live:8880/jh14m036/1648897/30127
+#EXTINF:-1 tvg-id="tcm.english.bein" tvg-name="TCM" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA193TCM.png" group-title="Canada",TCM
+http://a1.hdflix.live:8880/jh14m036/1648897/30121
+#EXTINF:-1 tvg-id="fx.networks.canada.ca" tvg-name="FX FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA211FXFHD.png" group-title="Canada",FX FHD
+http://a1.hdflix.live:8880/jh14m036/1648897/30103
+#EXTINF:-1 tvg-id="super.fuse.ca" tvg-name="SUPER CHANNEL HEART & HOME" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA219SUPERCHANNELFUSE.png" group-title="Canada",SUPER CHANNEL HEART & HOME
+http://a1.hdflix.live:8880/jh14m036/1648897/30095
+#EXTINF:-1 tvg-id="rds.info.ca" tvg-name="GLOBAL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA181GLOBAL.png" group-title="Canada",GLOBAL
+http://a1.hdflix.live:8880/jh14m036/1648897/30133
+#EXTINF:-1 tvg-id="bnn.bloomberg.ca" tvg-name="BNN BLOOMBERG HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA007BNN.png" group-title="Canada",BNN BLOOMBERG HD
+http://a1.hdflix.live:8880/jh14m036/1648897/3062
+#EXTINF:-1 tvg-id="" tvg-name="CBC Edmonton HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA009CBC-EAST.png" group-title="Canada",CBC Edmonton HD
+http://a1.hdflix.live:8880/jh14m036/1648897/3060
+#EXTINF:-1 tvg-id="cbc.news.network.ca" tvg-name="CBC News Network HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA010CBC-NEWS-NETWORK.png" group-title="Canada",CBC News Network HD
+http://a1.hdflix.live:8880/jh14m036/1648897/3059
+#EXTINF:-1 tvg-id="cnn.ca" tvg-name="CNN HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA013CNN.png" group-title="Canada",CNN HD
+http://a1.hdflix.live:8880/jh14m036/1648897/3056
+#EXTINF:-1 tvg-id="cp24.cablepulse.24.ca" tvg-name="CP24 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA016CP24.png" group-title="Canada",CP24 HD
+http://a1.hdflix.live:8880/jh14m036/1648897/3053
+#EXTINF:-1 tvg-id="" tvg-name="CTV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA019CTV.png" group-title="Canada",CTV HD
+http://a1.hdflix.live:8880/jh14m036/1648897/3050
+#EXTINF:-1 tvg-id="ctv2.atlantic.region.ca" tvg-name="CTV Atlantic HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA020CTVAtlantic.png" group-title="Canada",CTV Atlantic HD
+http://a1.hdflix.live:8880/jh14m036/1648897/3049
+#EXTINF:-1 tvg-id="CTVNews.ca" tvg-name="CTV NEWS HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA021CTV-NEWS.png" group-title="Canada",CTV NEWS HD
+http://a1.hdflix.live:8880/jh14m036/1648897/3048
+#EXTINF:-1 tvg-id="" tvg-name="GSN HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA035GSN.png" group-title="Canada",GSN HD
+http://a1.hdflix.live:8880/jh14m036/1648897/3034
+#EXTINF:-1 tvg-id="hln.ca" tvg-name="HLN HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA041HLN.png" group-title="Canada",HLN HD
+http://a1.hdflix.live:8880/jh14m036/1648897/3028
+#EXTINF:-1 tvg-id="weather.network.ca" tvg-name="W NETWORK HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA053W-NETWORK.png" group-title="Canada",W NETWORK HD
+http://a1.hdflix.live:8880/jh14m036/1648897/3016
+#EXTINF:-1 tvg-id="bbc.canada.east.ca" tvg-name="BBC CANADA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA091BBCCANADA.png" group-title="Canada",BBC CANADA
+http://a1.hdflix.live:8880/jh14m036/1648897/30223
+#EXTINF:-1 tvg-id="bbc.world.north.america.ca" tvg-name="BBC WORLD NEWS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA092BBCWORLDNEWS.png" group-title="Canada",BBC WORLD NEWS
+http://a1.hdflix.live:8880/jh14m036/1648897/30222
+#EXTINF:-1 tvg-id="cbc.cbmt.montreal.qc.ca" tvg-name="CBC MONTREAL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA098CBCMONTREAL.png" group-title="Canada",CBC MONTREAL
+http://a1.hdflix.live:8880/jh14m036/1648897/30216
+#EXTINF:-1 tvg-id="cbc.news.network.ca" tvg-name="CBC NEWS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA099CBCNEWS.png" group-title="Canada",CBC NEWS
+http://a1.hdflix.live:8880/jh14m036/1648897/30215
+#EXTINF:-1 tvg-id="cbc.cbot.ottawa.on.ca" tvg-name="CBC OTTAWA HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA100CBCOTTAWA.png" group-title="Canada",CBC OTTAWA HD
+http://a1.hdflix.live:8880/jh14m036/1648897/30214
+#EXTINF:-1 tvg-id="cbc.cblt.toronto.on.ca" tvg-name="CBC TORONTO" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA101CBCTORONTO.png" group-title="Canada",CBC TORONTO
+http://a1.hdflix.live:8880/jh14m036/1648897/30213
+#EXTINF:-1 tvg-id="cbc.cbut.vancouver.bc.ca" tvg-name="CBC VANCOUVER" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA102CBCVANCOUVER.png" group-title="Canada",CBC VANCOUVER
+http://a1.hdflix.live:8880/jh14m036/1648897/30212
+#EXTINF:-1 tvg-id="" tvg-name="CBS EAST" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA103CBSEAST.png" group-title="Canada",CBS EAST
+http://a1.hdflix.live:8880/jh14m036/1648897/30211
+#EXTINF:-1 tvg-id="" tvg-name="CBS WEST" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA104CBSWEST.png" group-title="Canada",CBS WEST
+http://a1.hdflix.live:8880/jh14m036/1648897/30210
+#EXTINF:-1 tvg-id="cnbc.canada.ca" tvg-name="CNBC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA109CNBC.png" group-title="Canada",CNBC
+http://a1.hdflix.live:8880/jh14m036/1648897/30205
+#EXTINF:-1 tvg-id="cnn.international.north.america.ca" tvg-name="CNN INTERNATIONAL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA110CNNINTERNATIONAL.png" group-title="Canada",CNN INTERNATIONAL
+http://a1.hdflix.live:8880/jh14m036/1648897/30204
+#EXTINF:-1 tvg-id="cbc.cbut.vancouver.bc.ca" tvg-name="CTV 2 VANCOUVER" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA116CTV2VANCOUVER.png" group-title="Canada",CTV 2 VANCOUVER
+http://a1.hdflix.live:8880/jh14m036/1648897/30198
+#EXTINF:-1 tvg-id="ctv.ottawa.cjoh.on.ca" tvg-name="CTV OTTAWA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA117CTVOTTAWA.png" group-title="Canada",CTV OTTAWA
+http://a1.hdflix.live:8880/jh14m036/1648897/30197
+#EXTINF:-1 tvg-id="ctv.cfto.toronto.on.ca" tvg-name="CTV TORONTO" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA118CTVTORONTO.png" group-title="Canada",CTV TORONTO
+http://a1.hdflix.live:8880/jh14m036/1648897/30196
+#EXTINF:-1 tvg-id="ctv.vancouver.bc.ca" tvg-name="CTV VANCOUVER" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA119CTVVANCOUVER.png" group-title="Canada",CTV VANCOUVER
+http://a1.hdflix.live:8880/jh14m036/1648897/30195
+#EXTINF:-1 tvg-id="ctv2.ottawa.on.ca" tvg-name="CTV2 OTTAWA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA120CTV2OTTAWA.png" group-title="Canada",CTV2 OTTAWA
+http://a1.hdflix.live:8880/jh14m036/1648897/30194
+#EXTINF:-1 tvg-id="fox.news.ca" tvg-name="FOX NEWS HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA133FOXNEWS.png" group-title="Canada",FOX NEWS HD
+http://a1.hdflix.live:8880/jh14m036/1648897/30181
+#EXTINF:-1 tvg-id="wgn.canada.ca" tvg-name="WGN" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA161WGN.png" group-title="Canada",WGN
+http://a1.hdflix.live:8880/jh14m036/1648897/30153
+#EXTINF:-1 tvg-id="" tvg-name="NTV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA173NTV.png" group-title="Canada",NTV
+http://a1.hdflix.live:8880/jh14m036/1648897/30141
+#EXTINF:-1 tvg-id="ctv.cjch.halifax.ca" tvg-name="CTV HALIFAX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA204CTVHALIFAX.png" group-title="Canada",CTV HALIFAX
+http://a1.hdflix.live:8880/jh14m036/1648897/30110
+#EXTINF:-1 tvg-id="" tvg-name="CBC Windsor" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA207CBCNOVASCOTIA.png" group-title="Canada",CBC Windsor
+http://a1.hdflix.live:8880/jh14m036/1648897/30107
+#EXTINF:-1 tvg-id="mediaset.italia.ca" tvg-name="MEDIASET ITALIA CANADA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA212MEDIASETITALIACANADA.png" group-title="Canada",MEDIASET ITALIA CANADA
+http://a1.hdflix.live:8880/jh14m036/1648897/30102
+#EXTINF:-1 tvg-id="cbc.cbrt.calgary.ab.ca" tvg-name="CBC CALGARY" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA214CBCCALGARY.png" group-title="Canada",CBC CALGARY
+http://a1.hdflix.live:8880/jh14m036/1648897/30100
+#EXTINF:-1 tvg-id="ctv.cfcn.calgary.ab.ca" tvg-name="CTV CALGARY" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA216CTVCALGARY.png" group-title="Canada",CTV CALGARY
+http://a1.hdflix.live:8880/jh14m036/1648897/30098
+#EXTINF:-1 tvg-id="family.canada.east.ca" tvg-name="FAMILY HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA029FAMILY.png" group-title="Canada",FAMILY HD
+http://a1.hdflix.live:8880/jh14m036/1648897/3040
+#EXTINF:-1 tvg-id="pbs.kcts.seattle.wa.ca" tvg-name="PBS HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA043PBS.png" group-title="Canada",PBS HD
+http://a1.hdflix.live:8880/jh14m036/1648897/3026
+#EXTINF:-1 tvg-id="treehouse.ca" tvg-name="TREEHOUSE HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA064TREEHOUSE.png" group-title="Canada",TREEHOUSE HD
+http://a1.hdflix.live:8880/jh14m036/1648897/3005
+#EXTINF:-1 tvg-id="tvo.ontario.ca" tvg-name="TVO HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA070TVO.png" group-title="Canada",TVO HD
+http://a1.hdflix.live:8880/jh14m036/1648897/2999
+#EXTINF:-1 tvg-id="ytv.youth.east.ca" tvg-name="YTV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA072YTV.png" group-title="Canada",YTV HD
+http://a1.hdflix.live:8880/jh14m036/1648897/2997
+#EXTINF:-1 tvg-id="cartoon.network.canada.ca" tvg-name="CARTOON NETWORK" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA096CARTOONNETWORK.png" group-title="Canada",CARTOON NETWORK
+http://a1.hdflix.live:8880/jh14m036/1648897/30218
+#EXTINF:-1 tvg-id="family.chrgd.ca" tvg-name="FAMILY CHRGD HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA130FAMILYCHRGD.png" group-title="Canada",FAMILY CHRGD HD
+http://a1.hdflix.live:8880/jh14m036/1648897/30184
+#EXTINF:-1 tvg-id="family.jr.ca" tvg-name="FAMILY JR" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA131FAMILYJR.png" group-title="Canada",FAMILY JR
+http://a1.hdflix.live:8880/jh14m036/1648897/30183
+#EXTINF:-1 tvg-id="knowledge.network.ca" tvg-name="KNOWLEDGE KIDS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA147KNOWLEDGEKIDS.png" group-title="Canada",KNOWLEDGE KIDS
+http://a1.hdflix.live:8880/jh14m036/1648897/30167
+#EXTINF:-1 tvg-id="telelatino.ca" tvg-name="TELE LATINO" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA194TELELATINO.png" group-title="Canada",TELE LATINO
+http://a1.hdflix.live:8880/jh14m036/1648897/30120
+#EXTINF:-1 tvg-id="teletoon.east.ca" tvg-name="TELE TOON EAST" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA196TELETOONEAST.png" group-title="Canada",TELE TOON EAST
+http://a1.hdflix.live:8880/jh14m036/1648897/30118
+#EXTINF:-1 tvg-id="nickelodeon.canada.ca" tvg-name="NICK" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA209NICK.png" group-title="Canada",NICK
+http://a1.hdflix.live:8880/jh14m036/1648897/30105
+#EXTINF:-1 tvg-id="animal.planet.canada.ca" tvg-name="Animal Planet HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA004ANIMAL-PLANET.png" group-title="Canada",Animal Planet HD
+http://a1.hdflix.live:8880/jh14m036/1648897/3065
+#EXTINF:-1 tvg-id="discovery.can.ca" tvg-name="DISCOVERY HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA022DISCOVERY.png" group-title="Canada",DISCOVERY HD
+http://a1.hdflix.live:8880/jh14m036/1648897/3047
+#EXTINF:-1 tvg-id="history.canada.east.ca" tvg-name="HISTORY HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA040HISTORY.png" group-title="Canada",HISTORY HD
+http://a1.hdflix.live:8880/jh14m036/1648897/3029
+#EXTINF:-1 tvg-id="investigation.discovery.canada.ca" tvg-name="ID HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA042ID.png" group-title="Canada",ID HD
+http://a1.hdflix.live:8880/jh14m036/1648897/3027
+#EXTINF:-1 tvg-id="national.geographic.canada.ca" tvg-name="National Geographic HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA049NAT-GEO.png" group-title="Canada",National Geographic HD
+http://a1.hdflix.live:8880/jh14m036/1648897/3020
+#EXTINF:-1 tvg-id="national.geographic.wild.canada.ca" tvg-name="NAT GEO WILD HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA050NAT-GEO-WILD.png" group-title="Canada",NAT GEO WILD HD
+http://a1.hdflix.live:8880/jh14m036/1648897/3019
+#EXTINF:-1 tvg-id="smithsonian.canada.ca" tvg-name="SMITHSONIAN HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA057SMITHSONIAN.png" group-title="Canada",SMITHSONIAN HD
+http://a1.hdflix.live:8880/jh14m036/1648897/3012
+#EXTINF:-1 tvg-id="mega.cosmos.ca" tvg-name="Wild TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA113Wild.png" group-title="Canada",Wild TV
+http://a1.hdflix.live:8880/jh14m036/1648897/30201
+#EXTINF:-1 tvg-id="crime+.investigation.ca" tvg-name="CRIME INVEST" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA115CRIMEINVEST.png" group-title="Canada",CRIME INVEST
+http://a1.hdflix.live:8880/jh14m036/1648897/30199
+#EXTINF:-1 tvg-id="discovery.science.canada.ca" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA124DISCOVERYSCIENCECANADA.png" group-title="Canada",DISCOVERY SCIENCE HD
+http://a1.hdflix.live:8880/jh14m036/1648897/30190
+#EXTINF:-1 tvg-id="documentary.canada.ca" tvg-name="DOCUMENTARY" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA126DOCUMENTARY.png" group-title="Canada",DOCUMENTARY
+http://a1.hdflix.live:8880/jh14m036/1648897/30188
+#EXTINF:-1 tvg-id="history.2.canada.ca" tvg-name="H2 CANADA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA140H2CANADA.png" group-title="Canada",H2 CANADA
+http://a1.hdflix.live:8880/jh14m036/1648897/30174
+#EXTINF:-1 tvg-id="travelxp.ca" tvg-name="TRAVEL ESCAPE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA213TRAVELESCAPE.png" group-title="Canada",TRAVEL   ESCAPE
+http://a1.hdflix.live:8880/jh14m036/1648897/30101
+
+
+
+#EXTINF:-1 tvg-id="rds.reseau.des.sports.ca" tvg-name="RDS" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/07/rds.png" group-title="Sports",RDS
+http://a1.hdflix.live:8880/jh14m036/1648897/2987
+#EXTINF:-1 tvg-id="rds.2.ca" tvg-name="RDS 2" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2019/07/RDS2_Primary_CMYK.png" group-title="Sports",RDS 2
+http://a1.hdflix.live:8880/jh14m036/1648897/30132
+#EXTINF:-1 tvg-id="rds.info.ca" tvg-name="RDS Info" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/07/rds-info.png" group-title="Sports",RDS Info
+http://a1.hdflix.live:8880/jh14m036/1648897/30131
+#EXTINF:-1 tvg-id="tva.sports.ca" tvg-name="TVA Sports HD" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/07/TVA-Sports.png" group-title="Sports",TVA Sports HD
+http://a1.hdflix.live:8880/jh14m036/1648897/2992
+#EXTINF:-1 tvg-id="ab.moteurs.fr" tvg-name="AB Moteur" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR003ABMoteur.png" group-title="Sports",AB Moteur
+http://a1.hdflix.live:8880/jh14m036/1648897/2863
+#EXTINF:-1 tvg-id="bein.sports.max.4.fr" tvg-name="Bein Sport 4 Max" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR009BeinSport4Max.png" group-title="Sports",Bein Sport 4 Max
+http://a1.hdflix.live:8880/jh14m036/1648897/2857
+#EXTINF:-1 tvg-id="bein.sports.max.5.fr" tvg-name="Bein Sport 5 Max" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR011BeinSport5Max.png" group-title="Sports",Bein Sport 5 Max
+http://a1.hdflix.live:8880/jh14m036/1648897/2855
+#EXTINF:-1 tvg-id="bein.sports.max.6.fr" tvg-name="Bein Sport 6 Max" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR012BeinSport6Max.png" group-title="Sports",Bein Sport 6 Max
+http://a1.hdflix.live:8880/jh14m036/1648897/2854
+#EXTINF:-1 tvg-id="bein.sports.max.7.fr" tvg-name="Bein Sport 7 Max" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR013BeinSport7Max.png" group-title="Sports",Bein Sport 7 Max
+http://a1.hdflix.live:8880/jh14m036/1648897/2853
+#EXTINF:-1 tvg-id="bein.sports.max.8.fr" tvg-name="Bein Sport 8 Max" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR014BeinSport8Max.png" group-title="Sports",Bein Sport 8 Max
+http://a1.hdflix.live:8880/jh14m036/1648897/2852
+#EXTINF:-1 tvg-id="bein.sports.max.9.fr" tvg-name="Bein Sport 9 Max" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR015BeinSport9Max.png" group-title="Sports",Bein Sport 9 Max
+http://a1.hdflix.live:8880/jh14m036/1648897/2851
+#EXTINF:-1 tvg-id="bein.sports.max.10.fr" tvg-name="Bein Sport 10 Max" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR010BeinSport10Max.png" group-title="Sports",Bein Sport 10 Max
+http://a1.hdflix.live:8880/jh14m036/1648897/2856
+#EXTINF:-1 tvg-id="bein.sports.1.fr" tvg-name="Bein Sport 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR017BeinSport1.png" group-title="Sports",Bein Sport 1
+http://a1.hdflix.live:8880/jh14m036/1648897/2849
+#EXTINF:-1 tvg-id="bein.sports.2.fr" tvg-name="Bein Sport  2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR018BeinSport2.png" group-title="Sports",Bein Sport  2
+http://a1.hdflix.live:8880/jh14m036/1648897/2848
+#EXTINF:-1 tvg-id="bein.sports.3.fr" tvg-name="Bein Sport 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR016BeinSport3.png" group-title="Sports",Bein Sport 3
+http://a1.hdflix.live:8880/jh14m036/1648897/2850
+#EXTINF:-1 tvg-id="canal+.sport.fr" tvg-name="Canal  Sport" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR027CanalSport.png" group-title="Sports",Canal  Sport
+http://a1.hdflix.live:8880/jh14m036/1648897/2839
+#EXTINF:-1 tvg-id="eurosport.fr" tvg-name="Euro Sport 1 FR" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR050EuroSport1FR.png" group-title="Sports",Euro Sport 1 FR
+http://a1.hdflix.live:8880/jh14m036/1648897/2816
+#EXTINF:-1 tvg-id="eurosport.2.fr" tvg-name="Euro Sport 2 FR" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR051EuroSport2FR.png" group-title="Sports",Euro Sport 2 FR
+http://a1.hdflix.live:8880/jh14m036/1648897/2815
+#EXTINF:-1 tvg-id="info.sport.fr" tvg-name="Info Sport" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR062InfoSport.png" group-title="Sports",Info Sport
+http://a1.hdflix.live:8880/jh14m036/1648897/2804
+#EXTINF:-1 tvg-id="rmc.sport.1.fr" tvg-name="SFR Sport 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR081SFRSport1.png" group-title="Sports",SFR Sport 1
+http://a1.hdflix.live:8880/jh14m036/1648897/2785
+#EXTINF:-1 tvg-id="rmc.sport.2.fr" tvg-name="SFR Sport 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR082SFRSport2.png" group-title="Sports",SFR Sport 2
+http://a1.hdflix.live:8880/jh14m036/1648897/2784
+#EXTINF:-1 tvg-id="rmc.sport.3.fr" tvg-name="SFR Sport 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR083SFRSport3.png" group-title="Sports",SFR Sport 3
+http://a1.hdflix.live:8880/jh14m036/1648897/2783
+#EXTINF:-1 tvg-id="rmc.sport.4.fr" tvg-name="SFR Sport 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR080SFRSport4.png" group-title="Sports",SFR Sport 4
+http://a1.hdflix.live:8880/jh14m036/1648897/2786
+#EXTINF:-1 tvg-id="eurosport.1.fr" tvg-name="Eurosport 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR112Eurosport1.png" group-title="Sports",Eurosport 1
+http://a1.hdflix.live:8880/jh14m036/1648897/28197
+#EXTINF:-1 tvg-id="eurosport.2.fr" tvg-name="Eurosport 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR111Eurosport2.png" group-title="Sports",Eurosport 2
+http://a1.hdflix.live:8880/jh14m036/1648897/28198
+#EXTINF:-1 tvg-id="rmc.sport.live.12.fr" tvg-name="RMC Sport 12" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR266RMCSport12.png" group-title="Sports",RMC Sport 12
+http://a1.hdflix.live:8880/jh14m036/1648897/28043
+#EXTINF:-1 tvg-id="rmc.sport.live.13.fr" tvg-name="RMC Sport 13" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR267RMCSport13.png" group-title="Sports",RMC Sport 13
+http://a1.hdflix.live:8880/jh14m036/1648897/28042
+#EXTINF:-1 tvg-id="rmc.sport.live.14.fr" tvg-name="RMC Sport 14" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR268RMCSport14.png" group-title="Sports",RMC Sport 14
+http://a1.hdflix.live:8880/jh14m036/1648897/28041
+#EXTINF:-1 tvg-id="" tvg-name="BFM SPORT" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR177BFMSPORT.png" group-title="Sports",BFM SPORT
+http://a1.hdflix.live:8880/jh14m036/1648897/28132
+#EXTINF:-1 tvg-id="info.sport.fr" tvg-name="INFOSPORT" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR113INFOSPORT.png" group-title="Sports",INFOSPORT
+http://a1.hdflix.live:8880/jh14m036/1648897/28196
+#EXTINF:-1 tvg-id="foot+.24.24.fr" tvg-name="Foot +" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR329Foot.png" group-title="Sports",Foot +
+http://a1.hdflix.live:8880/jh14m036/1648897/27980
+#EXTINF:-1 tvg-id="rmc.sport.1.fr" tvg-name="RMC SPORT 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR349RMCSPORT1HD.png" group-title="Sports",RMC SPORT 1 HD
+http://a1.hdflix.live:8880/jh14m036/1648897/27960
+#EXTINF:-1 tvg-id="rmc.sport.2.fr" tvg-name="RMC SPORT 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR350RMCSPORT2HD.png" group-title="Sports",RMC SPORT 2 HD
+http://a1.hdflix.live:8880/jh14m036/1648897/27959
+#EXTINF:-1 tvg-id="rmc.sport.3.fr" tvg-name="RMC SPORT 3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR351RMCSPORT3HD.png" group-title="Sports",RMC SPORT 3 HD
+http://a1.hdflix.live:8880/jh14m036/1648897/27958
+#EXTINF:-1 tvg-id="rmc.sport.4.fr" tvg-name="RMC SPORT 4 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR352RMCSPORT4HD.png" group-title="Sports",RMC SPORT 4 HD
+http://a1.hdflix.live:8880/jh14m036/1648897/27957
+#EXTINF:-1 tvg-id="rmc.sport.access.1.fr" tvg-name="RMC ACCESS 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR337RMCACCESS1.png" group-title="Sports",RMC ACCESS 1
+http://a1.hdflix.live:8880/jh14m036/1648897/27972
+#EXTINF:-1 tvg-id="rmc.sport.access.2.fr" tvg-name="RMC ACCESS  2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR338RMCACCESS2.png" group-title="Sports",RMC ACCESS  2
+http://a1.hdflix.live:8880/jh14m036/1648897/27971
+#EXTINF:-1 tvg-id="sportsnet.ontario.ca" tvg-name="Sportnet Ontario HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA002SPORTSNET-ONTARIO.png" group-title="Sports",Sportnet Ontario HD
+http://a1.hdflix.live:8880/jh14m036/1648897/3067
+#EXTINF:-1 tvg-id="nba.canada.ca" tvg-name="NBA HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA032NBACA.png" group-title="Sports",NBA HD
+http://a1.hdflix.live:8880/jh14m036/1648897/3037
+#EXTINF:-1 tvg-id="sportsnet.360.ca" tvg-name="SPORTSNET-360" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA059SPORTSNET-360.png" group-title="Sports",SPORTSNET-360
+http://a1.hdflix.live:8880/jh14m036/1648897/3010
+#EXTINF:-1 tvg-id="sportsnet.east.ca" tvg-name="SPORTSNET EAST HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA060SPORTSNET-EAST.png" group-title="Sports",SPORTSNET EAST HD
+http://a1.hdflix.live:8880/jh14m036/1648897/3009
+#EXTINF:-1 tvg-id="sportsnet.one.ca" tvg-name="SPORTSNET-ONE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA061SPORTSNET-ONE.png" group-title="Sports",SPORTSNET-ONE
+http://a1.hdflix.live:8880/jh14m036/1648897/3008
+#EXTINF:-1 tvg-id="sportsnet.west.ca" tvg-name="SPORTSNET WEST HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA062SPORTSNET-WEST.png" group-title="Sports",SPORTSNET WEST HD
+http://a1.hdflix.live:8880/jh14m036/1648897/3007
+#EXTINF:-1 tvg-id="tsn1.ca" tvg-name="TSN-1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA065TSN-1.png" group-title="Sports",TSN-1 HD
+http://a1.hdflix.live:8880/jh14m036/1648897/3004
+#EXTINF:-1 tvg-id="tsn2.ca" tvg-name="TSN-2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA066TSN-2.png" group-title="Sports",TSN-2 HD
+http://a1.hdflix.live:8880/jh14m036/1648897/3003
+#EXTINF:-1 tvg-id="tsn3.ca" tvg-name="TSN-3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA067TSN-3.png" group-title="Sports",TSN-3 HD
+http://a1.hdflix.live:8880/jh14m036/1648897/3002
+#EXTINF:-1 tvg-id="tsn4.ca" tvg-name="TSN-4 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA068TSN-4.png" group-title="Sports",TSN-4 HD
+http://a1.hdflix.live:8880/jh14m036/1648897/3001
+#EXTINF:-1 tvg-id="tsn5.ca" tvg-name="TSN-5 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA069TSN-5.png" group-title="Sports",TSN-5 HD
+http://a1.hdflix.live:8880/jh14m036/1648897/3000
+#EXTINF:-1 tvg-id="fight.network.canada.ca" tvg-name="FIGHT NETWORK HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA132FIGHTNETWORK.png" group-title="Sports",FIGHT NETWORK HD
+http://a1.hdflix.live:8880/jh14m036/1648897/30182
+#EXTINF:-1 tvg-id="golf.canada.ca" tvg-name="GOLF" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA139GOLF.png" group-title="Sports",GOLF
+http://a1.hdflix.live:8880/jh14m036/1648897/30175
+#EXTINF:-1 tvg-id="sportsnet.pacific.ca" tvg-name="SPORTSNET PACIFIC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA188SPORTSNETPACIFIC.png" group-title="Sports",SPORTSNET PACIFIC
+http://a1.hdflix.live:8880/jh14m036/1648897/30126
+#EXTINF:-1 tvg-id="mlb.network.ca" tvg-name="MLB NETWORK" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA203MLBNETWORK.png" group-title="Sports",MLB NETWORK
+http://a1.hdflix.live:8880/jh14m036/1648897/30111
+#EXTINF:-1 tvg-id="nfl.network.us" tvg-name="NFL-Network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US064NFL-Network.png" group-title="Sports",NFL-Network
+http://a1.hdflix.live:8880/jh14m036/1648897/3104
+#EXTINF:-1 tvg-id="nfl.red.zone.us" tvg-name="NFL RedZone" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US089NFLRedZone.png" group-title="Sports",NFL RedZone
+http://a1.hdflix.live:8880/jh14m036/1648897/3079
+#EXTINF:-1 tvg-id="" tvg-name="NFL 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US618NFL1.png" group-title="Sports",NFL 1
+http://a1.hdflix.live:8880/jh14m036/1648897/29572
+#EXTINF:-1 tvg-id="" tvg-name="NFL 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US619NFL2.png" group-title="Sports",NFL 2
+http://a1.hdflix.live:8880/jh14m036/1648897/29571
+#EXTINF:-1 tvg-id="" tvg-name="NFL 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US620NFL3.png" group-title="Sports",NFL 3
+http://a1.hdflix.live:8880/jh14m036/1648897/29570
+#EXTINF:-1 tvg-id="" tvg-name="NFL 4 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US621NFL4HD.png" group-title="Sports",NFL 4 HD
+http://a1.hdflix.live:8880/jh14m036/1648897/29569
+#EXTINF:-1 tvg-id="" tvg-name="NFL 5" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US622NFL5.png" group-title="Sports",NFL 5
+http://a1.hdflix.live:8880/jh14m036/1648897/29568
+#EXTINF:-1 tvg-id="" tvg-name="NFL 6" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US623NFL6.png" group-title="Sports",NFL 6
+http://a1.hdflix.live:8880/jh14m036/1648897/29567
+#EXTINF:-1 tvg-id="" tvg-name="NFL 7" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US624NFL7.png" group-title="Sports",NFL 7
+http://a1.hdflix.live:8880/jh14m036/1648897/29566
+#EXTINF:-1 tvg-id="" tvg-name="NFL 8" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US625NFL8.png" group-title="Sports",NFL 8
+http://a1.hdflix.live:8880/jh14m036/1648897/29565
+#EXTINF:-1 tvg-id="" tvg-name="NFL 9" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US626NFL9.png" group-title="Sports",NFL 9
+http://a1.hdflix.live:8880/jh14m036/1648897/29564
+#EXTINF:-1 tvg-id="" tvg-name="NFL 14" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US627NFL14.png" group-title="Sports",NFL 14
+http://a1.hdflix.live:8880/jh14m036/1648897/29563
+#EXTINF:-1 tvg-id="" tvg-name="NFL 15" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US628NFL15.png" group-title="Sports",NFL 15
+http://a1.hdflix.live:8880/jh14m036/1648897/29562
+#EXTINF:-1 tvg-id="" tvg-name="NFL N" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US629NFLN.png" group-title="Sports",NFL N
+http://a1.hdflix.live:8880/jh14m036/1648897/29561
+#EXTINF:-1 tvg-id="" tvg-name="NFL Channel HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US645NFLChannelHD.png" group-title="Sports",NFL Channel HD
+http://a1.hdflix.live:8880/jh14m036/1648897/29545
+#EXTINF:-1 tvg-id="" tvg-name="NFL Gamepass 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US646NFLGamepass1.png" group-title="Sports",NFL Gamepass 1
+http://a1.hdflix.live:8880/jh14m036/1648897/29544
+#EXTINF:-1 tvg-id="" tvg-name="NFL GAMEPASS 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US647NFLGAMEPASS2.png" group-title="Sports",NFL GAMEPASS 2
+http://a1.hdflix.live:8880/jh14m036/1648897/29543
+#EXTINF:-1 tvg-id="" tvg-name="NFL GAMEPASS 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US648NFLGAMEPASS3.png" group-title="Sports",NFL GAMEPASS 3
+http://a1.hdflix.live:8880/jh14m036/1648897/29542
+#EXTINF:-1 tvg-id="" tvg-name="NFL GAMEPASS 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US649NFLGAMEPASS4.png" group-title="Sports",NFL GAMEPASS 4
+http://a1.hdflix.live:8880/jh14m036/1648897/29541
+#EXTINF:-1 tvg-id="" tvg-name="NFL GAMEPASS 5" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US650NFLGAMEPASS5.png" group-title="Sports",NFL GAMEPASS 5
+http://a1.hdflix.live:8880/jh14m036/1648897/29540
+#EXTINF:-1 tvg-id="" tvg-name="NFL GAMEPASS 6" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US651NFLGAMEPASS6.png" group-title="Sports",NFL GAMEPASS 6
+http://a1.hdflix.live:8880/jh14m036/1648897/29539
+#EXTINF:-1 tvg-id="" tvg-name="NFL GAMEPASS 7" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US652NFLGAMEPASS7.png" group-title="Sports",NFL GAMEPASS 7
+http://a1.hdflix.live:8880/jh14m036/1648897/29538
+#EXTINF:-1 tvg-id="" tvg-name="NFL GAMEPASS 8" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US653NFLGAMEPASS8.png" group-title="Sports",NFL GAMEPASS 8
+http://a1.hdflix.live:8880/jh14m036/1648897/29537
+#EXTINF:-1 tvg-id="" tvg-name="NFL GAMEPASS 9" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US654NFLGAMEPASS9.png" group-title="Sports",NFL GAMEPASS 9
+http://a1.hdflix.live:8880/jh14m036/1648897/29536
+#EXTINF:-1 tvg-id="" tvg-name="NFL GAMEPASS 10" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US655NFLGAMEPASS10.png" group-title="Sports",NFL GAMEPASS 10
+http://a1.hdflix.live:8880/jh14m036/1648897/29535
+#EXTINF:-1 tvg-id="" tvg-name="NFL GAMEPASS 11" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US656NFLGAMEPASS11.png" group-title="Sports",NFL GAMEPASS 11
+http://a1.hdflix.live:8880/jh14m036/1648897/29534
+#EXTINF:-1 tvg-id="" tvg-name="NFL GAMEPASS 12" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US657NFLGAMEPASS12.png" group-title="Sports",NFL GAMEPASS 12
+http://a1.hdflix.live:8880/jh14m036/1648897/29533
+#EXTINF:-1 tvg-id="" tvg-name="NFL GAMEPASS 13" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US658NFLGAMEPASS13.png" group-title="Sports",NFL GAMEPASS 13
+http://a1.hdflix.live:8880/jh14m036/1648897/29532
+#EXTINF:-1 tvg-id="" tvg-name="NFL Gamepass 14" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US659NFLGamepass14.png" group-title="Sports",NFL Gamepass 14
+http://a1.hdflix.live:8880/jh14m036/1648897/29531
+#EXTINF:-1 tvg-id="mlb.network.us" tvg-name="MLB-Network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US056MLB-Network.png" group-title="Sports",US056:MLB-Network
+http://a1.hdflix.live:8880/jh14m036/1648897/3112
+#EXTINF:-1 tvg-id="" tvg-name="MLB 01" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US630MLB01.png" group-title="Sports",MLB 01
+http://a1.hdflix.live:8880/jh14m036/1648897/29560
+#EXTINF:-1 tvg-id="" tvg-name="MLB 02" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US631MLB02.png" group-title="Sports",MLB 02
+http://a1.hdflix.live:8880/jh14m036/1648897/29559
+#EXTINF:-1 tvg-id="" tvg-name="MLB 03" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US632MLB03.png" group-title="Sports",MLB 03
+http://a1.hdflix.live:8880/jh14m036/1648897/29558
+#EXTINF:-1 tvg-id="" tvg-name="MLB 04" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US633MLB04.png" group-title="Sports",MLB 04
+http://a1.hdflix.live:8880/jh14m036/1648897/29557
+#EXTINF:-1 tvg-id="" tvg-name="MLB 05" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US634MLB05.png" group-title="Sports",MLB 05
+http://a1.hdflix.live:8880/jh14m036/1648897/29556
+#EXTINF:-1 tvg-id="" tvg-name="MLB 06" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US635MLB06.png" group-title="Sports",MLB 06
+http://a1.hdflix.live:8880/jh14m036/1648897/29555
+#EXTINF:-1 tvg-id="" tvg-name="MLB 07" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US636MLB07.png" group-title="Sports",MLB 07
+http://a1.hdflix.live:8880/jh14m036/1648897/29554
+#EXTINF:-1 tvg-id="" tvg-name="MLB 08" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US637MLB08.png" group-title="Sports",MLB 08
+http://a1.hdflix.live:8880/jh14m036/1648897/29553
+#EXTINF:-1 tvg-id="" tvg-name="MLB 09" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US638MLB09.png" group-title="Sports",MLB 09
+http://a1.hdflix.live:8880/jh14m036/1648897/29552
+#EXTINF:-1 tvg-id="" tvg-name="MLB 10" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US639MLB10.png" group-title="Sports",MLB 10
+http://a1.hdflix.live:8880/jh14m036/1648897/29551
+#EXTINF:-1 tvg-id="" tvg-name="MLB 11" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US640MLB11.png" group-title="Sports",MLB 11
+http://a1.hdflix.live:8880/jh14m036/1648897/29550
+#EXTINF:-1 tvg-id="" tvg-name="MLB 12" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US641MLB12.png" group-title="Sports",MLB 12
+http://a1.hdflix.live:8880/jh14m036/1648897/29549
+#EXTINF:-1 tvg-id="" tvg-name="MLB 13" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US642MLB13.png" group-title="Sports",MLB 13
+http://a1.hdflix.live:8880/jh14m036/1648897/29548
+#EXTINF:-1 tvg-id="" tvg-name="MLB 14" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US643MLB14.png" group-title="Sports",MLB 14
+http://a1.hdflix.live:8880/jh14m036/1648897/29547
+#EXTINF:-1 tvg-id="" tvg-name="MLB 15" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US644MLB15.png" group-title="Sports",MLB 15
+http://a1.hdflix.live:8880/jh14m036/1648897/29546
+#EXTINF:-1 tvg-id="nba.usa.us" tvg-name="NBA-TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US060NBA-TV.png" group-title="Sports",US060:NBA-TV
+http://a1.hdflix.live:8880/jh14m036/1648897/3108
+#EXTINF:-1 tvg-id="nba.league.pass.1.us" tvg-name="NBA League Pass 01" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US665NBALeaguePass01.png" group-title="Sports",NBA League Pass 01
+http://a1.hdflix.live:8880/jh14m036/1648897/29525
+#EXTINF:-1 tvg-id="nba.league.pass.2.us" tvg-name="NBA League Pass 02" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US666NBALeaguePass02.png" group-title="Sports",NBA League Pass 02
+http://a1.hdflix.live:8880/jh14m036/1648897/29524
+#EXTINF:-1 tvg-id="nba.league.pass.3.us" tvg-name="NBA League Pass 03" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US667NBALeaguePass03.png" group-title="Sports",NBA League Pass 03
+http://a1.hdflix.live:8880/jh14m036/1648897/29523
+#EXTINF:-1 tvg-id="nba.league.pass.4.us" tvg-name="NBA League Pass 04" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US668NBALeaguePass04.png" group-title="Sports",NBA League Pass 04
+http://a1.hdflix.live:8880/jh14m036/1648897/29522
+#EXTINF:-1 tvg-id="nba.league.pass.5.us" tvg-name="NBA League Pass 05" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US669NBALeaguePass05.png" group-title="Sports",NBA League Pass 05
+http://a1.hdflix.live:8880/jh14m036/1648897/29521
+#EXTINF:-1 tvg-id="nba.league.pass.6.us" tvg-name="NBA League Pass 06" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US670NBALeaguePass06.png" group-title="Sports",NBA League Pass 06
+http://a1.hdflix.live:8880/jh14m036/1648897/29520
+#EXTINF:-1 tvg-id="nba.league.pass.7.us" tvg-name="NBA League Pass 07" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US671NBALeaguePass07.png" group-title="Sports",NBA League Pass 07
+http://a1.hdflix.live:8880/jh14m036/1648897/29519
+#EXTINF:-1 tvg-id="nba.league.pass.8.us" tvg-name="NBA League Pass 08" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US672NBALeaguePass08.png" group-title="Sports",NBA League Pass 08
+http://a1.hdflix.live:8880/jh14m036/1648897/29518
+#EXTINF:-1 tvg-id="nba.league.pass.9.us" tvg-name="NBA League Pass 09" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US673NBALeaguePass09.png" group-title="Sports",NBA League Pass 09
+http://a1.hdflix.live:8880/jh14m036/1648897/29517
+#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 10" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US674NBALeaguePass10.png" group-title="Sports",NBA League Pass 10
+http://a1.hdflix.live:8880/jh14m036/1648897/29516
+#EXTINF:-1 tvg-id="directv.nhl.center.ice.782.us" tvg-name="NHL Centre Ice 782" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US675NHLCentreIce782.png" group-title="Sports",NHL Centre Ice 782
+http://a1.hdflix.live:8880/jh14m036/1648897/29515
+#EXTINF:-1 tvg-id="directv.nhl.center.ice.783.us" tvg-name="NHL Centre Ice 783" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US676NHLCentreIce783.png" group-title="Sports",NHL Centre Ice 783
+http://a1.hdflix.live:8880/jh14m036/1648897/29514
+#EXTINF:-1 tvg-id="" tvg-name="NHL Game 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US677NHLGame1.png" group-title="Sports",NHL Game 1
+http://a1.hdflix.live:8880/jh14m036/1648897/29513
+#EXTINF:-1 tvg-id="" tvg-name="NHL Game 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US678NHLGame2.png" group-title="Sports",NHL Game 2
+http://a1.hdflix.live:8880/jh14m036/1648897/29512
+#EXTINF:-1 tvg-id="" tvg-name="NHL Game 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US679NHLGame3.png" group-title="Sports",NHL Game 3
+http://a1.hdflix.live:8880/jh14m036/1648897/29511
+#EXTINF:-1 tvg-id="" tvg-name="NHL Game 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US680NHLGame4.png" group-title="Sports",NHL Game 4
+http://a1.hdflix.live:8880/jh14m036/1648897/29510
+#EXTINF:-1 tvg-id="" tvg-name="NHL Game 5" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US681NHLGame5.png" group-title="Sports",NHL Game 5
+http://a1.hdflix.live:8880/jh14m036/1648897/29509
+#EXTINF:-1 tvg-id="" tvg-name="NHL Game 6" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US682NHLGame6.png" group-title="Sports",NHL Game 6
+http://a1.hdflix.live:8880/jh14m036/1648897/29508
+#EXTINF:-1 tvg-id="" tvg-name="NHL Game 7" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US683NHLGame7.png" group-title="Sports",NHL Game 7
+http://a1.hdflix.live:8880/jh14m036/1648897/29507
+#EXTINF:-1 tvg-id="" tvg-name="NHL Game 8" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US684NHLGame8.png" group-title="Sports",NHL Game 8
+http://a1.hdflix.live:8880/jh14m036/1648897/29506
+#EXTINF:-1 tvg-id="" tvg-name="NHL Game 9" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US685NHLGame9.png" group-title="Sports",NHL Game 9
+http://a1.hdflix.live:8880/jh14m036/1648897/29505
+#EXTINF:-1 tvg-id="" tvg-name="NHL Game 10" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US686NHLGame10.png" group-title="Sports",NHL Game 10
+http://a1.hdflix.live:8880/jh14m036/1648897/29504
+#EXTINF:-1 tvg-id="" tvg-name="NHL Game 11" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US687NHLGame11.png" group-title="Sports",NHL Game 11
+http://a1.hdflix.live:8880/jh14m036/1648897/29503
+#EXTINF:-1 tvg-id="" tvg-name="NHL Game 12" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US688NHLGame12.png" group-title="Sports",NHL Game 12
+http://a1.hdflix.live:8880/jh14m036/1648897/29502
+#EXTINF:-1 tvg-id="" tvg-name="NHL Game 13" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US689NHLGame13.png" group-title="Sports",NHL Game 13
+http://a1.hdflix.live:8880/jh14m036/1648897/29501
+#EXTINF:-1 tvg-id="" tvg-name="NHL Game 14" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US690NHLGame14.png" group-title="Sports",NHL Game 14
+http://a1.hdflix.live:8880/jh14m036/1648897/29500
+#EXTINF:-1 tvg-id="" tvg-name="NHL Game 15" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US691NHLGame15.png" group-title="Sports",NHL Game 15
+http://a1.hdflix.live:8880/jh14m036/1648897/29499
+#EXTINF:-1 tvg-id="nhl.network.usa.us" tvg-name="NHL NETWORK" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US736NHLNETWORK.png" group-title="Sports",NHL NETWORK
+http://a1.hdflix.live:8880/jh14m036/1648897/29454
+#EXTINF:-1 tvg-id="" tvg-name="UFC 01" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US714UFC01.png" group-title="Sports",UFC 01
+http://a1.hdflix.live:8880/jh14m036/1648897/29476
+#EXTINF:-1 tvg-id="" tvg-name="UFC 02" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US715UFC02.png" group-title="Sports",UFC 02
+http://a1.hdflix.live:8880/jh14m036/1648897/29475
+#EXTINF:-1 tvg-id="" tvg-name="UFC 03" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US716UFC03.png" group-title="Sports",UFC 03
+http://a1.hdflix.live:8880/jh14m036/1648897/29474
+#EXTINF:-1 tvg-id="" tvg-name="UFC 04" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US717UFC04.png" group-title="Sports",UFC 04
+http://a1.hdflix.live:8880/jh14m036/1648897/29473
+#EXTINF:-1 tvg-id="" tvg-name="UFC 05" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US718UFC05.png" group-title="Sports",UFC 05
+http://a1.hdflix.live:8880/jh14m036/1648897/29472
+#EXTINF:-1 tvg-id="" tvg-name="PPV BOXING 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US661PVVBOXING2.png" group-title="Sports",PPV BOXING 2
+http://a1.hdflix.live:8880/jh14m036/1648897/29529
+#EXTINF:-1 tvg-id="" tvg-name="PPV BOXING 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US662PPVBOXING3.png" group-title="Sports",PPV BOXING 3
+http://a1.hdflix.live:8880/jh14m036/1648897/29528
+#EXTINF:-1 tvg-id="" tvg-name="PPV BOXING 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US663PPVBOXING4.png" group-title="Sports",PPV BOXING 4
+http://a1.hdflix.live:8880/jh14m036/1648897/29527
+#EXTINF:-1 tvg-id="" tvg-name="PPV BOXING 5" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US664PPVBOXING5.png" group-title="Sports",PPV BOXING 5
+http://a1.hdflix.live:8880/jh14m036/1648897/29526
+
+
+#EXTINF:-1 tvg-id="ab.moteurs.fr" tvg-name="AB Moteur" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR003ABMoteur.png" group-title="France",AB Moteur
+http://a1.hdflix.live:8880/jh14m036/1648897/2863
+#EXTINF:-1 tvg-id="bein.sports.max.4.fr" tvg-name="Bein Sport 4 Max" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR009BeinSport4Max.png" group-title="France",Bein Sport 4 Max
+http://a1.hdflix.live:8880/jh14m036/1648897/2857
+#EXTINF:-1 tvg-id="bein.sports.max.5.fr" tvg-name="Bein Sport 5 Max" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR011BeinSport5Max.png" group-title="France",Bein Sport 5 Max
+http://a1.hdflix.live:8880/jh14m036/1648897/2855
+#EXTINF:-1 tvg-id="bein.sports.max.6.fr" tvg-name="Bein Sport 6 Max" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR012BeinSport6Max.png" group-title="France",Bein Sport 6 Max
+http://a1.hdflix.live:8880/jh14m036/1648897/2854
+#EXTINF:-1 tvg-id="bein.sports.max.7.fr" tvg-name="Bein Sport 7 Max" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR013BeinSport7Max.png" group-title="France",Bein Sport 7 Max
+http://a1.hdflix.live:8880/jh14m036/1648897/2853
+#EXTINF:-1 tvg-id="bein.sports.max.8.fr" tvg-name="Bein Sport 8 Max" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR014BeinSport8Max.png" group-title="France",Bein Sport 8 Max
+http://a1.hdflix.live:8880/jh14m036/1648897/2852
+#EXTINF:-1 tvg-id="bein.sports.max.9.fr" tvg-name="Bein Sport 9 Max" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR015BeinSport9Max.png" group-title="France",Bein Sport 9 Max
+http://a1.hdflix.live:8880/jh14m036/1648897/2851
+#EXTINF:-1 tvg-id="bein.sports.max.10.fr" tvg-name="Bein Sport 10 Max" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR010BeinSport10Max.png" group-title="France",Bein Sport 10 Max
+http://a1.hdflix.live:8880/jh14m036/1648897/2856
+#EXTINF:-1 tvg-id="bein.sports.1.fr" tvg-name="Bein Sport 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR017BeinSport1.png" group-title="France",Bein Sport 1
+http://a1.hdflix.live:8880/jh14m036/1648897/2849
+#EXTINF:-1 tvg-id="bein.sports.2.fr" tvg-name="Bein Sport  2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR018BeinSport2.png" group-title="France",Bein Sport  2
+http://a1.hdflix.live:8880/jh14m036/1648897/2848
+#EXTINF:-1 tvg-id="bein.sports.3.fr" tvg-name="Bein Sport 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR016BeinSport3.png" group-title="France",Bein Sport 3
+http://a1.hdflix.live:8880/jh14m036/1648897/2850
+#EXTINF:-1 tvg-id="canal+.sport.fr" tvg-name="Canal  Sport" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR027CanalSport.png" group-title="France",Canal  Sport
+http://a1.hdflix.live:8880/jh14m036/1648897/2839
+#EXTINF:-1 tvg-id="eurosport.fr" tvg-name="Euro Sport 1 FR" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR050EuroSport1FR.png" group-title="France",Euro Sport 1 FR
+http://a1.hdflix.live:8880/jh14m036/1648897/2816
+#EXTINF:-1 tvg-id="eurosport.2.fr" tvg-name="Euro Sport 2 FR" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR051EuroSport2FR.png" group-title="France",Euro Sport 2 FR
+http://a1.hdflix.live:8880/jh14m036/1648897/2815
+#EXTINF:-1 tvg-id="info.sport.fr" tvg-name="Info Sport" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR062InfoSport.png" group-title="France",Info Sport
+http://a1.hdflix.live:8880/jh14m036/1648897/2804
+#EXTINF:-1 tvg-id="rmc.sport.1.fr" tvg-name="SFR Sport 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR081SFRSport1.png" group-title="France",SFR Sport 1
+http://a1.hdflix.live:8880/jh14m036/1648897/2785
+#EXTINF:-1 tvg-id="rmc.sport.2.fr" tvg-name="SFR Sport 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR082SFRSport2.png" group-title="France",SFR Sport 2
+http://a1.hdflix.live:8880/jh14m036/1648897/2784
+#EXTINF:-1 tvg-id="rmc.sport.3.fr" tvg-name="SFR Sport 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR083SFRSport3.png" group-title="France",SFR Sport 3
+http://a1.hdflix.live:8880/jh14m036/1648897/2783
+#EXTINF:-1 tvg-id="rmc.sport.4.fr" tvg-name="SFR Sport 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR080SFRSport4.png" group-title="France",SFR Sport 4
+http://a1.hdflix.live:8880/jh14m036/1648897/2786
+#EXTINF:-1 tvg-id="eurosport.1.fr" tvg-name="Eurosport 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR112Eurosport1.png" group-title="France",Eurosport 1
+http://a1.hdflix.live:8880/jh14m036/1648897/28197
+#EXTINF:-1 tvg-id="eurosport.2.fr" tvg-name="Eurosport 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR111Eurosport2.png" group-title="France",Eurosport 2
+http://a1.hdflix.live:8880/jh14m036/1648897/28198
+#EXTINF:-1 tvg-id="rmc.sport.live.12.fr" tvg-name="RMC Sport 12" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR266RMCSport12.png" group-title="France",RMC Sport 12
+http://a1.hdflix.live:8880/jh14m036/1648897/28043
+#EXTINF:-1 tvg-id="rmc.sport.live.13.fr" tvg-name="RMC Sport 13" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR267RMCSport13.png" group-title="France",RMC Sport 13
+http://a1.hdflix.live:8880/jh14m036/1648897/28042
+#EXTINF:-1 tvg-id="rmc.sport.live.14.fr" tvg-name="RMC Sport 14" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR268RMCSport14.png" group-title="France",RMC Sport 14
+http://a1.hdflix.live:8880/jh14m036/1648897/28041
+#EXTINF:-1 tvg-id="" tvg-name="BFM SPORT" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR177BFMSPORT.png" group-title="France",BFM SPORT
+http://a1.hdflix.live:8880/jh14m036/1648897/28132
+#EXTINF:-1 tvg-id="info.sport.fr" tvg-name="INFOSPORT" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR113INFOSPORT.png" group-title="France",INFOSPORT
+http://a1.hdflix.live:8880/jh14m036/1648897/28196
+#EXTINF:-1 tvg-id="foot+.24.24.fr" tvg-name="Foot +" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR329Foot.png" group-title="France",Foot +
+http://a1.hdflix.live:8880/jh14m036/1648897/27980
+#EXTINF:-1 tvg-id="rmc.sport.1.fr" tvg-name="RMC SPORT 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR349RMCSPORT1HD.png" group-title="France",RMC SPORT 1 HD
+http://a1.hdflix.live:8880/jh14m036/1648897/27960
+#EXTINF:-1 tvg-id="rmc.sport.2.fr" tvg-name="RMC SPORT 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR350RMCSPORT2HD.png" group-title="France",RMC SPORT 2 HD
+http://a1.hdflix.live:8880/jh14m036/1648897/27959
+#EXTINF:-1 tvg-id="rmc.sport.3.fr" tvg-name="RMC SPORT 3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR351RMCSPORT3HD.png" group-title="France",RMC SPORT 3 HD
+http://a1.hdflix.live:8880/jh14m036/1648897/27958
+#EXTINF:-1 tvg-id="rmc.sport.4.fr" tvg-name="RMC SPORT 4 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR352RMCSPORT4HD.png" group-title="France",RMC SPORT 4 HD
+http://a1.hdflix.live:8880/jh14m036/1648897/27957
+#EXTINF:-1 tvg-id="rmc.sport.access.1.fr" tvg-name="RMC ACCESS 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR337RMCACCESS1.png" group-title="France",RMC ACCESS 1
+http://a1.hdflix.live:8880/jh14m036/1648897/27972
+#EXTINF:-1 tvg-id="rmc.sport.access.2.fr" tvg-name="RMC ACCESS  2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR338RMCACCESS2.png" group-title="France",RMC ACCESS  2
+http://a1.hdflix.live:8880/jh14m036/1648897/27971
+#EXTINF:-1 tvg-id="cstar.fr" tvg-name="CStar" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR041CStar.png" group-title="France",CStar
+http://a1.hdflix.live:8880/jh14m036/1648897/2825
+#EXTINF:-1 tvg-id="6ter.fr" tvg-name="6Ter" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR0026Ter.png" group-title="France",6Ter
+http://a1.hdflix.live:8880/jh14m036/1648897/2864
+#EXTINF:-1 tvg-id="ab.1.fr" tvg-name="AB1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR004AB1.png" group-title="France",AB1
+http://a1.hdflix.live:8880/jh14m036/1648897/2862
+#EXTINF:-1 tvg-id="ab3.fr" tvg-name="AB3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR005AB3.png" group-title="France",AB3
+http://a1.hdflix.live:8880/jh14m036/1648897/2861
+#EXTINF:-1 tvg-id="animaux.fr" tvg-name="Animaux" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR007Animaux.png" group-title="France",Animaux
+http://a1.hdflix.live:8880/jh14m036/1648897/2859
+#EXTINF:-1 tvg-id="arte.fr" tvg-name="Arte" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR008Arte.png" group-title="France",Arte
+http://a1.hdflix.live:8880/jh14m036/1648897/2858
+#EXTINF:-1 tvg-id="discovery.f.fr" tvg-name="Discovery" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR042Discovery.png" group-title="France",Discovery
+http://a1.hdflix.live:8880/jh14m036/1648897/2824
+#EXTINF:-1 tvg-id="discovery.science.fr" tvg-name="Discovery Science" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR043DiscoveryScience.png" group-title="France",Discovery Science
+http://a1.hdflix.live:8880/jh14m036/1648897/2823
+#EXTINF:-1 tvg-id="national.geographic.fr" tvg-name="NAT GEO" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR067NATGEO.png" group-title="France",NAT GEO
+http://a1.hdflix.live:8880/jh14m036/1648897/2799
+#EXTINF:-1 tvg-id="nat.geo.wild.fr" tvg-name="NAT GEO WILD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR068NATGEOWILD.png" group-title="France",NAT GEO WILD
+http://a1.hdflix.live:8880/jh14m036/1648897/2798
+#EXTINF:-1 tvg-id="nrj.hits.fr" tvg-name="NRJ Hits" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR070NRJHits.png" group-title="France",NRJ Hits
+http://a1.hdflix.live:8880/jh14m036/1648897/2796
+#EXTINF:-1 tvg-id="planete.fr" tvg-name="Planete" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR075Planete.png" group-title="France",Planete
+http://a1.hdflix.live:8880/jh14m036/1648897/2791
+#EXTINF:-1 tvg-id="planete+.action.experience.fr" tvg-name="Planete A&E" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR076PlaneteA&E.png" group-title="France",Planete A&E
+http://a1.hdflix.live:8880/jh14m036/1648897/2790
+#EXTINF:-1 tvg-id="planete+.ci.fr" tvg-name="Planete CI" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR077PlaneteCI.png" group-title="France",Planete CI
+http://a1.hdflix.live:8880/jh14m036/1648897/2789
+#EXTINF:-1 tvg-id="seasons.fr" tvg-name="Seasons" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR079Seasons.png" group-title="France",Seasons
+http://a1.hdflix.live:8880/jh14m036/1648897/2787
+#EXTINF:-1 tvg-id="nrj.12.fr" tvg-name="NRJ12 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR096NRJ12HD.png" group-title="France",NRJ12 HD
+http://a1.hdflix.live:8880/jh14m036/1648897/28213
+#EXTINF:-1 tvg-id="science.et.vie.fr" tvg-name="SCIENCE ET VIE HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR126SCIENCEETVIEHD.png" group-title="France",SCIENCE ET VIE HD
+http://a1.hdflix.live:8880/jh14m036/1648897/28183
+#EXTINF:-1 tvg-id="trace.mziki.fr" tvg-name="Trace Mziki" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR146TraceMziki.png" group-title="France",Trace Mziki
+http://a1.hdflix.live:8880/jh14m036/1648897/28163
+#EXTINF:-1 tvg-id="trace.toca.fr" tvg-name="Trace Toca" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR149TraceToca.png" group-title="France",Trace Toca
+http://a1.hdflix.live:8880/jh14m036/1648897/28160
+#EXTINF:-1 tvg-id="trace.tropical.fr" tvg-name="Trace Tropical" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR156TraceTropical.png" group-title="France",Trace Tropical
+http://a1.hdflix.live:8880/jh14m036/1648897/28153
+#EXTINF:-1 tvg-id="trace.urban.fr" tvg-name="Trace Urban" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR157TraceUrban.png" group-title="France",Trace Urban
+http://a1.hdflix.live:8880/jh14m036/1648897/28152
+#EXTINF:-1 tvg-id="e.fr" tvg-name="E! Entertainment" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR170E!Entertainment.png" group-title="France",E! Entertainment
+http://a1.hdflix.live:8880/jh14m036/1648897/28139
+#EXTINF:-1 tvg-id="discovery.investigation.fr" tvg-name="Discovery Investigation HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR172DiscoveryInvestigationHD.png" group-title="France",Discovery Investigation HD
+http://a1.hdflix.live:8880/jh14m036/1648897/28137
+#EXTINF:-1 tvg-id="mcm.fr" tvg-name="MCM" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR166MCM.png" group-title="France",MCM
+http://a1.hdflix.live:8880/jh14m036/1648897/28143
+#EXTINF:-1 tvg-id="mcm.top.fr" tvg-name="MCM TOP" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR167MCMTOP.png" group-title="France",MCM TOP
+http://a1.hdflix.live:8880/jh14m036/1648897/28142
+#EXTINF:-1 tvg-id="djazz.fr" tvg-name="DJAZZ TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR236DJAZZTV.png" group-title="France",DJAZZ TV
+http://a1.hdflix.live:8880/jh14m036/1648897/28073
+#EXTINF:-1 tvg-id="discovery.family.fr" tvg-name="Discovery FAMILY FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR258DiscoveryFAMILYFHD.png" group-title="France",Discovery FAMILY FHD
+http://a1.hdflix.live:8880/jh14m036/1648897/28051
+#EXTINF:-1 tvg-id="discovery.investigation.fr" tvg-name="Discovery INVESTIGATION FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR259DiscoveryINVESTIGATIONFHD.png" group-title="France",Discovery INVESTIGATION FHD
+http://a1.hdflix.live:8880/jh14m036/1648897/28050
+#EXTINF:-1 tvg-id="rmc.story.fr" tvg-name="RMC STORY HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR355RMCSTORYHD.png" group-title="France",RMC STORY HD
+http://a1.hdflix.live:8880/jh14m036/1648897/27954
+#EXTINF:-1 tvg-id="c8.fr" tvg-name="C8" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR022C8.png" group-title="France",C8
+http://a1.hdflix.live:8880/jh14m036/1648897/2844
+#EXTINF:-1 tvg-id="canal+.fr" tvg-name="Canal" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR028Canal.png" group-title="France",Canal
+http://a1.hdflix.live:8880/jh14m036/1648897/2838
+#EXTINF:-1 tvg-id="chasse.et.peche.fr" tvg-name="Chasse et Pache" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR031ChasseetPache.png" group-title="France",Chasse et Pache
+http://a1.hdflix.live:8880/jh14m036/1648897/2835
+#EXTINF:-1 tvg-id="cherie.25.fr" tvg-name="Cherie 25" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR032Cherie25.png" group-title="France",Cherie 25
+http://a1.hdflix.live:8880/jh14m036/1648897/2834
+#EXTINF:-1 tvg-id="comedie+.fr" tvg-name="FComedie Plus" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR040ComediePlus.png" group-title="France",Comedie Plus
+http://a1.hdflix.live:8880/jh14m036/1648897/2826
+#EXTINF:-1 tvg-id="equidia.live.fr" tvg-name="Equidiae Live" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR048EquidiaeLive.png" group-title="France",Equidiae Live
+http://a1.hdflix.live:8880/jh14m036/1648897/2818
+#EXTINF:-1 tvg-id="france.2.fr" tvg-name="France 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR052France2.png" group-title="France",France 2
+http://a1.hdflix.live:8880/jh14m036/1648897/2814
+#EXTINF:-1 tvg-id="france.3.fr" tvg-name="France 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR054France3.png" group-title="France",France 3
+http://a1.hdflix.live:8880/jh14m036/1648897/2812
+#EXTINF:-1 tvg-id="france.4.fr" tvg-name="France 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR055France4.png" group-title="France",France 4
+http://a1.hdflix.live:8880/jh14m036/1648897/2811
+#EXTINF:-1 tvg-id="france.5.fr" tvg-name="France 5" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR056France5.png" group-title="France",France 5
+http://a1.hdflix.live:8880/jh14m036/1648897/2810
+#EXTINF:-1 tvg-id="france.o.fr" tvg-name="France O" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR057FranceO.png" group-title="France",France O
+http://a1.hdflix.live:8880/jh14m036/1648897/2809
+#EXTINF:-1 tvg-id="game.one.fr" tvg-name="Game One" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR058GameOne.png" group-title="France",Game One
+http://a1.hdflix.live:8880/jh14m036/1648897/2808
+#EXTINF:-1 tvg-id="hd1.fr" tvg-name="HD1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR060HD1.png" group-title="France",HD1
+http://a1.hdflix.live:8880/jh14m036/1648897/2806
+#EXTINF:-1 tvg-id="" tvg-name="i Tele" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR061iTele.png" group-title="France",i Tele
+http://a1.hdflix.live:8880/jh14m036/1648897/2805
+#EXTINF:-1 tvg-id="lequipe.fr" tvg-name="L'EQUIPE 21" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR063L'EQUIPE21.png" group-title="France",L'EQUIPE 21
+http://a1.hdflix.live:8880/jh14m036/1648897/2803
+#EXTINF:-1 tvg-id="m6.fr" tvg-name="M6" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR065M6.png" group-title="France",M6
+http://a1.hdflix.live:8880/jh14m036/1648897/2801
+#EXTINF:-1 tvg-id="tfx.fr" tvg-name="TFX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR071TFX.png" group-title="France",TFX
+http://a1.hdflix.live:8880/jh14m036/1648897/2795
+#EXTINF:-1 tvg-id="" tvg-name="Pairs Permiere" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR073PairsPermiere.png" group-title="France",Pairs Permiere
+http://a1.hdflix.live:8880/jh14m036/1648897/2793
+#EXTINF:-1 tvg-id="rtl9.fr" tvg-name="RTL9" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR078RTL9.png" group-title="France",RTL9
+http://a1.hdflix.live:8880/jh14m036/1648897/2788
+#EXTINF:-1 tvg-id="syfy.fr" tvg-name="Syfy FR" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR084SyfyFR.png" group-title="France",Syfy FR
+http://a1.hdflix.live:8880/jh14m036/1648897/2782
+#EXTINF:-1 tvg-id="teva.fr" tvg-name="Teva" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR085Teva.png" group-title="France",Teva
+http://a1.hdflix.live:8880/jh14m036/1648897/2781
+#EXTINF:-1 tvg-id="tf1.fr" tvg-name="TF1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR087TF1.png" group-title="France",TF1
+http://a1.hdflix.live:8880/jh14m036/1648897/2779
+#EXTINF:-1 tvg-id="toute.lhistoire.fr" tvg-name="Toute Lhistoire" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR088TouteLhistoire.png" group-title="France",Toute Lhistoire
+http://a1.hdflix.live:8880/jh14m036/1648897/2778
+#EXTINF:-1 tvg-id="trace.urban.fr" tvg-name="Trace Urban" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR089TraceUrban.png" group-title="France",Trace Urban
+http://a1.hdflix.live:8880/jh14m036/1648897/2777
+#EXTINF:-1 tvg-id="tv.breizh.fr" tvg-name="TV Breizh" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR090TVBreizh.png" group-title="France",TV Breizh
+http://a1.hdflix.live:8880/jh14m036/1648897/2776
+#EXTINF:-1 tvg-id="tv5.monde.fr" tvg-name="TV5 Monde" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR091TV5Monde.png" group-title="France",TV5 Monde
+http://a1.hdflix.live:8880/jh14m036/1648897/2775
+#EXTINF:-1 tvg-id="voyage.fr" tvg-name="Voyage" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR092Voyage.png" group-title="France",Voyage
+http://a1.hdflix.live:8880/jh14m036/1648897/2774
+#EXTINF:-1 tvg-id="" tvg-name="D8" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR101D8.png" group-title="France",D8
+http://a1.hdflix.live:8880/jh14m036/1648897/28208
+#EXTINF:-1 tvg-id="comedie.fr" tvg-name="COMEDIE  HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR109COMEDIEHD.png" group-title="France",COMEDIE  HD
+http://a1.hdflix.live:8880/jh14m036/1648897/28200
+#EXTINF:-1 tvg-id="canal+.fr" tvg-name="CANAL  HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR110CANALHD.png" group-title="France",CANAL  HD
+http://a1.hdflix.live:8880/jh14m036/1648897/28199
+#EXTINF:-1 tvg-id="rts.deux.fr" tvg-name="RTS DEUX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR114LaDeux.png" group-title="France",RTS DEUX
+http://a1.hdflix.live:8880/jh14m036/1648897/28195
+#EXTINF:-1 tvg-id="luxe.fr" tvg-name="LUXE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR115LauneBE.png" group-title="France",LUXE
+http://a1.hdflix.live:8880/jh14m036/1648897/28194
+#EXTINF:-1 tvg-id="" tvg-name="NUMERO 23 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR116NUMERO23HD.png" group-title="France",NUMERO 23 HD
+http://a1.hdflix.live:8880/jh14m036/1648897/28193
+#EXTINF:-1 tvg-id="rmc.sport.live.5.fr" tvg-name="RMC Sport 5" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR121RMCSport5.png" group-title="France",RMC Sport 5
+http://a1.hdflix.live:8880/jh14m036/1648897/28188
+#EXTINF:-1 tvg-id="paris.premiere.fr" tvg-name="PARIS PREMIERE HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR122PARISPREMIEREHD.png" group-title="France",PARIS PREMIERE HD
+http://a1.hdflix.live:8880/jh14m036/1648897/28187
+#EXTINF:-1 tvg-id="rmc.decouverte.fr" tvg-name="RMC Decouverte HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR123rmcdecouverte.png" group-title="France",RMC Decouverte HD
+http://a1.hdflix.live:8880/jh14m036/1648897/28186
+#EXTINF:-1 tvg-id="" tvg-name="RESTEZ 3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR124RTSDeux.png" group-title="France",RESTEZ 3 HD
+http://a1.hdflix.live:8880/jh14m036/1648897/28185
+#EXTINF:-1 tvg-id="rts.un.fr" tvg-name="RTS Un" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR125RTSUn.png" group-title="France",RTS Un
+http://a1.hdflix.live:8880/jh14m036/1648897/28184
+#EXTINF:-1 tvg-id="sciences.vie.fr" tvg-name="SCIENCES & VIE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR127SCIENCES&VIE.png" group-title="France",SCIENCES & VIE
+http://a1.hdflix.live:8880/jh14m036/1648897/28182
+#EXTINF:-1 tvg-id="rmc.sport.live.7.fr" tvg-name="RMC Sport 7" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR129RMCSport7.png" group-title="France",RMC Sport 7
+http://a1.hdflix.live:8880/jh14m036/1648897/28180
+#EXTINF:-1 tvg-id="rmc.sport.live.8.fr" tvg-name="RMC Sport 8" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR130RMCSport8.png" group-title="France",RMC Sport 8
+http://a1.hdflix.live:8880/jh14m036/1648897/28179
+#EXTINF:-1 tvg-id="weo.fr" tvg-name="WEO HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR137WEOHD.png" group-title="France",WEO HD
+http://a1.hdflix.live:8880/jh14m036/1648897/28172
+#EXTINF:-1 tvg-id="" tvg-name="NT1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR139NT1.png" group-title="France",NT1
+http://a1.hdflix.live:8880/jh14m036/1648897/28170
+#EXTINF:-1 tvg-id="" tvg-name="TEVA/TMC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR141TEVA/TMC.png" group-title="France",TEVA/TMC
+http://a1.hdflix.live:8880/jh14m036/1648897/28168
+#EXTINF:-1 tvg-id="trek.fr" tvg-name="TREK HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR142TREKHD.png" group-title="France",TREK HD
+http://a1.hdflix.live:8880/jh14m036/1648897/28167
+#EXTINF:-1 tvg-id="contactv.fr" tvg-name="Radio Contact" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR144RadioContact.png" group-title="France",Radio Contact
+http://a1.hdflix.live:8880/jh14m036/1648897/28165
+#EXTINF:-1 tvg-id="histoire.fr" tvg-name="HISTOIRE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR145SundanceTV.png" group-title="France",HISTOIRE
+http://a1.hdflix.live:8880/jh14m036/1648897/28164
+#EXTINF:-1 tvg-id="" tvg-name="TV3V" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR159TV3V.png" group-title="France",TV3V
+http://a1.hdflix.live:8880/jh14m036/1648897/28150
+#EXTINF:-1 tvg-id="bet.fr" tvg-name="BET" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR161BET.png" group-title="France",BET
+http://a1.hdflix.live:8880/jh14m036/1648897/28148
+#EXTINF:-1 tvg-id="j.one.fr" tvg-name="J One" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR162JOne.png" group-title="France",J One
+http://a1.hdflix.live:8880/jh14m036/1648897/28147
+#EXTINF:-1 tvg-id="foot+.24.24.fr" tvg-name="FOOT  24" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR164FOOT24.png" group-title="France",FOOT  24
+http://a1.hdflix.live:8880/jh14m036/1648897/28145
+#EXTINF:-1 tvg-id="tv5.monde.style.fr" tvg-name="TV5 Style" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR165TV5Style.png" group-title="France",TV5 Style
+http://a1.hdflix.live:8880/jh14m036/1648897/28144
+#EXTINF:-1 tvg-id="science.vie.fr" tvg-name="Science & Vie HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR168Science VieHD.png" group-title="France",Science & Vie HD
+http://a1.hdflix.live:8880/jh14m036/1648897/28141
+#EXTINF:-1 tvg-id="crime.district.fr" tvg-name="CRIME DISTRICT HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR169CRIMEDISTRICTHD.png" group-title="France",CRIME DISTRICT HD
+http://a1.hdflix.live:8880/jh14m036/1648897/28140
+#EXTINF:-1 tvg-id="bfm.business.fr" tvg-name="BFM business" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR171BFMbusiness.png" group-title="France",BFM business
+http://a1.hdflix.live:8880/jh14m036/1648897/28138
+#EXTINF:-1 tvg-id="" tvg-name="BE CURIOUS TV HD (1080P)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR173BECURIOUSTVHD(1080P).png" group-title="France",BE CURIOUS TV HD (1080P)
+http://a1.hdflix.live:8880/jh14m036/1648897/28136
+#EXTINF:-1 tvg-id="equidia.life.fr" tvg-name="EQUIDIA LIFE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR175EQUIDIALIFE.png" group-title="France",EQUIDIA LIFE
+http://a1.hdflix.live:8880/jh14m036/1648897/28134
+#EXTINF:-1 tvg-id="golf.fr" tvg-name="Golf Channel France" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR176GOLF.png" group-title="France",Golf Channel France
+http://a1.hdflix.live:8880/jh14m036/1648897/28133
+#EXTINF:-1 tvg-id="syfy.fr" tvg-name="Syfy HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR178SyfyHD.png" group-title="France",Syfy HD
+http://a1.hdflix.live:8880/jh14m036/1648897/28131
+#EXTINF:-1 tvg-id="teva.fr" tvg-name="Teva" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR179Teva.png" group-title="France",Teva
+http://a1.hdflix.live:8880/jh14m036/1648897/28130
+#EXTINF:-1 tvg-id="tv5monde.fr" tvg-name="TV5Monde Maghreb-Orient" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR192TV5MondeMaghreb-Orient.png" group-title="France",TV5Monde Maghreb-Orient
+http://a1.hdflix.live:8880/jh14m036/1648897/28117
+#EXTINF:-1 tvg-id="bfm.lyon.metropole.fr" tvg-name="BFM LYON" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR194BFMLYON.png" group-title="France",BFM LYON
+http://a1.hdflix.live:8880/jh14m036/1648897/28115
+#EXTINF:-1 tvg-id="vosges.fr" tvg-name="VOSGES TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR195VOSGESTV.png" group-title="France",VOSGES TV
+http://a1.hdflix.live:8880/jh14m036/1648897/28114
+#EXTINF:-1 tvg-id="altice.studio.fr" tvg-name="ALTICE STUDIO FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR196ALTICESTUDIOFHD.png" group-title="France",ALTICE STUDIO FHD
+http://a1.hdflix.live:8880/jh14m036/1648897/28113
+#EXTINF:-1 tvg-id="" tvg-name="Antenne Reunion" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR197AntenneReunion.png" group-title="France",Antenne Reunion
+http://a1.hdflix.live:8880/jh14m036/1648897/28112
+#EXTINF:-1 tvg-id="viceland.fr" tvg-name="VICELAND HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR198VICELANDHD.png" group-title="France",VICELAND HD
+http://a1.hdflix.live:8880/jh14m036/1648897/28111
+#EXTINF:-1 tvg-id="ushuaia.fr" tvg-name="USHUAIA HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR199USHUAIAHD.png" group-title="France",USHUAIA HD
+http://a1.hdflix.live:8880/jh14m036/1648897/28110
+#EXTINF:-1 tvg-id="bet.fr" tvg-name="BET FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR200BETFHD.png" group-title="France",BET FHD
+http://a1.hdflix.live:8880/jh14m036/1648897/28109
+#EXTINF:-1 tvg-id="bfm.business.fr" tvg-name="BFM Business HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR201BFMBusinessHD.png" group-title="France",BFM Business HD
+http://a1.hdflix.live:8880/jh14m036/1648897/28108
+#EXTINF:-1 tvg-id="bfm.fr" tvg-name="BFM HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR202BFMHD.png" group-title="France",BFM HD
+http://a1.hdflix.live:8880/jh14m036/1648897/28107
+#EXTINF:-1 tvg-id="bfm.paris.fr" tvg-name="BFM PARIS HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR203BFMPARISHD.png" group-title="France",BFM PARIS HD
+http://a1.hdflix.live:8880/jh14m036/1648897/28106
+#EXTINF:-1 tvg-id="" tvg-name="BERBERE TELEVISION" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR204BlackClassic.png" group-title="France",BERBERE TELEVISION
+http://a1.hdflix.live:8880/jh14m036/1648897/28105
+#EXTINF:-1 tvg-id="" tvg-name="ILTV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR207ILTV.png" group-title="France",ILTV
+http://a1.hdflix.live:8880/jh14m036/1648897/28102
+#EXTINF:-1 tvg-id="" tvg-name="NOVELAS HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR209VIRGIN.png" group-title="France",NOVELAS HD
+http://a1.hdflix.live:8880/jh14m036/1648897/28100
+#EXTINF:-1 tvg-id="13eme.rue.fr" tvg-name="13EME RUE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR21013EMERUE.png" group-title="France",13EME RUE
+http://a1.hdflix.live:8880/jh14m036/1648897/28099
+#EXTINF:-1 tvg-id="" tvg-name="GOLF+ HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR211GOLFHD.png" group-title="France",GOLF+ HD
+http://a1.hdflix.live:8880/jh14m036/1648897/28098
+#EXTINF:-1 tvg-id="" tvg-name="Bblack! Caribbean" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR212Bblack!Caribbean.png" group-title="France",Bblack! Caribbean
+http://a1.hdflix.live:8880/jh14m036/1648897/28097
+#EXTINF:-1 tvg-id="" tvg-name="CPAC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR213CPAC.png" group-title="France",CPAC
+http://a1.hdflix.live:8880/jh14m036/1648897/28096
+#EXTINF:-1 tvg-id="fashion.fr" tvg-name="NRJ HITS BELGIQUE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR214NRJHITSBELGIQUE.png" group-title="France",NRJ HITS BELGIQUE
+http://a1.hdflix.live:8880/jh14m036/1648897/28095
+#EXTINF:-1 tvg-id="serie.club.fr" tvg-name="Serie Club" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR216SerieClub.png" group-title="France",Serie Club
+http://a1.hdflix.live:8880/jh14m036/1648897/28093
+#EXTINF:-1 tvg-id="m6.boutique.fr" tvg-name="M6 Boutique HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR217M6BoutiqueHD.png" group-title="France",M6 Boutique HD
+http://a1.hdflix.live:8880/jh14m036/1648897/28092
+#EXTINF:-1 tvg-id="m6.music.fr" tvg-name="M6 Music Hits" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR218M6MusicHits.png" group-title="France",M6 Music Hits
+http://a1.hdflix.live:8880/jh14m036/1648897/28091
+#EXTINF:-1 tvg-id="" tvg-name="HD 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR219HD1.png" group-title="France",HD 1
+http://a1.hdflix.live:8880/jh14m036/1648897/28090
+#EXTINF:-1 tvg-id="rts.deux.fr" tvg-name="RTS LA DEUX HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR220RTSLADEUXHD.png" group-title="France",RTS LA DEUX HD
+http://a1.hdflix.live:8880/jh14m036/1648897/28089
+#EXTINF:-1 tvg-id="" tvg-name="Alsace TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR221AlsaceTV.png" group-title="France",Alsace TV
+http://a1.hdflix.live:8880/jh14m036/1648897/28088
+#EXTINF:-1 tvg-id="syfy.fr" tvg-name="SyFy Universal HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR222SyFyUniversalHD.png" group-title="France",SyFy Universal HD
+http://a1.hdflix.live:8880/jh14m036/1648897/28087
+#EXTINF:-1 tvg-id="" tvg-name="BRAVA HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR223BRAVAHD.png" group-title="France",BRAVA HD
+http://a1.hdflix.live:8880/jh14m036/1648897/28086
+#EXTINF:-1 tvg-id="tl7.saint.etienne.fr" tvg-name="RESTEZ 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR235TL7.png" group-title="France",RESTEZ 2 HD
+http://a1.hdflix.live:8880/jh14m036/1648897/28074
+#EXTINF:-1 tvg-id="mtv.base.fr" tvg-name="MTV BASE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR237MTVBASE.png" group-title="France",MTV BASE
+http://a1.hdflix.live:8880/jh14m036/1648897/28072
+#EXTINF:-1 tvg-id="mtv.dance.fr" tvg-name="MTV DANCE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR238MTVDANCE.png" group-title="France",MTV DANCE
+http://a1.hdflix.live:8880/jh14m036/1648897/28071
+#EXTINF:-1 tvg-id="mtv.hits.fr" tvg-name="MTV HITS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR239MTVHITS.png" group-title="France",MTV HITS
+http://a1.hdflix.live:8880/jh14m036/1648897/28070
+#EXTINF:-1 tvg-id="" tvg-name="TVM 3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR240TVM3HD.png" group-title="France",TVM 3 HD
+http://a1.hdflix.live:8880/jh14m036/1648897/28069
+#EXTINF:-1 tvg-id="tv5monde.fr" tvg-name="TV5 MONDE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR241TV5MONDE.png" group-title="France",TV5 MONDE
+http://a1.hdflix.live:8880/jh14m036/1648897/28068
+#EXTINF:-1 tvg-id="canal+.decale.fr" tvg-name="CANAL  DECALE HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR242CANALDECALEHD.png" group-title="France",CANAL  DECALE HD
+http://a1.hdflix.live:8880/jh14m036/1648897/28067
+#EXTINF:-1 tvg-id="" tvg-name="CANAL Emotion HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR243CANALEmotionHD.png" group-title="France",CANAL Emotion HD
+http://a1.hdflix.live:8880/jh14m036/1648897/28066
+#EXTINF:-1 tvg-id="canal+.family.fr" tvg-name="CANAL  FAMILY HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR244CANALFAMILYHD.png" group-title="France",CANAL  FAMILY HD
+http://a1.hdflix.live:8880/jh14m036/1648897/28065
+#EXTINF:-1 tvg-id="canal+.fr" tvg-name="Canal+ HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR245CANALHD.png" group-title="France",Canal+ HD
+http://a1.hdflix.live:8880/jh14m036/1648897/28064
+#EXTINF:-1 tvg-id="trace.naija.fr" tvg-name="TRACE NAIJA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR247TVVendee.png" group-title="France",TRACE NAIJA
+http://a1.hdflix.live:8880/jh14m036/1648897/28062
+#EXTINF:-1 tvg-id="canal+.serie.fr" tvg-name="CANAL  SERIE HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR248CANALSERIEHD.png" group-title="France",CANAL  SERIE HD
+http://a1.hdflix.live:8880/jh14m036/1648897/28061
+#EXTINF:-1 tvg-id="tv7.bordeaux.fr" tvg-name="TV7 Bordeaux" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR249TV7Bordeaux.png" group-title="France",TV7 Bordeaux
+http://a1.hdflix.live:8880/jh14m036/1648897/28060
+#EXTINF:-1 tvg-id="canal+.sport.fr" tvg-name="CANAL  SPORT FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR250CANALSPORTFHD.png" group-title="France",CANAL  SPORT FHD
+http://a1.hdflix.live:8880/jh14m036/1648897/28059
+#EXTINF:-1 tvg-id="cine+.club.fr" tvg-name="CINE  CLUB HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR251CINECLUBHD.png" group-title="France",CINE  CLUB HD
+http://a1.hdflix.live:8880/jh14m036/1648897/28058
+#EXTINF:-1 tvg-id="cine+.frisson.fr" tvg-name="CINE FRISSON HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR252CINEFRISSONHD.png" group-title="France",CINE FRISSON HD
+http://a1.hdflix.live:8880/jh14m036/1648897/28057
+#EXTINF:-1 tvg-id="cine+.star.afrique.fr" tvg-name="CINE  Star HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR253CINEStarHD.png" group-title="France",CINE  Star HD
+http://a1.hdflix.live:8880/jh14m036/1648897/28056
+#EXTINF:-1 tvg-id="rmc.sport.live.9.fr" tvg-name="RMC Sport 9" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR254RMCSport9.png" group-title="France",RMC Sport 9
+http://a1.hdflix.live:8880/jh14m036/1648897/28055
+#EXTINF:-1 tvg-id="" tvg-name="TV5 Europe HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR255TV5EuropeHD.png" group-title="France",TV5 Europe HD
+http://a1.hdflix.live:8880/jh14m036/1648897/28054
+#EXTINF:-1 tvg-id="rmc.sport.live.10.fr" tvg-name="RMC Sport 10" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR256RMCSport10.png" group-title="France",RMC Sport 10
+http://a1.hdflix.live:8880/jh14m036/1648897/28053
+#EXTINF:-1 tvg-id="rmc.sport.live.11.fr" tvg-name="RMC Sport 11" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR257RMCSport11.png" group-title="France",RMC Sport 11
+http://a1.hdflix.live:8880/jh14m036/1648897/28052
+#EXTINF:-1 tvg-id="e.fr" tvg-name="E! FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR260E!FHD.png" group-title="France",E! FHD
+http://a1.hdflix.live:8880/jh14m036/1648897/28049
+#EXTINF:-1 tvg-id="" tvg-name="RTS LA UN" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR263RTSLAUN.png" group-title="France",RTS LA UN
+http://a1.hdflix.live:8880/jh14m036/1648897/28046
+#EXTINF:-1 tvg-id="ellegirl.fr" tvg-name="ELLE GIRL HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR264ELLEGIRLHD.png" group-title="France",ELLE GIRL HD
+http://a1.hdflix.live:8880/jh14m036/1648897/28045
+#EXTINF:-1 tvg-id="viamirabelle.fr" tvg-name="VIA MIRABELLE TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR269VIAMIRABELLETV.png" group-title="France",VIA MIRABELLE TV
+http://a1.hdflix.live:8880/jh14m036/1648897/28040
+#EXTINF:-1 tvg-id="foot+.24.24.fr" tvg-name="FOOT 24 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR270FOOT24HD.png" group-title="France",FOOT 24 HD
+http://a1.hdflix.live:8880/jh14m036/1648897/28039
+#EXTINF:-1 tvg-id="trek.fr" tvg-name="TREK FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR271TREKFHD.png" group-title="France",TREK FHD
+http://a1.hdflix.live:8880/jh14m036/1648897/28038
+#EXTINF:-1 tvg-id="france.o.fr" tvg-name="FRANCEO HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR272FRANCEOHD.png" group-title="France",FRANCEO HD
+http://a1.hdflix.live:8880/jh14m036/1648897/28037
+#EXTINF:-1 tvg-id="" tvg-name="via Occitanie TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR273viaOccitanieTV.png" group-title="France",via Occitanie TV
+http://a1.hdflix.live:8880/jh14m036/1648897/28036
+#EXTINF:-1 tvg-id="viavosges.fr" tvg-name="Via Vosges TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR274ViaVosgesTV.png" group-title="France",Via Vosges TV
+http://a1.hdflix.live:8880/jh14m036/1648897/28035
+#EXTINF:-1 tvg-id="gong.max.fr" tvg-name="GONG MAX HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR275GONGMAXHD.png" group-title="France",GONG MAX HD
+http://a1.hdflix.live:8880/jh14m036/1648897/28034
+#EXTINF:-1 tvg-id="gong.fr" tvg-name="Gong TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR276GongTV.png" group-title="France",Gong TV
+http://a1.hdflix.live:8880/jh14m036/1648897/28033
+#EXTINF:-1 tvg-id="rts.deux.fr" tvg-name="RTS Deux FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR277RTSDeuxFHD.png" group-title="France",RTS Deux FHD
+http://a1.hdflix.live:8880/jh14m036/1648897/28032
+#EXTINF:-1 tvg-id="j.one.fr" tvg-name="J ONE FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR279JONEFHD.png" group-title="France",J ONE FHD
+http://a1.hdflix.live:8880/jh14m036/1648897/28030
+#EXTINF:-1 tvg-id="rmc.sport.live.15.fr" tvg-name="RMC SPORT 15" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR280RMCSPORT15.png" group-title="France",RMC SPORT 15
+http://a1.hdflix.live:8880/jh14m036/1648897/28029
+#EXTINF:-1 tvg-id="kto.fr" tvg-name="KTO HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR281KTOHD.png" group-title="France",KTO HD
+http://a1.hdflix.live:8880/jh14m036/1648897/28028
+#EXTINF:-1 tvg-id="" tvg-name="LA CHAINE NORMANDIE HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR282LACHAINENORMANDIEHD.png" group-title="France",LA CHAINE NORMANDIE HD
+http://a1.hdflix.live:8880/jh14m036/1648897/28027
+#EXTINF:-1 tvg-id="viavosges.fr" tvg-name="viàVosges" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR284viàVosges.png" group-title="France",viàVosges
+http://a1.hdflix.live:8880/jh14m036/1648897/28025
+#EXTINF:-1 tvg-id="tvr.fr" tvg-name="TVR" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR285TVR.png" group-title="France",TVR
+http://a1.hdflix.live:8880/jh14m036/1648897/28024
+#EXTINF:-1 tvg-id="tvplaiz.fr" tvg-name="TVPI" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR286TVPI.png" group-title="France",TVPI
+http://a1.hdflix.live:8880/jh14m036/1648897/28023
+#EXTINF:-1 tvg-id="plug.rtl.fr" tvg-name="PLUG RTL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR288PLUGRTL.png" group-title="France",PLUG RTL
+http://a1.hdflix.live:8880/jh14m036/1648897/28021
+#EXTINF:-1 tvg-id="mcm.fr" tvg-name="MCM HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR289MCMHD.png" group-title="France",MCM HD
+http://a1.hdflix.live:8880/jh14m036/1648897/28020
+#EXTINF:-1 tvg-id="mcm.top.fr" tvg-name="MCM TOP" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR290MCMTOP.png" group-title="France",MCM TOP
+http://a1.hdflix.live:8880/jh14m036/1648897/28019
+#EXTINF:-1 tvg-id="mezzolive.fr" tvg-name="MEZZO LIVE HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR291MEZZOLIVEHD.png" group-title="France",MEZZO LIVE HD
+http://a1.hdflix.live:8880/jh14m036/1648897/28018
+#EXTINF:-1 tvg-id="trace.ayiti.fr" tvg-name="TRACE AYITI" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR292TRACEAYITI.png" group-title="France",TRACE AYITI
+http://a1.hdflix.live:8880/jh14m036/1648897/28017
+#EXTINF:-1 tvg-id="trace.africa.fr" tvg-name="TRACE AFRICA HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR293TRACEAFRICAHD.png" group-title="France",TRACE AFRICA HD
+http://a1.hdflix.live:8880/jh14m036/1648897/28016
+#EXTINF:-1 tvg-id="mtv.f.fr" tvg-name="MTV FRANCE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR294MTVFRANCE.png" group-title="France",MTV FRANCE
+http://a1.hdflix.live:8880/jh14m036/1648897/28015
+#EXTINF:-1 tvg-id="mtv.music.fr" tvg-name="MTV Music" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR295MTVMusic.png" group-title="France",MTV Music
+http://a1.hdflix.live:8880/jh14m036/1648897/28014
+#EXTINF:-1 tvg-id="rmc.sport.live.16.fr" tvg-name="RMC SPORT 16" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR296RMCSPORT16.png" group-title="France",RMC SPORT 16
+http://a1.hdflix.live:8880/jh14m036/1648897/28013
+#EXTINF:-1 tvg-id="my.cuisine.fr" tvg-name="MY CUISINE FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR297MYCUISINEFHD.png" group-title="France",MY CUISINE FHD
+http://a1.hdflix.live:8880/jh14m036/1648897/28012
+#EXTINF:-1 tvg-id="" tvg-name="La Chaine Normande" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR299LaChaineNormande.png" group-title="France",La Chaine Normande
+http://a1.hdflix.live:8880/jh14m036/1648897/28010
+#EXTINF:-1 tvg-id="ab.moteurs.fr" tvg-name="AB MOTEURS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR300ABMOTEURS.png" group-title="France",AB MOTEURS
+http://a1.hdflix.live:8880/jh14m036/1648897/28009
+#EXTINF:-1 tvg-id="cgtn.fr" tvg-name="CGTN" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR303CGTN.png" group-title="France",CGTN
+http://a1.hdflix.live:8880/jh14m036/1648897/28006
+#EXTINF:-1 tvg-id="rtl.fr" tvg-name="RTL FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR304RTLFHD.png" group-title="France",RTL FHD
+http://a1.hdflix.live:8880/jh14m036/1648897/28005
+#EXTINF:-1 tvg-id="oltv.fr" tvg-name="OLTV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR312OLTVHD.png" group-title="France",OLTV HD
+http://a1.hdflix.live:8880/jh14m036/1648897/27997
+#EXTINF:-1 tvg-id="trace.gospel.fr" tvg-name="TRACE GOSPEL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR313TRACEGOSPEL.png" group-title="France",TRACE GOSPEL
+http://a1.hdflix.live:8880/jh14m036/1648897/27996
+#EXTINF:-1 tvg-id="planete+.fr" tvg-name="Planete+ HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR320Planete+HD.png" group-title="France",Planete+ HD
+http://a1.hdflix.live:8880/jh14m036/1648897/27989
+#EXTINF:-1 tvg-id="syfy.fr" tvg-name="SyFy Universal" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR323SyFyUniversal.png" group-title="France",SyFy Universal
+http://a1.hdflix.live:8880/jh14m036/1648897/27986
+#EXTINF:-1 tvg-id="equidia.fr" tvg-name="Equida_FR" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR324Equida_FR.png" group-title="France",Equida_FR
+http://a1.hdflix.live:8880/jh14m036/1648897/27985
+#EXTINF:-1 tvg-id="alsace.20.fr" tvg-name="ALSACE 20" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR330ALSACE20.png" group-title="France",ALSACE 20
+http://a1.hdflix.live:8880/jh14m036/1648897/27979
+#EXTINF:-1 tvg-id="a+.fr" tvg-name="A+" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR331A+.png" group-title="France",A+
+http://a1.hdflix.live:8880/jh14m036/1648897/27978
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA ACTION 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR333CINEMAACTION2.png" group-title="France",CINEMA ACTION 2
+http://a1.hdflix.live:8880/jh14m036/1648897/27976
+#EXTINF:-1 tvg-id="nollywood.fr" tvg-name="NOLYWOOD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR334NOLYWOOD.png" group-title="France",NOLYWOOD
+http://a1.hdflix.live:8880/jh14m036/1648897/27975
+#EXTINF:-1 tvg-id="" tvg-name="PICKLE TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR335PICKLETV.png" group-title="France",PICKLE TV
+http://a1.hdflix.live:8880/jh14m036/1648897/27974
+#EXTINF:-1 tvg-id="paris.premiere.fr" tvg-name="PARIS PREMIERE FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR342PARISPREMIEREFHD.png" group-title="France",PARIS PREMIERE FHD
+http://a1.hdflix.live:8880/jh14m036/1648897/27967
+#EXTINF:-1 tvg-id="" tvg-name="RT France" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR344RTFrance.png" group-title="France",RT France
+http://a1.hdflix.live:8880/jh14m036/1648897/27965
+#EXTINF:-1 tvg-id="multisports.foot+.24.24.fr" tvg-name="TELEFOOT" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR346Telefoot.png" group-title="France",TELEFOOT
+http://a1.hdflix.live:8880/jh14m036/1648897/27963
+#EXTINF:-1 tvg-id="" tvg-name="Fashion L'Original" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR347FashionL'Original.png" group-title="France",Fashion L'Original
+http://a1.hdflix.live:8880/jh14m036/1648897/27962
+#EXTINF:-1 tvg-id="rmc.decouverte.fr" tvg-name="RMC Sport 6" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR348RMCSport6.png" group-title="France",RMC Sport 6
+http://a1.hdflix.live:8880/jh14m036/1648897/27961
+#EXTINF:-1 tvg-id="bip.fr" tvg-name="BipTV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR353BipTV.png" group-title="France",BipTV
+http://a1.hdflix.live:8880/jh14m036/1648897/27956
+#EXTINF:-1 tvg-id="" tvg-name="Bblack Classik" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR356BblackClassik.png" group-title="France",Bblack Classik
+http://a1.hdflix.live:8880/jh14m036/1648897/27953
+#EXTINF:-1 tvg-id="boing.fr" tvg-name="Boing" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR020Boing.png" group-title="France",Boing
+http://a1.hdflix.live:8880/jh14m036/1648897/2846
+#EXTINF:-1 tvg-id="boomerang.fr" tvg-name="Boomerang" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR021Boomerang.png" group-title="France",Boomerang
+http://a1.hdflix.live:8880/jh14m036/1648897/2845
+#EXTINF:-1 tvg-id="canal.j.fr" tvg-name="Canal J" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR029CanalJ.png" group-title="France",Canal J
+http://a1.hdflix.live:8880/jh14m036/1648897/2837
+#EXTINF:-1 tvg-id="cartoon.network.fr" tvg-name="Cartoon Network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR030CartoonNetwork.png" group-title="France",Cartoon Network
+http://a1.hdflix.live:8880/jh14m036/1648897/2836
+#EXTINF:-1 tvg-id="gulli.fr" tvg-name="GULLI" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR059GULLI.png" group-title="France",GULLI
+http://a1.hdflix.live:8880/jh14m036/1648897/2807
+#EXTINF:-1 tvg-id="mangas.fr" tvg-name="Mangas" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR066Mangas.png" group-title="France",Mangas
+http://a1.hdflix.live:8880/jh14m036/1648897/2800
+#EXTINF:-1 tvg-id="nickelodeon.fr" tvg-name="NICKELODEON" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR069NICKELODEON.png" group-title="France",NICKELODEON
+http://a1.hdflix.live:8880/jh14m036/1648897/2797
+#EXTINF:-1 tvg-id="piwi+.fr" tvg-name="PIWI" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR074PIWI.png" group-title="France",PIWI
+http://a1.hdflix.live:8880/jh14m036/1648897/2792
+#EXTINF:-1 tvg-id="teletoon.fr" tvg-name="TELETOON" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR095TELETOON.png" group-title="France",TELETOON
+http://a1.hdflix.live:8880/jh14m036/1648897/28214
+#EXTINF:-1 tvg-id="tf1.fr" tvg-name="TF1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR180TF1HD.png" group-title="France",TF1 HD
+http://a1.hdflix.live:8880/jh14m036/1648897/28129
+#EXTINF:-1 tvg-id="tiji.fr" tvg-name="Tiji" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR128Tiji.png" group-title="France",Tiji
+http://a1.hdflix.live:8880/jh14m036/1648897/28181
+#EXTINF:-1 tvg-id="canal.j.fr" tvg-name="CANAL  J HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR246CANALJHD.png" group-title="France",CANAL  J HD
+http://a1.hdflix.live:8880/jh14m036/1648897/28063
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON 4TEEN" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR261NICKELODEON4TEEN.png" group-title="France",NICKELODEON 4TEEN
+http://a1.hdflix.live:8880/jh14m036/1648897/28048
+#EXTINF:-1 tvg-id="nickelodeon.junior.fr" tvg-name="NICKELODEON JUNIOR" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR301NICKELODEONJUNIOR.png" group-title="France",NICKELODEON JUNIOR
+http://a1.hdflix.live:8880/jh14m036/1648897/28008
+#EXTINF:-1 tvg-id="toonami.fr" tvg-name="TOONAMI FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR302TOONAMIFHD.png" group-title="France",TOONAMI FHD
+http://a1.hdflix.live:8880/jh14m036/1648897/28007
+#EXTINF:-1 tvg-id="teletoon.fr" tvg-name="TELETOON  HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR315TELETOONHD.png" group-title="France",TELETOON  HD
+http://a1.hdflix.live:8880/jh14m036/1648897/27994
+#EXTINF:-1 tvg-id="teletoon+.fr" tvg-name="TELETOON PLUS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR319TELETOONPLUS.png" group-title="France",TELETOON PLUS
+http://a1.hdflix.live:8880/jh14m036/1648897/27990
+#EXTINF:-1 tvg-id="tiji.fr" tvg-name="TIJI HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR343TIJIHD.png" group-title="France",TIJI HD
+http://a1.hdflix.live:8880/jh14m036/1648897/27966
+#EXTINF:-1 tvg-id="teletoon.fr" tvg-name="TELETOON HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR354TELETOONHD.png" group-title="France",TELETOON HD
+http://a1.hdflix.live:8880/jh14m036/1648897/27955
+#EXTINF:-1 tvg-id="bfm.fr" tvg-name="BFM TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR019BFMTV.png" group-title="France",BFM TV
+http://a1.hdflix.live:8880/jh14m036/1648897/2847
+#EXTINF:-1 tvg-id="euronews.fr" tvg-name="Euro News" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR049EuroNews.png" group-title="France",Euro News
+http://a1.hdflix.live:8880/jh14m036/1648897/2817
+#EXTINF:-1 tvg-id="france.24.fr" tvg-name="France 24" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR053France24.png" group-title="France",France 24
+http://a1.hdflix.live:8880/jh14m036/1648897/2813
+#EXTINF:-1 tvg-id="lci.fr" tvg-name="LCI" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR064LCI.png" group-title="France",LCI
+http://a1.hdflix.live:8880/jh14m036/1648897/2802
+#EXTINF:-1 tvg-id="euronews.fr" tvg-name="EURONEWS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR094EURONEWS.png" group-title="France",EURONEWS
+http://a1.hdflix.live:8880/jh14m036/1648897/28215
+#EXTINF:-1 tvg-id="cnews.fr" tvg-name="CNews HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR163CNewsHD.png" group-title="France",CNews HD
+http://a1.hdflix.live:8880/jh14m036/1648897/28146
+#EXTINF:-1 tvg-id="france.24.fr" tvg-name="FRANCE 24" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR181FRANCE24.png" group-title="France",FRANCE 24
+http://a1.hdflix.live:8880/jh14m036/1648897/28128
+#EXTINF:-1 tvg-id="lcp.fr" tvg-name="LCP" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR206LCP.png" group-title="France",LCP
+http://a1.hdflix.live:8880/jh14m036/1648897/28103
+#EXTINF:-1 tvg-id="rmc.sport.news.fr" tvg-name="RMC SPORT NEWS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR205RMCSPORTNEWS.png" group-title="France",RMC SPORT NEWS
+http://a1.hdflix.live:8880/jh14m036/1648897/28104
+#EXTINF:-1 tvg-id="franceinfo.fr" tvg-name="FRANCE INFO" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR215FRANCEINFO.png" group-title="France",FRANCE INFO
+http://a1.hdflix.live:8880/jh14m036/1648897/28094
+#EXTINF:-1 tvg-id="cnews.fr" tvg-name="C-NEWS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR224C-NEWS.png" group-title="France",C-NEWS
+http://a1.hdflix.live:8880/jh14m036/1648897/28085
+#EXTINF:-1 tvg-id="rmc.sport.news.fr" tvg-name="RMC NEWS SPORT" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR262RMCNEWSSPORT.png" group-title="France",RMC NEWS SPORT
+http://a1.hdflix.live:8880/jh14m036/1648897/28047
+#EXTINF:-1 tvg-id="euronews.fr" tvg-name="EURONEWS HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR265EURONEWSHD.png" group-title="France",EURONEWS HD
+http://a1.hdflix.live:8880/jh14m036/1648897/28044
+#EXTINF:-1 tvg-id="i24.news.fr" tvg-name="I-24 NEWS HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR278I-24NEWSHD.png" group-title="France",I-24 NEWS HD
+http://a1.hdflix.live:8880/jh14m036/1648897/28031
+#EXTINF:-1 tvg-id="i24.news.fr" tvg-name="I24 NEWS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR336I24NEWS.png" group-title="France",I24 NEWS
+http://a1.hdflix.live:8880/jh14m036/1648897/27973
+#EXTINF:-1 tvg-id="13e.rue.fr" tvg-name="13 Eme Rue" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR00113EmeRue.png" group-title="France",13 Eme Rue
+http://a1.hdflix.live:8880/jh14m036/1648897/2865
+#EXTINF:-1 tvg-id="action.fr" tvg-name="Action" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR006Action.png" group-title="France",Action
+http://a1.hdflix.live:8880/jh14m036/1648897/2860
+#EXTINF:-1 tvg-id="canal.c.fr" tvg-name="Canal  Cinema" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR023CanalCinema.png" group-title="France",Canal  Cinema
+http://a1.hdflix.live:8880/jh14m036/1648897/2843
+#EXTINF:-1 tvg-id="canal+.decale.fr" tvg-name="Canal  Decale" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR024CanalDecale.png" group-title="France",Canal  Decale
+http://a1.hdflix.live:8880/jh14m036/1648897/2842
+#EXTINF:-1 tvg-id="canal+.family.fr" tvg-name="Canal  Family" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR025CanalFamily.png" group-title="France",Canal  Family
+http://a1.hdflix.live:8880/jh14m036/1648897/2841
+#EXTINF:-1 tvg-id="canal+.series.fr" tvg-name="Canal  Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR026CanalSeries.png" group-title="France",Canal  Series
+http://a1.hdflix.live:8880/jh14m036/1648897/2840
+#EXTINF:-1 tvg-id="cine+.classic.fr" tvg-name="Cine Class" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR033CineClass.png" group-title="France",Cine Class
+http://a1.hdflix.live:8880/jh14m036/1648897/2833
+#EXTINF:-1 tvg-id="cine+.emotion.fr" tvg-name="Cine Emotion" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR034CineEmotion.png" group-title="France",Cine Emotion
+http://a1.hdflix.live:8880/jh14m036/1648897/2832
+#EXTINF:-1 tvg-id="cine+.famiz.fr" tvg-name="Cine Famiz" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR035CineFamiz.png" group-title="France",Cine Famiz
+http://a1.hdflix.live:8880/jh14m036/1648897/2831
+#EXTINF:-1 tvg-id="cine+.frisson.fr" tvg-name="Cine Frisson" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR036CineFrisson.png" group-title="France",Cine Frisson
+http://a1.hdflix.live:8880/jh14m036/1648897/2830
+#EXTINF:-1 tvg-id="cine.fx.fr" tvg-name="Cine FX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR037CineFX.png" group-title="France",Cine FX
+http://a1.hdflix.live:8880/jh14m036/1648897/2829
+#EXTINF:-1 tvg-id="cine.polar.fr" tvg-name="Cine Polar" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR038CinePolar.png" group-title="France",Cine Polar
+http://a1.hdflix.live:8880/jh14m036/1648897/2828
+#EXTINF:-1 tvg-id="cine+premier.fr" tvg-name="Cine Permier" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR039CinePermier.png" group-title="France",Cine Permier
+http://a1.hdflix.live:8880/jh14m036/1648897/2827
+#EXTINF:-1 tvg-id="paramount.fr" tvg-name="Paramount" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR072Paramount.png" group-title="France",Paramount
+http://a1.hdflix.live:8880/jh14m036/1648897/2794
+#EXTINF:-1 tvg-id="serieclub.fr" tvg-name="Series Club" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR086SeriesClub.png" group-title="France",Series Club
+http://a1.hdflix.live:8880/jh14m036/1648897/2780
+#EXTINF:-1 tvg-id="" tvg-name="CANAL PLAY 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR102CANALPLAY1.png" group-title="France",CANAL PLAY 1
+http://a1.hdflix.live:8880/jh14m036/1648897/28207
+#EXTINF:-1 tvg-id="" tvg-name="CANAL PLAY 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR103CANALPLAY2.png" group-title="France",CANAL PLAY 2
+http://a1.hdflix.live:8880/jh14m036/1648897/28206
+#EXTINF:-1 tvg-id="" tvg-name="CANAL PLAY 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR104CANALPLAY3.png" group-title="France",CANAL PLAY 3
+http://a1.hdflix.live:8880/jh14m036/1648897/28205
+#EXTINF:-1 tvg-id="" tvg-name="CANAL PLAY 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR105CANALPLAY4.png" group-title="France",CANAL PLAY 4
+http://a1.hdflix.live:8880/jh14m036/1648897/28204
+#EXTINF:-1 tvg-id="" tvg-name="CANAL PLAY 5" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR106CANALPLAY5.png" group-title="France",CANAL PLAY 5
+http://a1.hdflix.live:8880/jh14m036/1648897/28203
+#EXTINF:-1 tvg-id="" tvg-name="CANAL PLAY 6" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR107CANALPLAY6.png" group-title="France",CANAL PLAY 6
+http://a1.hdflix.live:8880/jh14m036/1648897/28202
+#EXTINF:-1 tvg-id="" tvg-name="CANAL PLAY 7" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR108CANALPLAY7.png" group-title="France",CANAL PLAY 7
+http://a1.hdflix.live:8880/jh14m036/1648897/28201
+#EXTINF:-1 tvg-id="" tvg-name="A.LA.CARTE.1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR133A.LA.CARTE.1.png" group-title="France",A.LA.CARTE.1
+http://a1.hdflix.live:8880/jh14m036/1648897/28176
+#EXTINF:-1 tvg-id="" tvg-name="A.LA.CARTE.3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR134A.LA.CARTE.3.png" group-title="France",A.LA.CARTE.3
+http://a1.hdflix.live:8880/jh14m036/1648897/28175
+#EXTINF:-1 tvg-id="" tvg-name="A.LA.CARTE.4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR135A.LA.CARTE.4.png" group-title="France",A.LA.CARTE.4
+http://a1.hdflix.live:8880/jh14m036/1648897/28174
+#EXTINF:-1 tvg-id="" tvg-name="A LA CARTE 5" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR131ALACARTE5.png" group-title="France",A LA CARTE 5
+http://a1.hdflix.live:8880/jh14m036/1648897/28178
+#EXTINF:-1 tvg-id="" tvg-name="A la Carte 6" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR132AlaCarte6.png" group-title="France",A la Carte 6
+http://a1.hdflix.live:8880/jh14m036/1648897/28177
+#EXTINF:-1 tvg-id="" tvg-name="A LA CARTE 7" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR098ALACARTE7.png" group-title="France",A LA CARTE 7
+http://a1.hdflix.live:8880/jh14m036/1648897/28211
+#EXTINF:-1 tvg-id="" tvg-name="A LA CARTE 8" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR099ALACARTE8.png" group-title="France",A LA CARTE 8
+http://a1.hdflix.live:8880/jh14m036/1648897/28210
+#EXTINF:-1 tvg-id="" tvg-name="A LA CARTE 9" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR100ALACARTE9.png" group-title="France",A LA CARTE 9
+http://a1.hdflix.live:8880/jh14m036/1648897/28209
+#EXTINF:-1 tvg-id="cine+.a.la.carte.fr" tvg-name="A LA CARTE 10" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR097ALACARTE10.png" group-title="France",A LA CARTE 10
+http://a1.hdflix.live:8880/jh14m036/1648897/28212
+#EXTINF:-1 tvg-id="ocs.choc.fr" tvg-name="OCS CHOC HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR117OCSCHOCHD.png" group-title="France",OCS CHOC HD
+http://a1.hdflix.live:8880/jh14m036/1648897/28192
+#EXTINF:-1 tvg-id="ocs.city.fr" tvg-name="OCS CITY" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR118OCSCITY.png" group-title="France",OCS CITY
+http://a1.hdflix.live:8880/jh14m036/1648897/28191
+#EXTINF:-1 tvg-id="ocs.geants.fr" tvg-name="OCS GEANT" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR119OCSGEANT.png" group-title="France",OCS GEANT
+http://a1.hdflix.live:8880/jh14m036/1648897/28190
+#EXTINF:-1 tvg-id="ocs.max.fr" tvg-name="OCS MAX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR120OCSMAX.png" group-title="France",OCS MAX
+http://a1.hdflix.live:8880/jh14m036/1648897/28189
+#EXTINF:-1 tvg-id="tmc.fr" tvg-name="TMC HD ( 1080P )" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR138TMCHD(1080P).png" group-title="France",TMC HD ( 1080P )
+http://a1.hdflix.live:8880/jh14m036/1648897/28171
+#EXTINF:-1 tvg-id="tcm.cinema.fr" tvg-name="TCM CINEMA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR140TCMCINEMA.png" group-title="France",TCM CINEMA
+http://a1.hdflix.live:8880/jh14m036/1648897/28169
+#EXTINF:-1 tvg-id="altice.studio.fr" tvg-name="ALTICE STUDIO HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR160ALTICESTUDIOHD.png" group-title="France",ALTICE STUDIO HD
+http://a1.hdflix.live:8880/jh14m036/1648897/28149
+#EXTINF:-1 tvg-id="" tvg-name="OCS Go Cinema 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR143OCSGoCinema1HD.png" group-title="France",OCS Go Cinema 1 HD
+http://a1.hdflix.live:8880/jh14m036/1648897/28166
+#EXTINF:-1 tvg-id="" tvg-name="Orange Cinema 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR148OrangeCinema1HD.png" group-title="France",Orange Cinema 1 HD
+http://a1.hdflix.live:8880/jh14m036/1648897/28161
+#EXTINF:-1 tvg-id="" tvg-name="Orange Cinema 3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR150OrangeCinema3HD.png" group-title="France",Orange Cinema 3 HD
+http://a1.hdflix.live:8880/jh14m036/1648897/28159
+#EXTINF:-1 tvg-id="" tvg-name="Orange Cinema 4 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR151OrangeCinema4HD.png" group-title="France",Orange Cinema 4 HD
+http://a1.hdflix.live:8880/jh14m036/1648897/28158
+#EXTINF:-1 tvg-id="" tvg-name="Orange Cinema 5 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR152OrangeCinema5HD.png" group-title="France",Orange Cinema 5 HD
+http://a1.hdflix.live:8880/jh14m036/1648897/28157
+#EXTINF:-1 tvg-id="" tvg-name="Orange Cinema Action HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR153OrangeCinemaActionHD.png" group-title="France",Orange Cinema Action HD
+http://a1.hdflix.live:8880/jh14m036/1648897/28156
+#EXTINF:-1 tvg-id="" tvg-name="Orange Cinema Aventure HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR154OrangeCinemaAventureHD.png" group-title="France",Orange Cinema Aventure HD
+http://a1.hdflix.live:8880/jh14m036/1648897/28155
+#EXTINF:-1 tvg-id="" tvg-name="Orange Cinema HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR155OrangeCinemaHD.png" group-title="France",Orange Cinema HD
+http://a1.hdflix.live:8880/jh14m036/1648897/28154
+#EXTINF:-1 tvg-id="" tvg-name="Orange Documentaire HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR158OrangeDocumentaireHD.png" group-title="France",Orange Documentaire HD
+http://a1.hdflix.live:8880/jh14m036/1648897/28151
+#EXTINF:-1 tvg-id="" tvg-name="OCS Go Cinema 5 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR147OCSGoCinema5HD.png" group-title="France",OCS Go Cinema 5 HD
+http://a1.hdflix.live:8880/jh14m036/1648897/28162
+#EXTINF:-1 tvg-id="" tvg-name="OCS Go Cine 3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR308OCSGoCine3HD.png" group-title="France",OCS Go Cine 3 HD
+http://a1.hdflix.live:8880/jh14m036/1648897/28001
+#EXTINF:-1 tvg-id="" tvg-name="OCS GO CINE 4 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR309OCSGOCINE4HD.png" group-title="France",OCS GO CINE 4 HD
+http://a1.hdflix.live:8880/jh14m036/1648897/28000
+#EXTINF:-1 tvg-id="" tvg-name="OCS Go Cine 5 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR310OCSGoCine5HD.png" group-title="France",OCS Go Cine 5 HD
+http://a1.hdflix.live:8880/jh14m036/1648897/27999
+#EXTINF:-1 tvg-id="ocs.geants.fr" tvg-name="OCS GEANTS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR193OCSGEANTS.png" group-title="France",OCS GEANTS
+http://a1.hdflix.live:8880/jh14m036/1648897/28116
+#EXTINF:-1 tvg-id="cine+.classic.fr" tvg-name="Cine+ Classic" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR234Cine+Classic.png" group-title="France",Cine+ Classic
+http://a1.hdflix.live:8880/jh14m036/1648897/28075
+#EXTINF:-1 tvg-id="" tvg-name="A LA CARTE 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR182ALACARTE1.png" group-title="France",A LA CARTE 1
+http://a1.hdflix.live:8880/jh14m036/1648897/28127
+#EXTINF:-1 tvg-id="" tvg-name="A LA CARTE 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR183ALACARTE2.png" group-title="France",A LA CARTE 2
+http://a1.hdflix.live:8880/jh14m036/1648897/28126
+#EXTINF:-1 tvg-id="" tvg-name="A LA CARTE 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR184ALACARTE3.png" group-title="France",A LA CARTE 3
+http://a1.hdflix.live:8880/jh14m036/1648897/28125
+#EXTINF:-1 tvg-id="" tvg-name="A LA CARTE 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR185ALACARTE4.png" group-title="France",A LA CARTE 4
+http://a1.hdflix.live:8880/jh14m036/1648897/28124
+#EXTINF:-1 tvg-id="" tvg-name="A LA CARTE 5" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR186ALACARTE5.png" group-title="France",A LA CARTE 5
+http://a1.hdflix.live:8880/jh14m036/1648897/28123
+#EXTINF:-1 tvg-id="" tvg-name="A LA CARTE 7" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR188ALACARTE7.png" group-title="France",A LA CARTE 7
+http://a1.hdflix.live:8880/jh14m036/1648897/28121
+#EXTINF:-1 tvg-id="" tvg-name="A LA CARTE 8" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR189ALACARTE8.png" group-title="France",A LA CARTE 8
+http://a1.hdflix.live:8880/jh14m036/1648897/28120
+#EXTINF:-1 tvg-id="" tvg-name="A LA CARTE 9" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR190ALACARTE9.png" group-title="France",A LA CARTE 9
+http://a1.hdflix.live:8880/jh14m036/1648897/28119
+#EXTINF:-1 tvg-id="" tvg-name="A LA CARTE 10" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR191ALACARTE10.png" group-title="France",A LA CARTE 10
+http://a1.hdflix.live:8880/jh14m036/1648897/28118
+#EXTINF:-1 tvg-id="comedy.central.fr" tvg-name="COMEDY CENTRAL  HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR208COMEDYCENTRALHD.png" group-title="France",COMEDY CENTRAL  HD
+http://a1.hdflix.live:8880/jh14m036/1648897/28101
+#EXTINF:-1 tvg-id="" tvg-name="Cine Action" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR233CineAction.png" group-title="France",Cine Action
+http://a1.hdflix.live:8880/jh14m036/1648897/28076
+#EXTINF:-1 tvg-id="" tvg-name="Canal Play 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR225CanalPlay1.png" group-title="France",Canal Play 1
+http://a1.hdflix.live:8880/jh14m036/1648897/28084
+#EXTINF:-1 tvg-id="" tvg-name="Canal Play 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR226CanalPlay2.png" group-title="France",Canal Play 2
+http://a1.hdflix.live:8880/jh14m036/1648897/28083
+#EXTINF:-1 tvg-id="" tvg-name="Canal Play 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR227CanalPlay3.png" group-title="France",Canal Play 3
+http://a1.hdflix.live:8880/jh14m036/1648897/28082
+#EXTINF:-1 tvg-id="" tvg-name="Canal Play 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR228CanalPlay4.png" group-title="France",Canal Play 4
+http://a1.hdflix.live:8880/jh14m036/1648897/28081
+#EXTINF:-1 tvg-id="" tvg-name="Canal Play 7" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR231CanalPlay7.png" group-title="France",Canal Play 7
+http://a1.hdflix.live:8880/jh14m036/1648897/28078
+#EXTINF:-1 tvg-id="" tvg-name="Canal Play 5" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR229CanalPlay5.png" group-title="France",Canal Play 5
+http://a1.hdflix.live:8880/jh14m036/1648897/28080
+#EXTINF:-1 tvg-id="" tvg-name="Canal Play 6" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR230CanalPlay6.png" group-title="France",Canal Play 6
+http://a1.hdflix.live:8880/jh14m036/1648897/28079
+#EXTINF:-1 tvg-id="" tvg-name="Canal Play 8" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR232CanalPlay8.png" group-title="France",Canal Play 8
+http://a1.hdflix.live:8880/jh14m036/1648897/28077
+#EXTINF:-1 tvg-id="" tvg-name="Orange Comment C'Est Fait" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR298OrangeCommentC'EstFait.png" group-title="France",Orange Comment C'Est Fait
+http://a1.hdflix.live:8880/jh14m036/1648897/28011
+#EXTINF:-1 tvg-id="ocs.choc.fr" tvg-name="OCS CHOC FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR305OCSCHOCFHD.png" group-title="France",OCS CHOC FHD
+http://a1.hdflix.live:8880/jh14m036/1648897/28004
+#EXTINF:-1 tvg-id="ocs.city.fr" tvg-name="OCS City HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR306OCSCityHD.png" group-title="France",OCS City HD
+http://a1.hdflix.live:8880/jh14m036/1648897/28003
+#EXTINF:-1 tvg-id="ocs.geants.fr" tvg-name="OCS GEANT FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR307OCSGEANTFHD.png" group-title="France",OCS GEANT FHD
+http://a1.hdflix.live:8880/jh14m036/1648897/28002
+#EXTINF:-1 tvg-id="ocs.max.fr" tvg-name="OCS MAX FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR311OCSMAXFHD.png" group-title="France",OCS MAX FHD
+http://a1.hdflix.live:8880/jh14m036/1648897/27998
+#EXTINF:-1 tvg-id="" tvg-name="Orange Cinema 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR314OrangeCinema1HD.png" group-title="France",Orange Cinema 1 HD
+http://a1.hdflix.live:8880/jh14m036/1648897/27995
+#EXTINF:-1 tvg-id="" tvg-name="Orange Cinema 3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR316OrangeCinema3HD.png" group-title="France",Orange Cinema 3 HD
+http://a1.hdflix.live:8880/jh14m036/1648897/27993
+#EXTINF:-1 tvg-id="" tvg-name="Orange Cinema 4 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR317OrangeCinema4HD.png" group-title="France",Orange Cinema 4 HD
+http://a1.hdflix.live:8880/jh14m036/1648897/27992
+#EXTINF:-1 tvg-id="" tvg-name="Orange Cinema 5 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR318OrangeCinema5HD.png" group-title="France",Orange Cinema 5 HD
+http://a1.hdflix.live:8880/jh14m036/1648897/27991
+#EXTINF:-1 tvg-id="" tvg-name="ORANGE Cinema ACTION HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR321ORANGECinemaACTIONHD.png" group-title="France",ORANGE Cinema ACTION HD
+http://a1.hdflix.live:8880/jh14m036/1648897/27988
+#EXTINF:-1 tvg-id="" tvg-name="Orange Cinema Aventure HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR322OrangeCinemaAventureHD.png" group-title="France",Orange Cinema Aventure HD
+http://a1.hdflix.live:8880/jh14m036/1648897/27987
+#EXTINF:-1 tvg-id="" tvg-name="Orange Cinema DOCUMENTAIRE HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR325OrangeCinemaDOCUMENTAIREHD.png" group-title="France",Orange Cinema DOCUMENTAIRE HD
+http://a1.hdflix.live:8880/jh14m036/1648897/27984
+#EXTINF:-1 tvg-id="" tvg-name="Orange Cinema ENQUETE EXCLUSIVE HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR326OrangeCinemaENQUETEEXCLUSIVEHD.png" group-title="France",Orange Cinema ENQUETE EXCLUSIVE HD
+http://a1.hdflix.live:8880/jh14m036/1648897/27983
+#EXTINF:-1 tvg-id="" tvg-name="Orange Cinema Horreur HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR327OrangeCinemaHorreurHD.png" group-title="France",Orange Cinema Horreur HD
+http://a1.hdflix.live:8880/jh14m036/1648897/27982
+#EXTINF:-1 tvg-id="" tvg-name="Orange Premium 6" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR339OrangePremium6.png" group-title="France",Orange Premium 6
+http://a1.hdflix.live:8880/jh14m036/1648897/27970
+#EXTINF:-1 tvg-id="" tvg-name="Orange Premium 7" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR340OrangePremium7.png" group-title="France",Orange Premium 7
+http://a1.hdflix.live:8880/jh14m036/1648897/27969
+#EXTINF:-1 tvg-id="" tvg-name="Orange Premium 8" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR341OrangePremium8.png" group-title="France",Orange Premium 8
+http://a1.hdflix.live:8880/jh14m036/1648897/27968
+#EXTINF:-1 tvg-id="warner.fr" tvg-name="Warner tv" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR332Warnertv.png" group-title="France",Warner tv
+http://a1.hdflix.live:8880/jh14m036/1648897/27977
+#EXTINF:-1 tvg-id="tcm.cinema.fr" tvg-name="TCM CINEMA FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR187TCMCINEMAFHD.png" group-title="France",TCM CINEMA FHD
+http://a1.hdflix.live:8880/jh14m036/1648897/28122
+#EXTINF:-1 tvg-id="tf1.series.films.fr" tvg-name="TF1 SERIES FILMS HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR345TF1SERIESFILMSHD.png" group-title="France",TF1 SERIES FILMS HD
+http://a1.hdflix.live:8880/jh14m036/1648897/27964
+#EXTINF:-1 tvg-id="cine+premier.fr" tvg-name="Cine Premier HD (1080P)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR174CinePremierHD(1080P).png" group-title="France",Cine Premier HD (1080P)
+http://a1.hdflix.live:8880/jh14m036/1648897/28135
+
+
+
