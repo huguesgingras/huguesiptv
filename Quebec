@@ -1,4 +1,5 @@
 #EXTM3U
+
 #EXTINF:-1 tvg-id="addik.ca" tvg-name="Addik TV" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/06/addik-tv.png" group-title="Quebec",Addik TV
 http://a1.hdflix.live:8880/jh14m036/1648897/30228
 
@@ -711,7 +712,98 @@ http://a1.hdflix.live:8880/jh14m036/1648897/29528
 http://a1.hdflix.live:8880/jh14m036/1648897/29527
 #EXTINF:-1 tvg-id="" tvg-name="PPV BOXING 5" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US664PPVBOXING5.png" group-title="Sports",PPV BOXING 5
 http://a1.hdflix.live:8880/jh14m036/1648897/29526
-
+#EXTINF:-1 tvg-id="bein.sports.us" tvg-name="Bein-Sports" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US009Bein-Sports.png" group-title="Sports",Bein-Sports
+http://a1.hdflix.live:8880/jh14m036/1648897/3159
+#EXTINF:-1 tvg-id="pac.12.washington.us" tvg-name="PAC-12 Washington" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US012PAC-12Washington.png" group-title="Sports",PAC-12 Washington
+http://a1.hdflix.live:8880/jh14m036/1648897/3156
+#EXTINF:-1 tvg-id="pac.12.la.us" tvg-name="PAC-12 Los Angeles" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US013PAC-12LosAngeles.png" group-title="Sports",PAC-12 Los Angeles
+http://a1.hdflix.live:8880/jh14m036/1648897/3155
+#EXTINF:-1 tvg-id="pac.12.oregon.us" tvg-name="PAC-12 Oregon" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US014PAC-12Oregon.png" group-title="Sports",PAC-12 Oregon
+http://a1.hdflix.live:8880/jh14m036/1648897/3154
+#EXTINF:-1 tvg-id="espn2.us" tvg-name="ESPN-2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US031ESPN-2.png" group-title="Sports",ESPN-2
+http://a1.hdflix.live:8880/jh14m036/1648897/3137
+#EXTINF:-1 tvg-id="espn.us" tvg-name="ESPN-HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US032ESPN-HD.png" group-title="Sports",ESPN-HD
+http://a1.hdflix.live:8880/jh14m036/1648897/3136
+#EXTINF:-1 tvg-id="espn.u.us" tvg-name="ESPN-U" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US034ESPN-U.png" group-title="Sports",ESPN-U
+http://a1.hdflix.live:8880/jh14m036/1648897/3134
+#EXTINF:-1 tvg-id="pac.12.bay.area.us" tvg-name="PAC-12 Bay Area" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US074PAC-12BayArea.png" group-title="Sports",PAC-12 Bay Area
+http://a1.hdflix.live:8880/jh14m036/1648897/3094
+#EXTINF:-1 tvg-id="" tvg-name="UFC Network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US084UFCNetwork.png" group-title="Sports",UFC Network
+http://a1.hdflix.live:8880/jh14m036/1648897/3084
+#EXTINF:-1 tvg-id="wwe.us" tvg-name="WWE-Network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US085WWE-Network.png" group-title="Sports",WWE-Network
+http://a1.hdflix.live:8880/jh14m036/1648897/3083
+#EXTINF:-1 tvg-id="the.tennis.us" tvg-name="Tennis" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US086Tennis.png" group-title="Sports",Tennis
+http://a1.hdflix.live:8880/jh14m036/1648897/3082
+#EXTINF:-1 tvg-id="" tvg-name="NESN" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US087NESN.png" group-title="Sports",NESN
+http://a1.hdflix.live:8880/jh14m036/1648897/3081
+#EXTINF:-1 tvg-id="sec.network.us" tvg-name="Sec Network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US091SecNetwork.png" group-title="Sports",Sec Network
+http://a1.hdflix.live:8880/jh14m036/1648897/3077
+#EXTINF:-1 tvg-id="big.ten.network.us" tvg-name="Big Ten Network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US092BigTenNetwork.png" group-title="Sports",Big Ten Network
+http://a1.hdflix.live:8880/jh14m036/1648897/3076
+#EXTINF:-1 tvg-id="" tvg-name="Box Nation" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US093BoxNation.png" group-title="Sports",Box Nation
+http://a1.hdflix.live:8880/jh14m036/1648897/3075
+#EXTINF:-1 tvg-id="olympic.us" tvg-name="Olympic_Channel" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US122OlympicChannel.png" group-title="Sports",Olympic_Channel
+http://a1.hdflix.live:8880/jh14m036/1648897/30068
+#EXTINF:-1 tvg-id="bein.sports.8.us" tvg-name="BeIN8 Sports" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US123BeIN8Sports.png" group-title="Sports",BeIN8 Sports
+http://a1.hdflix.live:8880/jh14m036/1648897/30067
+#EXTINF:-1 tvg-id="bein.sports.7.us" tvg-name="BeIN7 Sports" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US124BeIN7Sports.png" group-title="Sports",BeIN7 Sports
+http://a1.hdflix.live:8880/jh14m036/1648897/30066
+#EXTINF:-1 tvg-id="bein.sports.6.us" tvg-name="BeIN6 Sports" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US125BeIN6Sports.png" group-title="Sports",BeIN6 Sports
+http://a1.hdflix.live:8880/jh14m036/1648897/30065
+#EXTINF:-1 tvg-id="bein.sports.5.us" tvg-name="BeIN5 Sports" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US126BeIN5Sports.png" group-title="Sports",BeIN5 Sports
+http://a1.hdflix.live:8880/jh14m036/1648897/30064
+#EXTINF:-1 tvg-id="bein.sports.4.us" tvg-name="BeIN4 Sports" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US127BeIN4Sports.png" group-title="Sports",BeIN4 Sports
+http://a1.hdflix.live:8880/jh14m036/1648897/30063
+#EXTINF:-1 tvg-id="bein.sports.us" tvg-name="BeIN SPORTS EN ESPANOL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US128BeIN2Sports.png" group-title="Sports",BeIN SPORTS EN ESPANOL
+http://a1.hdflix.live:8880/jh14m036/1648897/30062
+#EXTINF:-1 tvg-id="bein.sports.us" tvg-name="BeIN_Sports" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US129BeIN_Sports.png" group-title="Sports",BeIN_Sports
+http://a1.hdflix.live:8880/jh14m036/1648897/30061
+#EXTINF:-1 tvg-id="game.show.network.east.us" tvg-name="Game_Show_Network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US131Game_Show_Network.png" group-title="Sports",Game_Show_Network
+http://a1.hdflix.live:8880/jh14m036/1648897/30059
+#EXTINF:-1 tvg-id="stadium.ktxd.greenville.tx.us" tvg-name="Stadium3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US132Stadium3.png" group-title="Sports",Stadium3
+http://a1.hdflix.live:8880/jh14m036/1648897/30058
+#EXTINF:-1 tvg-id="stadium.ktxd.greenville.tx.us" tvg-name="Stadium2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US133Stadium2.png" group-title="Sports",Stadium2
+http://a1.hdflix.live:8880/jh14m036/1648897/30057
+#EXTINF:-1 tvg-id="stadium.ktxd.greenville.tx.us" tvg-name="Stadium1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US134Stadium1.png" group-title="Sports",Stadium1
+http://a1.hdflix.live:8880/jh14m036/1648897/30056
+#EXTINF:-1 tvg-id="stadium.ktxd.greenville.tx.us" tvg-name="Stadium" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US135Stadium.png" group-title="Sports",Stadium
+http://a1.hdflix.live:8880/jh14m036/1648897/30055
+#EXTINF:-1 tvg-id="tyc.sports.us" tvg-name="TyC Sports" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US136TyCSports.png" group-title="Sports",TyC Sports
+http://a1.hdflix.live:8880/jh14m036/1648897/30054
+#EXTINF:-1 tvg-id="tcm.english.bein" tvg-name="TCM" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US137TCM.png" group-title="Sports",TCM
+http://a1.hdflix.live:8880/jh14m036/1648897/30053
+#EXTINF:-1 tvg-id="msg.2.us" tvg-name="MSG2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US138MSG2.png" group-title="Sports",MSG2
+http://a1.hdflix.live:8880/jh14m036/1648897/30052
+#EXTINF:-1 tvg-id="msg.plus.us" tvg-name="MSGPlus" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US139MSGPlus.png" group-title="Sports",MSGPlus
+http://a1.hdflix.live:8880/jh14m036/1648897/30051
+#EXTINF:-1 tvg-id="msg.madison.square.gardens.us" tvg-name="MSG" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US140MSG.png" group-title="Sports",MSG
+http://a1.hdflix.live:8880/jh14m036/1648897/30050
+#EXTINF:-1 tvg-id="big.ten.network.overflow.3.us" tvg-name="Marquee Sports Network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US142MarqueeSportsNetwork.png" group-title="Sports",Marquee Sports Network
+http://a1.hdflix.live:8880/jh14m036/1648897/30048
+#EXTINF:-1 tvg-id="big.ten.network.overflow.2.us" tvg-name="AXS TV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US143AXSTVHD.png" group-title="Sports",AXS TV HD
+http://a1.hdflix.live:8880/jh14m036/1648897/30047
+#EXTINF:-1 tvg-id="big.ten.network.us" tvg-name="Big_Ten_Network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US144Big_Ten_Network.png" group-title="Sports",Big_Ten_Network
+http://a1.hdflix.live:8880/jh14m036/1648897/30046
+#EXTINF:-1 tvg-id="" tvg-name="Fight_Network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US145Fight_Network.png" group-title="Sports",Fight_Network
+http://a1.hdflix.live:8880/jh14m036/1648897/30045
+#EXTINF:-1 tvg-id="" tvg-name="FNTSY_Sports_Network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US146FNTSY_Sports_Network.png" group-title="Sports",FNTSY_Sports_Network
+http://a1.hdflix.live:8880/jh14m036/1648897/30044
+#EXTINF:-1 tvg-id="" tvg-name="VSiN" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US147VSiN.png" group-title="Sports",VSiN
+http://a1.hdflix.live:8880/jh14m036/1648897/30043
+#EXTINF:-1 tvg-id="" tvg-name="Ginx_TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US148Ginx_TV.png" group-title="Sports",Ginx_TV
+http://a1.hdflix.live:8880/jh14m036/1648897/30042
+#EXTINF:-1 tvg-id="at.t.sportsnet.southwest.houston.us" tvg-name="ATT_SportsNet_SW_ALT" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US149ATT_SportsNet_SW_ALT.png" group-title="Sports",ATT_SportsNet_SW_ALT
+http://a1.hdflix.live:8880/jh14m036/1648897/30041
+#EXTINF:-1 tvg-id="wfn.world.fishing.network.us" tvg-name="World_Fishing_Network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US150World_Fishing_Network.png" group-title="Sports",World_Fishing_Network
+http://a1.hdflix.live:8880/jh14m036/1648897/30040
+#EXTINF:-1 tvg-id="new.england.sports.network.us" tvg-name="NESN_BOS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US151NESN_BOS.png" group-title="Sports",NESN_BOS
+http://a1.hdflix.live:8880/jh14m036/1648897/30039
+#EXTINF:-1 tvg-id="new.england.sports.network.plus.us" tvg-name="NESN_PLUS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US152NESN_PLUS.png" group-title="Sports",NESN_PLUS
+http://a1.hdflix.live:8880/jh14m036/1648897/30038
+#EXTINF:-1 tvg-id="sportsman.us" tvg-name="Sportsman_Channel" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US153Sportsman_Channel.png" group-title="Sports",Sportsman_Channel
+http://a1.hdflix.live:8880/jh14m036/1648897/30037
+#EXTINF:-1 tvg-id="eleven.sports.us" tvg-name="Eleven_Sports" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US155Eleven_Sports.png" group-title="Sports",Eleven_Sports
+http://a1.hdflix.live:8880/jh14m036/1648897/30035
 
 #EXTINF:-1 tvg-id="ab.moteurs.fr" tvg-name="AB Moteur" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR003ABMoteur.png" group-title="France",AB Moteur
 http://a1.hdflix.live:8880/jh14m036/1648897/2863
@@ -1408,5 +1500,528 @@ http://a1.hdflix.live:8880/jh14m036/1648897/27964
 #EXTINF:-1 tvg-id="cine+premier.fr" tvg-name="Cine Premier HD (1080P)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR174CinePremierHD(1080P).png" group-title="France",Cine Premier HD (1080P)
 http://a1.hdflix.live:8880/jh14m036/1648897/28135
 
+#EXTINF:-1 tvg-id="" tvg-name="2BE Belgique" tvg-logo="" group-title="Belgique",2BE Belgique
+http://a1.hdflix.live:8880/jh14m036/1648897/30700
+#EXTINF:-1 tvg-id="" tvg-name="Acht Belgique" tvg-logo="" group-title="Belgique",Acht Belgique
+http://a1.hdflix.live:8880/jh14m036/1648897/30699
+#EXTINF:-1 tvg-id="" tvg-name="NOTELE TOURNAI" tvg-logo="" group-title="Belgique",NOTELE TOURNAI
+http://a1.hdflix.live:8880/jh14m036/1648897/30698
+#EXTINF:-1 tvg-id="" tvg-name="Zes HD" tvg-logo="" group-title="Belgique",Zes HD
+http://a1.hdflix.live:8880/jh14m036/1648897/30697
+#EXTINF:-1 tvg-id="" tvg-name="Een Belgique" tvg-logo="" group-title="Belgique",Een Belgique
+http://a1.hdflix.live:8880/jh14m036/1648897/30696
+#EXTINF:-1 tvg-id="" tvg-name="La Deux Belgique" tvg-logo="" group-title="Belgique",La Deux Belgique
+http://a1.hdflix.live:8880/jh14m036/1648897/30695
+#EXTINF:-1 tvg-id="" tvg-name="Plug RTL Belgique" tvg-logo="" group-title="Belgique",Plug RTL Belgique
+http://a1.hdflix.live:8880/jh14m036/1648897/30694
+#EXTINF:-1 tvg-id="" tvg-name="RTL TVI Belgique" tvg-logo="" group-title="Belgique",RTL TVI Belgique
+http://a1.hdflix.live:8880/jh14m036/1648897/30693
+#EXTINF:-1 tvg-id="" tvg-name="La Une Belgique" tvg-logo="" group-title="Belgique",La Une Belgique
+http://a1.hdflix.live:8880/jh14m036/1648897/30692
+#EXTINF:-1 tvg-id="" tvg-name="VIJF Belgique" tvg-logo="" group-title="Belgique",VIJF Belgique
+http://a1.hdflix.live:8880/jh14m036/1648897/30691
+#EXTINF:-1 tvg-id="" tvg-name="La Trois Belgique" tvg-logo="" group-title="Belgique",La Trois Belgique
+http://a1.hdflix.live:8880/jh14m036/1648897/30690
+#EXTINF:-1 tvg-id="" tvg-name="Canvas Belgique" tvg-logo="" group-title="Belgique",Canvas Belgique
+http://a1.hdflix.live:8880/jh14m036/1648897/30689
+#EXTINF:-1 tvg-id="" tvg-name="Vitaya Belgique" tvg-logo="" group-title="Belgique",Vitaya Belgique
+http://a1.hdflix.live:8880/jh14m036/1648897/30688
+#EXTINF:-1 tvg-id="" tvg-name="Vier Belgique" tvg-logo="" group-title="Belgique",Vier Belgique
+http://a1.hdflix.live:8880/jh14m036/1648897/30687
+#EXTINF:-1 tvg-id="" tvg-name="VTM Belgique" tvg-logo="" group-title="Belgique",VTM Belgique
+http://a1.hdflix.live:8880/jh14m036/1648897/30686
+#EXTINF:-1 tvg-id="" tvg-name="Club RTL Belgique" tvg-logo="" group-title="Belgique",Club RTL Belgique
+http://a1.hdflix.live:8880/jh14m036/1648897/30685
+#EXTINF:-1 tvg-id="" tvg-name="Q2 FHD" tvg-logo="" group-title="Belgique",Q2 FHD
+http://a1.hdflix.live:8880/jh14m036/1648897/30684
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 1 HD" tvg-logo="" group-title="Belgique",ELEVEN SPORTS 1 HD
+http://a1.hdflix.live:8880/jh14m036/1648897/30683
+#EXTINF:-1 tvg-id="" tvg-name="AB1 HD" tvg-logo="" group-title="Belgique",AB1 HD
+http://a1.hdflix.live:8880/jh14m036/1648897/30682
+#EXTINF:-1 tvg-id="" tvg-name="AB3 HD" tvg-logo="" group-title="Belgique",AB3 HD
+http://a1.hdflix.live:8880/jh14m036/1648897/30681
+#EXTINF:-1 tvg-id="" tvg-name="TELEVESDRE VERVIERS" tvg-logo="" group-title="Belgique",TELEVESDRE VERVIERS
+http://a1.hdflix.live:8880/jh14m036/1648897/30680
+#EXTINF:-1 tvg-id="" tvg-name="BX1 HD" tvg-logo="" group-title="Belgique",BX1 HD
+http://a1.hdflix.live:8880/jh14m036/1648897/30679
+#EXTINF:-1 tvg-id="" tvg-name="KETNET" tvg-logo="" group-title="Belgique",KETNET
+http://a1.hdflix.live:8880/jh14m036/1648897/30678
+#EXTINF:-1 tvg-id="" tvg-name="CANVAS FHD" tvg-logo="" group-title="Belgique",CANVAS FHD
+http://a1.hdflix.live:8880/jh14m036/1648897/30677
+#EXTINF:-1 tvg-id="" tvg-name="VOO SPORT WORLD 1" tvg-logo="" group-title="Belgique",VOO SPORT WORLD 1
+http://a1.hdflix.live:8880/jh14m036/1648897/30676
+#EXTINF:-1 tvg-id="" tvg-name="VITAYA" tvg-logo="" group-title="Belgique",VITAYA
+http://a1.hdflix.live:8880/jh14m036/1648897/30675
+#EXTINF:-1 tvg-id="" tvg-name="VIJF" tvg-logo="" group-title="Belgique",VIJF
+http://a1.hdflix.live:8880/jh14m036/1648897/30674
+#EXTINF:-1 tvg-id="" tvg-name="VIER FHD" tvg-logo="" group-title="Belgique",VIER FHD
+http://a1.hdflix.live:8880/jh14m036/1648897/30673
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Kids" tvg-logo="" group-title="Belgique",Cinema Kids
+http://a1.hdflix.live:8880/jh14m036/1648897/30672
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Plus" tvg-logo="" group-title="Belgique",Cinema Plus
+http://a1.hdflix.live:8880/jh14m036/1648897/30671
+#EXTINF:-1 tvg-id="" tvg-name="CLUB RTL HD" tvg-logo="" group-title="Belgique",CLUB RTL HD
+http://a1.hdflix.live:8880/jh14m036/1648897/30670
+#EXTINF:-1 tvg-id="" tvg-name="CURIOUS HD" tvg-logo="" group-title="Belgique",CURIOUS HD
+http://a1.hdflix.live:8880/jh14m036/1648897/30669
+#EXTINF:-1 tvg-id="" tvg-name="EEN FHD" tvg-logo="" group-title="Belgique",EEN FHD
+http://a1.hdflix.live:8880/jh14m036/1648897/30668
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 2 HD" tvg-logo="" group-title="Belgique",ELEVEN SPORTS 2 HD
+http://a1.hdflix.live:8880/jh14m036/1648897/30667
+#EXTINF:-1 tvg-id="" tvg-name="HBO 1" tvg-logo="" group-title="Belgique",HBO 1
+http://a1.hdflix.live:8880/jh14m036/1648897/30666
+#EXTINF:-1 tvg-id="" tvg-name="NOVA TV" tvg-logo="" group-title="Belgique",NOVA TV
+http://a1.hdflix.live:8880/jh14m036/1648897/30665
+#EXTINF:-1 tvg-id="" tvg-name="F Plus" tvg-logo="" group-title="Belgique",F Plus
+http://a1.hdflix.live:8880/jh14m036/1648897/30664
+#EXTINF:-1 tvg-id="" tvg-name="DIEMA SPORT 1 HD" tvg-logo="" group-title="Belgique",DIEMA SPORT 1 HD
+http://a1.hdflix.live:8880/jh14m036/1648897/30663
+#EXTINF:-1 tvg-id="" tvg-name="Play Sports 2" tvg-logo="" group-title="Belgique",Play Sports 2
+http://a1.hdflix.live:8880/jh14m036/1648897/30662
+#EXTINF:-1 tvg-id="" tvg-name="KETNET HD" tvg-logo="" group-title="Belgique",KETNET HD
+http://a1.hdflix.live:8880/jh14m036/1648897/30661
+#EXTINF:-1 tvg-id="" tvg-name="LA DEUX FHD" tvg-logo="" group-title="Belgique",LA DEUX FHD
+http://a1.hdflix.live:8880/jh14m036/1648897/30660
+#EXTINF:-1 tvg-id="" tvg-name="LA TROIS" tvg-logo="" group-title="Belgique",LA TROIS
+http://a1.hdflix.live:8880/jh14m036/1648897/30659
+#EXTINF:-1 tvg-id="" tvg-name="LA UNE HD" tvg-logo="" group-title="Belgique",LA UNE HD
+http://a1.hdflix.live:8880/jh14m036/1648897/30658
+#EXTINF:-1 tvg-id="" tvg-name="Kadet" tvg-logo="" group-title="Belgique",Kadet
+http://a1.hdflix.live:8880/jh14m036/1648897/30657
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO FHD" tvg-logo="" group-title="Belgique",NAT GEO FHD
+http://a1.hdflix.live:8880/jh14m036/1648897/30656
+#EXTINF:-1 tvg-id="" tvg-name="Nova Sport" tvg-logo="" group-title="Belgique",Nova Sport
+http://a1.hdflix.live:8880/jh14m036/1648897/30655
+#EXTINF:-1 tvg-id="" tvg-name="VTM FHD" tvg-logo="" group-title="Belgique",VTM FHD
+http://a1.hdflix.live:8880/jh14m036/1648897/30654
+#EXTINF:-1 tvg-id="" tvg-name="VOO SPORT World 2 HD" tvg-logo="" group-title="Belgique",VOO SPORT World 2 HD
+http://a1.hdflix.live:8880/jh14m036/1648897/30653
+#EXTINF:-1 tvg-id="" tvg-name="PLUG RTL HD" tvg-logo="" group-title="Belgique",PLUG RTL HD
+http://a1.hdflix.live:8880/jh14m036/1648897/30652
+#EXTINF:-1 tvg-id="" tvg-name="RADIO CONTACT LIVE" tvg-logo="" group-title="Belgique",RADIO CONTACT LIVE
+http://a1.hdflix.live:8880/jh14m036/1648897/30651
+#EXTINF:-1 tvg-id="" tvg-name="RTL Lux" tvg-logo="" group-title="Belgique",RTL Lux
+http://a1.hdflix.live:8880/jh14m036/1648897/30650
+#EXTINF:-1 tvg-id="" tvg-name="RTL LOUNGE HD" tvg-logo="" group-title="Belgique",RTL LOUNGE HD
+http://a1.hdflix.live:8880/jh14m036/1648897/30649
+#EXTINF:-1 tvg-id="" tvg-name="RTL HD" tvg-logo="" group-title="Belgique",RTL HD
+http://a1.hdflix.live:8880/jh14m036/1648897/30648
+#EXTINF:-1 tvg-id="" tvg-name="RTL LOUNGE HD" tvg-logo="" group-title="Belgique",RTL LOUNGE HD
+http://a1.hdflix.live:8880/jh14m036/1648897/30647
+#EXTINF:-1 tvg-id="" tvg-name="RTS Deux HD" tvg-logo="" group-title="Belgique",RTS Deux HD
+http://a1.hdflix.live:8880/jh14m036/1648897/30646
+#EXTINF:-1 tvg-id="" tvg-name="RTS Un HD" tvg-logo="" group-title="Belgique",RTS Un HD
+http://a1.hdflix.live:8880/jh14m036/1648897/30645
+#EXTINF:-1 tvg-id="" tvg-name="Tele Zurich" tvg-logo="" group-title="Belgique",Tele Zurich
+http://a1.hdflix.live:8880/jh14m036/1648897/30644
+#EXTINF:-1 tvg-id="" tvg-name="TVO HD" tvg-logo="" group-title="Belgique",TVO HD
+http://a1.hdflix.live:8880/jh14m036/1648897/30643
+#EXTINF:-1 tvg-id="" tvg-name="VEDIA" tvg-logo="" group-title="Belgique",VEDIA
+http://a1.hdflix.live:8880/jh14m036/1648897/30642
+#EXTINF:-1 tvg-id="" tvg-name="Vier FHD" tvg-logo="" group-title="Belgique",Vier FHD
+http://a1.hdflix.live:8880/jh14m036/1648897/30641
+#EXTINF:-1 tvg-id="" tvg-name="VIJF HD" tvg-logo="" group-title="Belgique",VIJF HD
+http://a1.hdflix.live:8880/jh14m036/1648897/30640
+#EXTINF:-1 tvg-id="" tvg-name="VITAYA HD" tvg-logo="" group-title="Belgique",VITAYA HD
+http://a1.hdflix.live:8880/jh14m036/1648897/30639
 
-
+#EXTINF:-1 tvg-id="" tvg-name="Pinko TV" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",Pinko TV
+http://a1.hdflix.live:8880/jh14m036/1648897/2985
+#EXTINF:-1 tvg-id="" tvg-name="Erotic XXX" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",Erotic XXX
+http://a1.hdflix.live:8880/jh14m036/1648897/2984
+#EXTINF:-1 tvg-id="" tvg-name="PlayBoy TV" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",PlayBoy TV
+http://a1.hdflix.live:8880/jh14m036/1648897/2983
+#EXTINF:-1 tvg-id="" tvg-name="Hustler TV" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",Hustler TV
+http://a1.hdflix.live:8880/jh14m036/1648897/2982
+#EXTINF:-1 tvg-id="" tvg-name="JASMIN.TV" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",JASMIN.TV
+http://a1.hdflix.live:8880/jh14m036/1648897/2981
+#EXTINF:-1 tvg-id="" tvg-name="French Lover" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",French Lover
+http://a1.hdflix.live:8880/jh14m036/1648897/2980
+#EXTINF:-1 tvg-id="" tvg-name="Venus HD" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",Venus HD
+http://a1.hdflix.live:8880/jh14m036/1648897/2979
+#EXTINF:-1 tvg-id="" tvg-name="DUSK" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",DUSK
+http://a1.hdflix.live:8880/jh14m036/1648897/2978
+#EXTINF:-1 tvg-id="" tvg-name="Brazzers" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",Brazzers
+http://a1.hdflix.live:8880/jh14m036/1648897/2977
+#EXTINF:-1 tvg-id="" tvg-name="Passie XXX" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",Passie XXX
+http://a1.hdflix.live:8880/jh14m036/1648897/2976
+#EXTINF:-1 tvg-id="" tvg-name="Penthouse" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",Penthouse
+http://a1.hdflix.live:8880/jh14m036/1648897/2975
+#EXTINF:-1 tvg-id="" tvg-name="Maidenvan Holland" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",Maidenvan Holland
+http://a1.hdflix.live:8880/jh14m036/1648897/2974
+#EXTINF:-1 tvg-id="" tvg-name="Superone" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",Superone
+http://a1.hdflix.live:8880/jh14m036/1648897/2973
+#EXTINF:-1 tvg-id="" tvg-name="Babes 1" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",Babes 1
+http://a1.hdflix.live:8880/jh14m036/1648897/2972
+#EXTINF:-1 tvg-id="" tvg-name="Babes 2" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",Babes 2
+http://a1.hdflix.live:8880/jh14m036/1648897/2971
+#EXTINF:-1 tvg-id="" tvg-name="Babes 3" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",Babes 3
+http://a1.hdflix.live:8880/jh14m036/1648897/2970
+#EXTINF:-1 tvg-id="" tvg-name="Babes 4" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",Babes 4
+http://a1.hdflix.live:8880/jh14m036/1648897/2969
+#EXTINF:-1 tvg-id="" tvg-name="Babes 5" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",Babes 5
+http://a1.hdflix.live:8880/jh14m036/1648897/2968
+#EXTINF:-1 tvg-id="" tvg-name="Babes 6" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",Babes 6
+http://a1.hdflix.live:8880/jh14m036/1648897/2967
+#EXTINF:-1 tvg-id="" tvg-name="Babes 8" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",Babes 8
+http://a1.hdflix.live:8880/jh14m036/1648897/2966
+#EXTINF:-1 tvg-id="" tvg-name="Babes 9" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",Babes 9
+http://a1.hdflix.live:8880/jh14m036/1648897/2965
+#EXTINF:-1 tvg-id="" tvg-name="CENTO XCENTO" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",CENTO XCENTO
+http://a1.hdflix.live:8880/jh14m036/1648897/2964
+#EXTINF:-1 tvg-id="" tvg-name="Erotic 2" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",Erotic 2
+http://a1.hdflix.live:8880/jh14m036/1648897/2963
+#EXTINF:-1 tvg-id="" tvg-name="Erotic 3" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",Erotic 3
+http://a1.hdflix.live:8880/jh14m036/1648897/2962
+#EXTINF:-1 tvg-id="" tvg-name="Erotic 7" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",Erotic 7
+http://a1.hdflix.live:8880/jh14m036/1648897/2961
+#EXTINF:-1 tvg-id="" tvg-name="Erotic 1" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",Erotic 1
+http://a1.hdflix.live:8880/jh14m036/1648897/2960
+#EXTINF:-1 tvg-id="" tvg-name="Miami TV" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",Miami TV
+http://a1.hdflix.live:8880/jh14m036/1648897/2959
+#EXTINF:-1 tvg-id="" tvg-name="VIP028:Red Light" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",Red Light
+http://a1.hdflix.live:8880/jh14m036/1648897/2958
+#EXTINF:-1 tvg-id="" tvg-name="SEXTREME" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",SEXTREME
+http://a1.hdflix.live:8880/jh14m036/1648897/33151
+#EXTINF:-1 tvg-id="" tvg-name="XY Plus HD" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",XY Plus HD
+http://a1.hdflix.live:8880/jh14m036/1648897/33150
+#EXTINF:-1 tvg-id="" tvg-name="Russian Night" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",Russian Night
+http://a1.hdflix.live:8880/jh14m036/1648897/33149
+#EXTINF:-1 tvg-id="" tvg-name="Barely Legal TV" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",Barely Legal TV
+http://a1.hdflix.live:8880/jh14m036/1648897/33148
+#EXTINF:-1 tvg-id="" tvg-name="Leo TV" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",Leo TV
+http://a1.hdflix.live:8880/jh14m036/1648897/33147
+#EXTINF:-1 tvg-id="" tvg-name="Vivid TV Europe" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",Vivid TV Europe
+http://a1.hdflix.live:8880/jh14m036/1648897/33146
+#EXTINF:-1 tvg-id="" tvg-name="DUSK!" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",DUSK!
+http://a1.hdflix.live:8880/jh14m036/1648897/33145
+#EXTINF:-1 tvg-id="" tvg-name="X-Dream TV" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",X-Dream TV
+http://a1.hdflix.live:8880/jh14m036/1648897/33144
+#EXTINF:-1 tvg-id="" tvg-name="XXL" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",XXL
+http://a1.hdflix.live:8880/jh14m036/1648897/33143
+#EXTINF:-1 tvg-id="" tvg-name="Max XXX 2" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",Max XXX 2
+http://a1.hdflix.live:8880/jh14m036/1648897/33142
+#EXTINF:-1 tvg-id="" tvg-name="Passion XXX" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",Passion XXX
+http://a1.hdflix.live:8880/jh14m036/1648897/33141
+#EXTINF:-1 tvg-id="" tvg-name="Reality Kings TV" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",Reality Kings TV
+http://a1.hdflix.live:8880/jh14m036/1648897/33140
+#EXTINF:-1 tvg-id="" tvg-name="Pink O TV" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",Pink O TV
+http://a1.hdflix.live:8880/jh14m036/1648897/33139
+#EXTINF:-1 tvg-id="" tvg-name="BALKAN EROTIC" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",BALKAN EROTIC
+http://a1.hdflix.live:8880/jh14m036/1648897/33138
+#EXTINF:-1 tvg-id="" tvg-name="Sext & Senso" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",Sext & Senso
+http://a1.hdflix.live:8880/jh14m036/1648897/33137
+#EXTINF:-1 tvg-id="" tvg-name="SCT Classic" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",SCT Classic
+http://a1.hdflix.live:8880/jh14m036/1648897/33136
+#EXTINF:-1 tvg-id="" tvg-name="Red XXX" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",Red XXX
+http://a1.hdflix.live:8880/jh14m036/1648897/33135
+#EXTINF:-1 tvg-id="" tvg-name="Dream Porn" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",Dream Porn
+http://a1.hdflix.live:8880/jh14m036/1648897/33134
+#EXTINF:-1 tvg-id="" tvg-name="Brazzers TV Europe Russian" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",Brazzers TV Europe Russian
+http://a1.hdflix.live:8880/jh14m036/1648897/33133
+#EXTINF:-1 tvg-id="" tvg-name="Hot TV" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",Hot TV
+http://a1.hdflix.live:8880/jh14m036/1648897/33132
+#EXTINF:-1 tvg-id="" tvg-name="Bang U Europe" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",Bang U Europe
+http://a1.hdflix.live:8880/jh14m036/1648897/33131
+#EXTINF:-1 tvg-id="" tvg-name="VENUS_LA1" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",VENUS_LA1
+http://a1.hdflix.live:8880/jh14m036/1648897/33130
+#EXTINF:-1 tvg-id="" tvg-name="Sexy HOT" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",Sexy HOT
+http://a1.hdflix.live:8880/jh14m036/1648897/33129
+#EXTINF:-1 tvg-id="" tvg-name="Meiden Van Holland Hard" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",Meiden Van Holland Hard
+http://a1.hdflix.live:8880/jh14m036/1648897/33128
+#EXTINF:-1 tvg-id="" tvg-name="X Bizarre" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",X Bizarre
+http://a1.hdflix.live:8880/jh14m036/1648897/33127
+#EXTINF:-1 tvg-id="" tvg-name="X Desire" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",X Desire
+http://a1.hdflix.live:8880/jh14m036/1648897/33126
+#EXTINF:-1 tvg-id="" tvg-name="X Bunga Bunga" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",X Bunga Bunga
+http://a1.hdflix.live:8880/jh14m036/1648897/33125
+#EXTINF:-1 tvg-id="" tvg-name="Pink Erotic" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",Pink Erotic
+http://a1.hdflix.live:8880/jh14m036/1648897/33124
+#EXTINF:-1 tvg-id="" tvg-name="Pink Erotic 2" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",Pink Erotic 2
+http://a1.hdflix.live:8880/jh14m036/1648897/33123
+#EXTINF:-1 tvg-id="" tvg-name="Pink Erotic 3" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",Pink Erotic 3
+http://a1.hdflix.live:8880/jh14m036/1648897/33122
+#EXTINF:-1 tvg-id="" tvg-name="Pink Erotic 4" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",Pink Erotic 4
+http://a1.hdflix.live:8880/jh14m036/1648897/33121
+#EXTINF:-1 tvg-id="" tvg-name="Pink Erotic 5" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",Pink Erotic 5
+http://a1.hdflix.live:8880/jh14m036/1648897/33120
+#EXTINF:-1 tvg-id="" tvg-name="Pink Erotic 6" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",Pink Erotic 6
+http://a1.hdflix.live:8880/jh14m036/1648897/33119
+#EXTINF:-1 tvg-id="" tvg-name="Pink Erotic 7" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",Pink Erotic 7
+http://a1.hdflix.live:8880/jh14m036/1648897/33118
+#EXTINF:-1 tvg-id="" tvg-name="Pink Erotic 8" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",Pink Erotic 8
+http://a1.hdflix.live:8880/jh14m036/1648897/33117
+#EXTINF:-1 tvg-id="" tvg-name="Bang U Europe US" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",Bang U Europe US
+http://a1.hdflix.live:8880/jh14m036/1648897/33116
+#EXTINF:-1 tvg-id="" tvg-name="TenX" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",TenX
+http://a1.hdflix.live:8880/jh14m036/1648897/33115
+#EXTINF:-1 tvg-id="" tvg-name="DORCEL" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",DORCEL
+http://a1.hdflix.live:8880/jh14m036/1648897/33114
+#EXTINF:-1 tvg-id="" tvg-name="Bang U" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",Bang U
+http://a1.hdflix.live:8880/jh14m036/1648897/33113
+#EXTINF:-1 tvg-id="" tvg-name="Playboy Europe" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",Playboy Europe
+http://a1.hdflix.live:8880/jh14m036/1648897/33112
+#EXTINF:-1 tvg-id="" tvg-name="Blue Hustler" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",Blue Hustler
+http://a1.hdflix.live:8880/jh14m036/1648897/33111
+#EXTINF:-1 tvg-id="" tvg-name="Hot Pleasure" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",Hot Pleasure
+http://a1.hdflix.live:8880/jh14m036/1648897/33110
+#EXTINF:-1 tvg-id="" tvg-name="Pinko Club" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",Pinko Club
+http://a1.hdflix.live:8880/jh14m036/1648897/33109
+#EXTINF:-1 tvg-id="" tvg-name="French Lover Europe" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",French Lover Europe
+http://a1.hdflix.live:8880/jh14m036/1648897/33108
+#EXTINF:-1 tvg-id="" tvg-name="Extrem" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",Extrem
+http://a1.hdflix.live:8880/jh14m036/1648897/33107
+#EXTINF:-1 tvg-id="" tvg-name="BRAZZERS TV EUROPE" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",BRAZZERS TV EUROPE
+http://a1.hdflix.live:8880/jh14m036/1648897/33106
+#EXTINF:-1 tvg-id="" tvg-name="Fake Taxi" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",Fake Taxi
+http://a1.hdflix.live:8880/jh14m036/1648897/33105
+#EXTINF:-1 tvg-id="" tvg-name="Emanuelle" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",Emanuelle
+http://a1.hdflix.live:8880/jh14m036/1648897/33104
+#EXTINF:-1 tvg-id="" tvg-name="Bangerz" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",Bangerz
+http://a1.hdflix.live:8880/jh14m036/1648897/33103
+#EXTINF:-1 tvg-id="" tvg-name="BARELY" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",BARELY
+http://a1.hdflix.live:8880/jh14m036/1648897/33102
+#EXTINF:-1 tvg-id="" tvg-name="Blonde Solo" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",Blonde Solo
+http://a1.hdflix.live:8880/jh14m036/1648897/33101
+#EXTINF:-1 tvg-id="" tvg-name="Fetish" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",Fetish
+http://a1.hdflix.live:8880/jh14m036/1648897/33100
+#EXTINF:-1 tvg-id="" tvg-name="Compilation" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",Compilation
+http://a1.hdflix.live:8880/jh14m036/1648897/33099
+#EXTINF:-1 tvg-id="" tvg-name="FAP TV PARODY" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",FAP TV PARODY
+http://a1.hdflix.live:8880/jh14m036/1648897/33098
+#EXTINF:-1 tvg-id="" tvg-name="XY Mix" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",XY Mix
+http://a1.hdflix.live:8880/jh14m036/1648897/33097
+#EXTINF:-1 tvg-id="" tvg-name="FAP TV 2" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",FAP TV 2
+http://a1.hdflix.live:8880/jh14m036/1648897/33096
+#EXTINF:-1 tvg-id="" tvg-name="FAP TV 3" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",FAP TV 3
+http://a1.hdflix.live:8880/jh14m036/1648897/33095
+#EXTINF:-1 tvg-id="" tvg-name="FAP TV ANAL" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",FAP TV ANAL
+http://a1.hdflix.live:8880/jh14m036/1648897/33094
+#EXTINF:-1 tvg-id="" tvg-name="VIVID RED HD" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",VIVID RED HD
+http://a1.hdflix.live:8880/jh14m036/1648897/33093
+#EXTINF:-1 tvg-id="" tvg-name="ERO-X" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",ERO-X
+http://a1.hdflix.live:8880/jh14m036/1648897/33092
+#EXTINF:-1 tvg-id="" tvg-name="Secret Circle TV" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",Secret Circle TV
+http://a1.hdflix.live:8880/jh14m036/1648897/33091
+#EXTINF:-1 tvg-id="" tvg-name="Candy TV" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",Candy TV
+http://a1.hdflix.live:8880/jh14m036/1648897/33090
+#EXTINF:-1 tvg-id="" tvg-name="Penthouse Quickies" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",Penthouse Quickies
+http://a1.hdflix.live:8880/jh14m036/1648897/33089
+#EXTINF:-1 tvg-id="" tvg-name="PRIVATE" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",PRIVATE
+http://a1.hdflix.live:8880/jh14m036/1648897/33088
+#EXTINF:-1 tvg-id="" tvg-name="X-MO GAY" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",X-MO GAY
+http://a1.hdflix.live:8880/jh14m036/1648897/33087
+#EXTINF:-1 tvg-id="" tvg-name="Latina" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",Latina
+http://a1.hdflix.live:8880/jh14m036/1648897/33086
+#EXTINF:-1 tvg-id="" tvg-name="Beate Uhse.TV" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",Beate Uhse.TV
+http://a1.hdflix.live:8880/jh14m036/1648897/33085
+#EXTINF:-1 tvg-id="" tvg-name="XY max" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",XY max
+http://a1.hdflix.live:8880/jh14m036/1648897/33084
+#EXTINF:-1 tvg-id="" tvg-name="Candyman Gay Men" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",Candyman Gay Men
+http://a1.hdflix.live:8880/jh14m036/1648897/33083
+#EXTINF:-1 tvg-id="" tvg-name="Fast Boyz Gay Men" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",Fast Boyz Gay Men
+http://a1.hdflix.live:8880/jh14m036/1648897/33082
+#EXTINF:-1 tvg-id="" tvg-name="France a Poil4" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",France a Poil4
+http://a1.hdflix.live:8880/jh14m036/1648897/33081
+#EXTINF:-1 tvg-id="" tvg-name="Free X TV 2" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",Free X TV 2
+http://a1.hdflix.live:8880/jh14m036/1648897/33080
+#EXTINF:-1 tvg-id="" tvg-name="Free X TV" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",Free X TV
+http://a1.hdflix.live:8880/jh14m036/1648897/33079
+#EXTINF:-1 tvg-id="" tvg-name="SEXTO & SENSO" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",SEXTO & SENSO
+http://a1.hdflix.live:8880/jh14m036/1648897/33078
+#EXTINF:-1 tvg-id="" tvg-name="XXX Stars FHD" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",XXX Stars FHD
+http://a1.hdflix.live:8880/jh14m036/1648897/33077
+#EXTINF:-1 tvg-id="" tvg-name="JASMIN.TV HD" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",JASMIN.TV HD
+http://a1.hdflix.live:8880/jh14m036/1648897/33076
+#EXTINF:-1 tvg-id="" tvg-name="Max XXX" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",Max XXX
+http://a1.hdflix.live:8880/jh14m036/1648897/33075
+#EXTINF:-1 tvg-id="" tvg-name="VIVID TV" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",VIVID TV
+http://a1.hdflix.live:8880/jh14m036/1648897/33074
+#EXTINF:-1 tvg-id="" tvg-name="X-MO" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",X-MO
+http://a1.hdflix.live:8880/jh14m036/1648897/33073
+#EXTINF:-1 tvg-id="" tvg-name="O-la-la" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",O-la-la
+http://a1.hdflix.live:8880/jh14m036/1648897/60658
+#EXTINF:-1 tvg-id="" tvg-name="Satisfaction_" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",Satisfaction_
+http://a1.hdflix.live:8880/jh14m036/1648897/60659
+#EXTINF:-1 tvg-id="" tvg-name="Evil_Angel" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",Evil_Angel
+http://a1.hdflix.live:8880/jh14m036/1648897/60660
+#EXTINF:-1 tvg-id="" tvg-name="XYPlus TV" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",XYPlus TV
+http://a1.hdflix.live:8880/jh14m036/1648897/60661
+#EXTINF:-1 tvg-id="" tvg-name="Gay Channel" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",Gay Channel
+http://a1.hdflix.live:8880/jh14m036/1648897/60662
+#EXTINF:-1 tvg-id="" tvg-name="NUART" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",NUART
+http://a1.hdflix.live:8880/jh14m036/1648897/60663
+#EXTINF:-1 tvg-id="" tvg-name="Penthouse Gold" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",Penthouse Gold
+http://a1.hdflix.live:8880/jh14m036/1648897/60664
+#EXTINF:-1 tvg-id="" tvg-name="Penthouse 2" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",Penthouse 2
+http://a1.hdflix.live:8880/jh14m036/1648897/60665
+#EXTINF:-1 tvg-id="" tvg-name="Penthouse 1" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",Penthouse 1
+http://a1.hdflix.live:8880/jh14m036/1648897/60666
+#EXTINF:-1 tvg-id="" tvg-name="Max 1" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",Max 1
+http://a1.hdflix.live:8880/jh14m036/1648897/60667
+#EXTINF:-1 tvg-id="" tvg-name="HotClub 9" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",HotClub 9
+http://a1.hdflix.live:8880/jh14m036/1648897/60668
+#EXTINF:-1 tvg-id="" tvg-name="HotClub 8" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",HotClub 8
+http://a1.hdflix.live:8880/jh14m036/1648897/60669
+#EXTINF:-1 tvg-id="" tvg-name="HotClub 7" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",HotClub 7
+http://a1.hdflix.live:8880/jh14m036/1648897/60670
+#EXTINF:-1 tvg-id="" tvg-name="HotClub 6" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",HotClub 6
+http://a1.hdflix.live:8880/jh14m036/1648897/60671
+#EXTINF:-1 tvg-id="" tvg-name="HotClub 5" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",HotClub 5
+http://a1.hdflix.live:8880/jh14m036/1648897/60672
+#EXTINF:-1 tvg-id="" tvg-name="HotClub 4" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",HotClub 4
+http://a1.hdflix.live:8880/jh14m036/1648897/60673
+#EXTINF:-1 tvg-id="" tvg-name="HotClub 3" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",HotClub 3
+http://a1.hdflix.live:8880/jh14m036/1648897/60674
+#EXTINF:-1 tvg-id="" tvg-name="HotClub 2" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",HotClub 2
+http://a1.hdflix.live:8880/jh14m036/1648897/60675
+#EXTINF:-1 tvg-id="" tvg-name="HotClub 1" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",HotClub 1
+http://a1.hdflix.live:8880/jh14m036/1648897/60676
+#EXTINF:-1 tvg-id="" tvg-name="Redlight HD" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",Redlight HD
+http://a1.hdflix.live:8880/jh14m036/1648897/60677
+#EXTINF:-1 tvg-id="" tvg-name="Prıvate TV HD" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",Prıvate TV HD
+http://a1.hdflix.live:8880/jh14m036/1648897/60678
+#EXTINF:-1 tvg-id="" tvg-name="Dorcel XXX HD" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",Dorcel XXX HD
+http://a1.hdflix.live:8880/jh14m036/1648897/60679
+#EXTINF:-1 tvg-id="" tvg-name="Hot XXL HD" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",Hot XXL HD
+http://a1.hdflix.live:8880/jh14m036/1648897/60680
+#EXTINF:-1 tvg-id="" tvg-name="Erox HD" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",Erox HD
+http://a1.hdflix.live:8880/jh14m036/1648897/60681
+#EXTINF:-1 tvg-id="" tvg-name="Erox XXX HD" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",Erox XXX HD
+http://a1.hdflix.live:8880/jh14m036/1648897/60682
+#EXTINF:-1 tvg-id="" tvg-name="Prive TV" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",Prive TV
+http://a1.hdflix.live:8880/jh14m036/1648897/60683
+#EXTINF:-1 tvg-id="" tvg-name="Taboo" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",Taboo
+http://a1.hdflix.live:8880/jh14m036/1648897/60684
+#EXTINF:-1 tvg-id="" tvg-name="Oldtimer" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",Oldtimer
+http://a1.hdflix.live:8880/jh14m036/1648897/60685
+#EXTINF:-1 tvg-id="" tvg-name="SINSATIONS: MOFOS 2" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",SINSATIONS: MOFOS 2
+http://a1.hdflix.live:8880/jh14m036/1648897/60686
+#EXTINF:-1 tvg-id="" tvg-name="Nuart TV Europe" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",Nuart TV Europe
+http://a1.hdflix.live:8880/jh14m036/1648897/60687
+#EXTINF:-1 tvg-id="" tvg-name="Playhouse" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",Playhouse
+http://a1.hdflix.live:8880/jh14m036/1648897/60688
+#EXTINF:-1 tvg-id="" tvg-name="Milf TV" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",Milf TV
+http://a1.hdflix.live:8880/jh14m036/1648897/60689
+#EXTINF:-1 tvg-id="" tvg-name="Balkan Hot" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",Balkan Hot
+http://a1.hdflix.live:8880/jh14m036/1648897/60690
+#EXTINF:-1 tvg-id="" tvg-name="Balkan Hot 2" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",Balkan Hot 2
+http://a1.hdflix.live:8880/jh14m036/1648897/60691
+#EXTINF:-1 tvg-id="" tvg-name="Just 89" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",Just 89
+http://a1.hdflix.live:8880/jh14m036/1648897/60692
+#EXTINF:-1 tvg-id="" tvg-name="A3 Bikini TV" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",A3 Bikini TV
+http://a1.hdflix.live:8880/jh14m036/1648897/60693
+#EXTINF:-1 tvg-id="" tvg-name="Exxxotica TV" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",Exxxotica TV
+http://a1.hdflix.live:8880/jh14m036/1648897/60694
+#EXTINF:-1 tvg-id="" tvg-name="CZECH STREETS F" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",CZECH STREETS F
+http://a1.hdflix.live:8880/jh14m036/1648897/60695
+#EXTINF:-1 tvg-id="" tvg-name="ALBA 6" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",ALBA 6
+http://a1.hdflix.live:8880/jh14m036/1648897/60696
+#EXTINF:-1 tvg-id="" tvg-name="ALBA 5" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",ALBA 5
+http://a1.hdflix.live:8880/jh14m036/1648897/60697
+#EXTINF:-1 tvg-id="" tvg-name="ALBA 4" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",ALBA 4
+http://a1.hdflix.live:8880/jh14m036/1648897/60698
+#EXTINF:-1 tvg-id="" tvg-name="ALBA 3" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",ALBA 3
+http://a1.hdflix.live:8880/jh14m036/1648897/60699
+#EXTINF:-1 tvg-id="" tvg-name="ALBA 2" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",ALBA 2
+http://a1.hdflix.live:8880/jh14m036/1648897/60700
+#EXTINF:-1 tvg-id="" tvg-name="ALBA 1" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",ALBA 1
+http://a1.hdflix.live:8880/jh14m036/1648897/60701
+#EXTINF:-1 tvg-id="" tvg-name="SEXT6SENSO" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",SEXT6SENSO
+http://a1.hdflix.live:8880/jh14m036/1648897/60702
+#EXTINF:-1 tvg-id="" tvg-name="VIP:Russian" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",VIP:Russian
+http://a1.hdflix.live:8880/jh14m036/1648897/60703
+#EXTINF:-1 tvg-id="" tvg-name="VIP:Threesome" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",VIP:Threesome
+http://a1.hdflix.live:8880/jh14m036/1648897/60704
+#EXTINF:-1 tvg-id="" tvg-name="VIP:Cuckold" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",VIP:Cuckold
+http://a1.hdflix.live:8880/jh14m036/1648897/60705
+#EXTINF:-1 tvg-id="" tvg-name="VIP:Teen" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",VIP:Teen
+http://a1.hdflix.live:8880/jh14m036/1648897/60706
+#EXTINF:-1 tvg-id="" tvg-name="A Casa das Brasileirinhas 1" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",A Casa das Brasileirinhas 1
+http://a1.hdflix.live:8880/jh14m036/1648897/60711
+#EXTINF:-1 tvg-id="" tvg-name="A Casa das Brasileirinhas 2" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",A Casa das Brasileirinhas 2
+http://a1.hdflix.live:8880/jh14m036/1648897/60712
+#EXTINF:-1 tvg-id="" tvg-name="Anal" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",Anal
+http://a1.hdflix.live:8880/jh14m036/1648897/60713
+#EXTINF:-1 tvg-id="" tvg-name="ATRIZES 2 FHD" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",ATRIZES 2 FHD
+http://a1.hdflix.live:8880/jh14m036/1648897/60714
+#EXTINF:-1 tvg-id="" tvg-name="ATRIZES FHD" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",ATRIZES FHD
+http://a1.hdflix.live:8880/jh14m036/1648897/60715
+#EXTINF:-1 tvg-id="" tvg-name="BI MASCULINO" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",BI MASCULINO
+http://a1.hdflix.live:8880/jh14m036/1648897/60716
+#EXTINF:-1 tvg-id="" tvg-name="BRASILEIRINHAS 2" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",BRASILEIRINHAS 2
+http://a1.hdflix.live:8880/jh14m036/1648897/60717
+#EXTINF:-1 tvg-id="" tvg-name="BRASILEIRINHAS 3" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",BRASILEIRINHAS 3
+http://a1.hdflix.live:8880/jh14m036/1648897/60718
+#EXTINF:-1 tvg-id="" tvg-name="ESCOLA DAS BRASILEIRINHAS" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",ESCOLA DAS BRASILEIRINHAS
+http://a1.hdflix.live:8880/jh14m036/1648897/60719
+#EXTINF:-1 tvg-id="" tvg-name="FAP TV 4" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",FAP TV 4
+http://a1.hdflix.live:8880/jh14m036/1648897/60720
+#EXTINF:-1 tvg-id="" tvg-name="FAP TV COMPILATION" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",FAP TV COMPILATION
+http://a1.hdflix.live:8880/jh14m036/1648897/60721
+#EXTINF:-1 tvg-id="" tvg-name="FUDELIDADE" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",FUDELIDADE
+http://a1.hdflix.live:8880/jh14m036/1648897/60722
+#EXTINF:-1 tvg-id="" tvg-name="HENTAI 01 HD" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",HENTAI 01 HD
+http://a1.hdflix.live:8880/jh14m036/1648897/60723
+#EXTINF:-1 tvg-id="" tvg-name="HENTAI 02 HD" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",HENTAI 02 HD
+http://a1.hdflix.live:8880/jh14m036/1648897/60724
+#EXTINF:-1 tvg-id="" tvg-name="HENTAI 03 HD" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",HENTAI 03 HD
+http://a1.hdflix.live:8880/jh14m036/1648897/60725
+#EXTINF:-1 tvg-id="" tvg-name="Lesbicas" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",Lesbicas
+http://a1.hdflix.live:8880/jh14m036/1648897/60726
+#EXTINF:-1 tvg-id="" tvg-name="LESBICAS 01" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",LESBICAS 01
+http://a1.hdflix.live:8880/jh14m036/1648897/60727
+#EXTINF:-1 tvg-id="" tvg-name="LESBICAS 02" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",LESBICAS 02
+http://a1.hdflix.live:8880/jh14m036/1648897/60728
+#EXTINF:-1 tvg-id="" tvg-name="MOFOS 1" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",MOFOS 1
+http://a1.hdflix.live:8880/jh14m036/1648897/60729
+#EXTINF:-1 tvg-id="" tvg-name="MOFOS 2" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",MOFOS 2
+http://a1.hdflix.live:8880/jh14m036/1648897/60730
+#EXTINF:-1 tvg-id="" tvg-name="MOFOS 3" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",MOFOS 3
+http://a1.hdflix.live:8880/jh14m036/1648897/60731
+#EXTINF:-1 tvg-id="" tvg-name="PARODY" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",PARODY
+http://a1.hdflix.live:8880/jh14m036/1648897/60732
+#EXTINF:-1 tvg-id="" tvg-name="PORN FHD" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",PORN FHD
+http://a1.hdflix.live:8880/jh14m036/1648897/60733
+#EXTINF:-1 tvg-id="" tvg-name="PORN HUB FHD" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",PORN HUB FHD
+http://a1.hdflix.live:8880/jh14m036/1648897/60734
+#EXTINF:-1 tvg-id="" tvg-name="RUSNOCH" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",RUSNOCH
+http://a1.hdflix.live:8880/jh14m036/1648897/60735
+#EXTINF:-1 tvg-id="" tvg-name="Thammy" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",Thammy
+http://a1.hdflix.live:8880/jh14m036/1648897/60737
+#EXTINF:-1 tvg-id="" tvg-name="TRANS 01" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",TRANS 01
+http://a1.hdflix.live:8880/jh14m036/1648897/60738
+#EXTINF:-1 tvg-id="" tvg-name="Trans 1" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",Trans 1
+http://a1.hdflix.live:8880/jh14m036/1648897/60739
+#EXTINF:-1 tvg-id="" tvg-name="Trans 2" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",Trans 2
+http://a1.hdflix.live:8880/jh14m036/1648897/60740
+#EXTINF:-1 tvg-id="" tvg-name="SHALUN TV" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",SHALUN TV
+http://a1.hdflix.live:8880/jh14m036/1648897/60736
+#EXTINF:-1 tvg-id="" tvg-name="Trans 3" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",Trans 3
+http://a1.hdflix.live:8880/jh14m036/1648897/60741
+#EXTINF:-1 tvg-id="" tvg-name="Trans 4" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",Trans 4
+http://a1.hdflix.live:8880/jh14m036/1648897/60742
+#EXTINF:-1 tvg-id="" tvg-name="X1" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",X1
+http://a1.hdflix.live:8880/jh14m036/1648897/60743
+#EXTINF:-1 tvg-id="" tvg-name="O la la TV" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",O la la TV
+http://a1.hdflix.live:8880/jh14m036/1648897/60744
+#EXTINF:-1 tvg-id="" tvg-name="Lesbian Affair HD" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",Lesbian Affair HD
+http://a1.hdflix.live:8880/jh14m036/1648897/60745
+#EXTINF:-1 tvg-id="" tvg-name="SEX ATION HD" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",SEX ATION HD
+http://a1.hdflix.live:8880/jh14m036/1648897/60746
+#EXTINF:-1 tvg-id="" tvg-name="SCT" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",SCT
+http://a1.hdflix.live:8880/jh14m036/1648897/60747
+#EXTINF:-1 tvg-id="" tvg-name="Шалун TV" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",Шалун TV
+http://a1.hdflix.live:8880/jh14m036/1648897/60748
+#EXTINF:-1 tvg-id="" tvg-name="Blue Hustler Europe" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",Blue Hustler Europe
+http://a1.hdflix.live:8880/jh14m036/1648897/60749
+#EXTINF:-1 tvg-id="" tvg-name="Russian Night Europe" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",Russian Night Europe
+http://a1.hdflix.live:8880/jh14m036/1648897/60750
+#EXTINF:-1 tvg-id="" tvg-name="Pinko Club 2" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",Pinko Club 2
+http://a1.hdflix.live:8880/jh14m036/1648897/60751
+#EXTINF:-1 tvg-id="" tvg-name="Free X TV HQ" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",Free X TV HQ
+http://a1.hdflix.live:8880/jh14m036/1648897/60752
+#EXTINF:-1 tvg-id="" tvg-name="Candyman" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",Candyman
+http://a1.hdflix.live:8880/jh14m036/1648897/60753
+#EXTINF:-1 tvg-id="" tvg-name="Fashion TV" tvg-logo="https://www.logolynx.com/images/logolynx/s_80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="Adult",Fashion TV
+http://a1.hdflix.live:8880/jh14m036/1648897/60754
