@@ -374,6 +374,27 @@ http://vvn.neoredi.com/iptv/ch308?code=350151895081936&key=47552
 #EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/309.png" group-title="NeoTV France",A LA Carte 10
 http://vvn.neoredi.com/iptv/ch309?code=350151895081936&key=21935
 
+#EXTINF:0 group-title="Fr Box Office"tvg-logo="http://logo.ddnb.tn/logochanel/300.png" group-title="NeoTV BoxOffice FR",Fr Box Office 1
+http://vvn.neoredi.com/iptv/ch300?code=350151895081936&key=43064
+#EXTINF:0 group-title="Fr Box Office"tvg-logo="http://logo.ddnb.tn/logochanel/301.png" group-title="NeoTV BoxOffice FR",Fr Box Office 2
+http://vvn.neoredi.com/iptv/ch301?code=350151895081936&key=55123
+#EXTINF:0 group-title="Fr Box Office"tvg-logo="http://logo.ddnb.tn/logochanel/302.png" group-title="NeoTV BoxOffice FR",Fr Box Office 3
+http://vvn.neoredi.com/iptv/ch302?code=350151895081936&key=40164
+#EXTINF:0 group-title="Fr Box Office"tvg-logo="http://logo.ddnb.tn/logochanel/303.png" group-title="NeoTV BoxOffice FR",Fr Box Office 4
+http://vvn.neoredi.com/iptv/ch303?code=350151895081936&key=64711
+#EXTINF:0 group-title="Fr Box Office"tvg-logo="http://logo.ddnb.tn/logochanel/304.png" group-title="NeoTV BoxOffice FR",Fr Box Office 5
+http://vvn.neoredi.com/iptv/ch304?code=350151895081936&key=21546
+#EXTINF:0 group-title="Fr Box Office"tvg-logo="http://logo.ddnb.tn/logochanel/305.png" group-title="NeoTV BoxOffice FR",Fr Box Office 6
+http://vvn.neoredi.com/iptv/ch305?code=350151895081936&key=29600
+#EXTINF:0 group-title="Fr Box Office"tvg-logo="http://logo.ddnb.tn/logochanel/306.png" group-title="NeoTV BoxOffice FR",Fr Box Office 7
+http://vvn.neoredi.com/iptv/ch306?code=350151895081936&key=27455
+#EXTINF:0 group-title="Fr Box Office"tvg-logo="http://logo.ddnb.tn/logochanel/307.png" group-title="NeoTV BoxOffice FR",Fr Box Office 8
+http://vvn.neoredi.com/iptv/ch307?code=350151895081936&key=25771
+#EXTINF:0 group-title="Fr Box Office"tvg-logo="http://logo.ddnb.tn/logochanel/308.png" group-title="NeoTV BoxOffice FR",Fr Box Office 9
+http://vvn.neoredi.com/iptv/ch308?code=350151895081936&key=20362
+#EXTINF:0 group-title="Fr Box Office"tvg-logo="http://logo.ddnb.tn/logochanel/309.png" group-title="NeoTV BoxOffice FR",Fr Box Office 10
+http://vvn.neoredi.com/iptv/ch309?code=350151895081936&key=59845
+
 #EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3605.png" group-title="NeoTV USA",ABC News
 http://vvn.neoredi.com/iptv/ch3605?code=350151895081936&key=21699
 #EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3604.png" group-title="NeoTV USA",Fox News
