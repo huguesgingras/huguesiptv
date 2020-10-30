@@ -373,3 +373,92 @@ http://vvn.neoredi.com/iptv/ch307?code=350151895081936&key=45255
 http://vvn.neoredi.com/iptv/ch308?code=350151895081936&key=47552
 #EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/309.png" group-title="NeoTV France",A LA Carte 10
 http://vvn.neoredi.com/iptv/ch309?code=350151895081936&key=21935
+
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3605.png" group-title="NeoTV USA",ABC News
+http://vvn.neoredi.com/iptv/ch3605?code=350151895081936&key=21699
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3604.png" group-title="NeoTV USA",Fox News
+http://vvn.neoredi.com/iptv/ch3604?code=350151895081936&key=59493
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3603.png" group-title="NeoTV USA",CNN US
+http://vvn.neoredi.com/iptv/ch3603?code=350151895081936&key=30398
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3602.png" group-title="NeoTV USA",MSNBC
+http://vvn.neoredi.com/iptv/ch3602?code=350151895081936&key=45890
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3601.png" group-title="NeoTV USA",CNBC
+http://vvn.neoredi.com/iptv/ch3601?code=350151895081936&key=24795
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3600.png" group-title="NeoTV USA",Fox Business
+http://vvn.neoredi.com/iptv/ch3600?code=350151895081936&key=14949
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3507.png" group-title="NeoTV USA",ABC
+http://vvn.neoredi.com/iptv/ch3507?code=350151895081936&key=56768
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3536.png" group-title="NeoTV USA",SHOWTIME
+http://vvn.neoredi.com/iptv/ch3536?code=350151895081936&key=43025
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3537.png" group-title="NeoTV USA",USA Net.
+http://vvn.neoredi.com/iptv/ch3537?code=350151895081936&key=19938
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3538.png" group-title="NeoTV USA",MLB Net.
+http://vvn.neoredi.com/iptv/ch3538?code=350151895081936&key=21793
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3509.png" group-title="NeoTV USA",TBS HD
+http://vvn.neoredi.com/iptv/ch3509?code=350151895081936&key=49323
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3508.png" group-title="NeoTV USA",TNT HD
+http://vvn.neoredi.com/iptv/ch3508?code=350151895081936&key=25024
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3520.png" group-title="NeoTV USA",FOX HD
+http://vvn.neoredi.com/iptv/ch3520?code=350151895081936&key=62235
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3528.png" group-title="NeoTV USA",AMC HD
+http://vvn.neoredi.com/iptv/ch3528?code=350151895081936&key=47586
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3506.png" group-title="NeoTV USA",ET USA
+http://vvn.neoredi.com/iptv/ch3506?code=350151895081936&key=45192
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3519.png" group-title="NeoTV USA",CBS HD
+http://vvn.neoredi.com/iptv/ch3519?code=350151895081936&key=38067
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3503.png" group-title="NeoTV USA",TLC HD
+http://vvn.neoredi.com/iptv/ch3503?code=350151895081936&key=19225
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3535.png" group-title="NeoTV USA",HBO
+http://vvn.neoredi.com/iptv/ch3535?code=350151895081936&key=41972
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3534.png" group-title="NeoTV USA",HBO Zone
+http://vvn.neoredi.com/iptv/ch3534?code=350151895081936&key=40000
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3533.png" group-title="NeoTV USA",HBO Signature
+http://vvn.neoredi.com/iptv/ch3533?code=350151895081936&key=37389
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3532.png" group-title="NeoTV USA",HBO Comedy
+http://vvn.neoredi.com/iptv/ch3532?code=350151895081936&key=46341
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3531.png" group-title="NeoTV USA",FXX
+http://vvn.neoredi.com/iptv/ch3531?code=350151895081936&key=46681
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3530.png" group-title="NeoTV USA",FX
+http://vvn.neoredi.com/iptv/ch3530?code=350151895081936&key=24024
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3527.png" group-title="NeoTV USA",Action Max HD
+http://vvn.neoredi.com/iptv/ch3527?code=350151895081936&key=14217
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3504.png" group-title="NeoTV USA",Fox Soccer Plus
+http://vvn.neoredi.com/iptv/ch3504?code=350151895081936&key=32760
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3501.png" group-title="NeoTV USA",HG TV
+http://vvn.neoredi.com/iptv/ch3501?code=350151895081936&key=63676
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3502.png" group-title="NeoTV USA",AXS TV
+http://vvn.neoredi.com/iptv/ch3502?code=350151895081936&key=56699
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3529.png" group-title="NeoTV USA",Beinsports
+http://vvn.neoredi.com/iptv/ch3529?code=350151895081936&key=14210
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3522.png" group-title="NeoTV USA",TSN 1 HD
+http://vvn.neoredi.com/iptv/ch3522?code=350151895081936&key=22069
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3525.png" group-title="NeoTV USA",TSN 4 HD
+http://vvn.neoredi.com/iptv/ch3525?code=350151895081936&key=61147
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3523.png" group-title="NeoTV USA",TSN 2 HD
+http://vvn.neoredi.com/iptv/ch3523?code=350151895081936&key=14028
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3524.png" group-title="NeoTV USA",TSN 3 HD
+http://vvn.neoredi.com/iptv/ch3524?code=350151895081936&key=40809
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3526.png" group-title="NeoTV USA",TSN 5 HD
+http://vvn.neoredi.com/iptv/ch3526?code=350151895081936&key=44698
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3521.png" group-title="NeoTV USA",NBC HD
+http://vvn.neoredi.com/iptv/ch3521?code=350151895081936&key=25448
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3518.png" group-title="NeoTV USA",WWE net.
+http://vvn.neoredi.com/iptv/ch3518?code=350151895081936&key=54122
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3517.png" group-title="NeoTV USA",NHL net. HD
+http://vvn.neoredi.com/iptv/ch3517?code=350151895081936&key=46770
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3516.png" group-title="NeoTV USA",NBC Sports net.
+http://vvn.neoredi.com/iptv/ch3516?code=350151895081936&key=60011
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3515.png" group-title="NeoTV USA",NBA HD
+http://vvn.neoredi.com/iptv/ch3515?code=350151895081936&key=44974
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3513.png" group-title="NeoTV USA",Fox Sport 1 HD
+http://vvn.neoredi.com/iptv/ch3513?code=350151895081936&key=58702
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3514.png" group-title="NeoTV USA",Fox Sport 2 HD
+http://vvn.neoredi.com/iptv/ch3514?code=350151895081936&key=59915
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3512.png" group-title="NeoTV USA",ESPN2 HD
+http://vvn.neoredi.com/iptv/ch3512?code=350151895081936&key=24559
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3511.png" group-title="NeoTV USA",ESPN HD
+http://vvn.neoredi.com/iptv/ch3511?code=350151895081936&key=11737
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3510.png" group-title="NeoTV USA",ESPN News HD
+http://vvn.neoredi.com/iptv/ch3510?code=350151895081936&key=44832
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3505.png" group-title="NeoTV USA",Willow cricket HD
+http://vvn.neoredi.com/iptv/ch3505?code=350151895081936&key=34167
