@@ -29,6 +29,12 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
 #EXTINF:-1 tvg-id="tele.quebec.civq.quebec.ca" tvg-name="Tele Quebec" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/07/T%C3%A9l%C3%A9-Qu%C3%A9bec.png" group-title="Quebec WEB",Tele Quebec
 https://teleqmmd.mmdlive.lldns.net/teleqmmd/f386e3b206814e1f8c8c1c71c0f8e748/chunklist_b2592000.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/dSvUExH.png" group-title="Quebec WEB",Canal Savoir
+https://hls.savoir.media/live/stream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/wwmapsS.png" group-title="Quebec WEB",CPAC
+https://bcsecurelivehls-i.akamaihd.net/hls/live/680604/1242843915001_3/master.m3u8
+
 #EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/207.png" group-title="NeoTV France",TF1 HD
 http://vvn.neoredi.com/iptv/ch207?code=350151895081936&key=48820
 #EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/208.png" group-title="NeoTV France",M6 HD
