@@ -32,6 +32,30 @@ https://teleqmmd.mmdlive.lldns.net/teleqmmd/f386e3b206814e1f8c8c1c71c0f8e748/chu
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/dSvUExH.png" group-title="Quebec WEB",Canal Savoir
 https://hls.savoir.media/live/stream.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/dSvUExH.png" group-title="Quebec WEB",Canal Savoir
+http://clientarea.ltd:2052/110038/110038/29829
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/06/addik-tv.png" group-title="Quebec WEB",ADDIK TV
+http://clientarea.ltd:2052/110038/110038/29831
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/06/Canal-D.png" group-title="Quebec WEB",CANAL D
+http://clientarea.ltd:2052/110038/110038/29828
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/07/z-tele-hd.jpeg" group-title="Quebec WEB",Z TELE
+http://clientarea.ltd:2052/110038/110038/29826
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/06/Cinepop_logo.png" group-title="Quebec WEB",CINE POP
+http://clientarea.ltd:2052/110038/110038/29808
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/07/Zeste.png" group-title="Quebec WEB",ZESTE
+http://clientarea.ltd:2052/110038/110038/29804
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/07/TVA-Sports.png" group-title="Quebec WEB",TVA SPORTS 1
+http://clientarea.ltd:2052/110038/110038/29803
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/06/LCN.png" group-title="Quebec WEB",LCN
+http://clientarea.ltd:2052/110038/110038/29795
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/wwmapsS.png" group-title="Quebec WEB",CPAC
 https://bcsecurelivehls-i.akamaihd.net/hls/live/680604/1242843915001_3/master.m3u8
 
